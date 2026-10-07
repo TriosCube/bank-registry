@@ -1,0 +1,28 @@
+[
+ {
+  "id": "ec-central-bank-of-ecuador",
+  "name": "Central Bank of Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797646"
+  },
+  "website": "https://www.bce.ec",
+  "logo": {
+   "path": "logos/ec/central-bank-of-ecuador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_del_Banco_Central_del_Ecuador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ec-banco-hipotecario-del-ecuador",
+  "name": "Banco Hipotecario del Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118289840"
+  }
+ }
+]

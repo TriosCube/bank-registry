@@ -1,0 +1,13 @@
+[
+ {
+  "id": "lb-banque-du-liban",
+  "name": "Banque du Liban",
+  "country": "LB",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776564"
+  },
+  "website": "http://www.bdl.gov.lb/"
+ }
+]

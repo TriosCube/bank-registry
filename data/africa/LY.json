@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ly-central-bank-of-libya",
+  "name": "Central Bank of Libya",
+  "country": "LY",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q58234"
+  },
+  "website": "http://cbl.gov.ly",
+  "logo": {
+   "path": "logos/ly/central-bank-of-libya.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:LogoCBL.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

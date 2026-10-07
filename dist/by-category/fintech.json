@@ -1,0 +1,287 @@
+[
+ {
+  "id": "ng-carbon",
+  "name": "Carbon",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "565"
+  },
+  "logo": {
+   "path": "logos/ng/carbon.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cowrywise",
+  "name": "Cowrywise",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "website": "https://cowrywise.com"
+ },
+ {
+  "id": "ng-eyowo",
+  "name": "Eyowo",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50126"
+  },
+  "logo": {
+   "path": "logos/ng/eyowo.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-flutterwave-mfb",
+  "name": "Flutterwave MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "090567"
+  },
+  "logo": {
+   "path": "logos/ng/flutterwave-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gomoney",
+  "name": "GoMoney",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100022"
+  },
+  "logo": {
+   "path": "logos/ng/gomoney.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kongapay-kongapay-technologies-limited-formerly-zinternet",
+  "name": "KONGAPAY (Kongapay Technologies Limited)(formerly Zinternet)",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100025"
+  },
+  "logo": {
+   "path": "logos/ng/kongapay-kongapay-technologies-limited-formerly-zinternet.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kuda-bank",
+  "name": "Kuda Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50211"
+  },
+  "logo": {
+   "path": "logos/ng/kuda-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-moniepoint-mfb-ng",
+  "name": "Moniepoint MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50515"
+  },
+  "ussd": "*5573#",
+  "logo": {
+   "path": "logos/ng/moniepoint-mfb-ng.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paycom",
+  "name": "OPay Digital Services Limited (OPay)",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "999992"
+  },
+  "ussd": "*955#",
+  "logo": {
+   "path": "logos/ng/paycom.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paga",
+  "name": "Paga",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100002"
+  },
+  "logo": {
+   "path": "logos/ng/paga.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-palmpay",
+  "name": "PalmPay",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "999991"
+  },
+  "ussd": "*861#",
+  "logo": {
+   "path": "logos/ng/palmpay.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paystack-mfb",
+  "name": "Paystack MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "51457"
+  },
+  "logo": {
+   "path": "logos/ng/paystack-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paystack-titan",
+  "name": "Paystack-Titan",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100039"
+  },
+  "logo": {
+   "path": "logos/ng/paystack-titan.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-piggyvest",
+  "name": "PiggyVest",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "website": "https://www.piggyvest.com"
+ },
+ {
+  "id": "ng-pocket-app",
+  "name": "Pocket App",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "00716"
+  },
+  "logo": {
+   "path": "logos/ng/pocket-app.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-tangerine-money",
+  "name": "Tangerine Money",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "51269"
+  },
+  "logo": {
+   "path": "logos/ng/tangerine-money.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "in-phonepe",
+  "name": "PhonePe",
+  "country": "IN",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.phonepe.com"
+ },
+ {
+  "id": "sg-grab-financial",
+  "name": "Grab Financial",
+  "country": "SG",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.grab.com"
+ },
+ {
+  "id": "se-klarna",
+  "name": "Klarna",
+  "country": "SE",
+  "region": "europe",
+  "category": "fintech",
+  "website": "https://www.klarna.com"
+ },
+ {
+  "id": "ca-tangerine",
+  "name": "Tangerine",
+  "country": "CA",
+  "region": "north-america",
+  "category": "fintech",
+  "codes": {
+   "wikidata": "Q15238797"
+  },
+  "website": "https://www.tangerine.ca/en/",
+  "logo": {
+   "path": "logos/ca/tangerine.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Tangerine_Bank_logo_2026.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "au-airwallex",
+  "name": "Airwallex",
+  "country": "AU",
+  "region": "oceania",
+  "category": "fintech",
+  "website": "https://www.airwallex.com"
+ },
+ {
+  "id": "ar-mercado-pago",
+  "name": "Mercado Pago",
+  "country": "AR",
+  "region": "south-america",
+  "category": "fintech",
+  "website": "https://www.mercadopago.com"
+ }
+]

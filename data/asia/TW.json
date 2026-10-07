@@ -1,0 +1,81 @@
+[
+ {
+  "id": "tw-central-bank-of-the-republic-of-china",
+  "name": "Central Bank of the Republic of China",
+  "country": "TW",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q198642",
+   "bic": "CBCTTWTP"
+  },
+  "website": "https://www.cbc.gov.tw/",
+  "logo": {
+   "path": "logos/tw/central-bank-of-the-republic-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:ROC_Central_Bank_Seal.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-agricultural-bank-of-taiwan",
+  "name": "Agricultural Bank of Taiwan",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q10891538"
+  },
+  "website": "https://en.agribank.com.tw/"
+ },
+ {
+  "id": "tw-export-import-bank-of-the-republic-of-china",
+  "name": "Export-Import Bank of the Republic of China",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7676288",
+   "bic": "EROCTWTP"
+  },
+  "website": "https://www.eximbank.com.tw/",
+  "logo": {
+   "path": "logos/tw/export-import-bank-of-the-republic-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:ROC_Export-Import_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-land-bank-of-taiwan",
+  "name": "Land Bank of Taiwan",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q717592",
+   "bic": "LBOTTWTP"
+  },
+  "website": "https://www.landbank.com.tw",
+  "logo": {
+   "path": "logos/tw/land-bank-of-taiwan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Land_Bank_of_Taiwan_Seal.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-taiwan-business-bank",
+  "name": "Taiwan Business Bank",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15913812",
+   "bic": "MBBTTWTP"
+  },
+  "website": "https://www.tbb.com.tw",
+  "logo": {
+   "path": "logos/tw/taiwan-business-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Taiwan_Business_Bank_logo_20190526.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

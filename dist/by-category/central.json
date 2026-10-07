@@ -1,0 +1,2651 @@
+[
+ {
+  "id": "ao-national-bank-of-angola",
+  "name": "National Bank of Angola",
+  "country": "AO",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q31211"
+  },
+  "website": "http://www.bna.ao/"
+ },
+ {
+  "id": "bi-bank-of-the-republic-of-burundi",
+  "name": "Bank of the Republic of Burundi",
+  "country": "BI",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806937"
+  },
+  "website": "http://www.brb.bi/"
+ },
+ {
+  "id": "bw-bank-of-botswana",
+  "name": "Bank of Botswana",
+  "country": "BW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q859830"
+  },
+  "website": "http://www.bankofbotswana.bw/"
+ },
+ {
+  "id": "cd-central-bank-of-congo",
+  "name": "Central Bank of Congo",
+  "country": "CD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2882989"
+  },
+  "website": "http://www.bcc.cd"
+ },
+ {
+  "id": "cv-bank-of-cape-verde",
+  "name": "Bank of Cape Verde",
+  "country": "CV",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077341"
+  },
+  "website": "http://www.bcv.cv/"
+ },
+ {
+  "id": "dj-central-bank-of-djibouti",
+  "name": "Central Bank of Djibouti",
+  "country": "DJ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504271"
+  },
+  "website": "http://www.banque-centrale.dj"
+ },
+ {
+  "id": "dz-bank-of-algeria",
+  "name": "Bank of Algeria",
+  "country": "DZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774622"
+  },
+  "website": "http://www.bank-of-algeria.dz/",
+  "logo": {
+   "path": "logos/dz/bank-of-algeria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Algeria.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "eg-central-bank-of-egypt",
+  "name": "Central Bank of Egypt",
+  "country": "EG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q920699",
+   "bic": "CBEGEGCXXXX"
+  },
+  "website": "https://www.cbe.org.eg/",
+  "logo": {
+   "path": "logos/eg/central-bank-of-egypt.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Egypt_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "er-bank-of-eritrea",
+  "name": "Bank of Eritrea",
+  "country": "ER",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806163"
+  },
+  "website": "http://www.boe.gov.er/"
+ },
+ {
+  "id": "et-national-bank-of-ethiopia",
+  "name": "National Bank of Ethiopia",
+  "country": "ET",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1967889"
+  },
+  "website": "https://nbe.gov.et/",
+  "logo": {
+   "path": "logos/et/national-bank-of-ethiopia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Ethiopia_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gh-bank-of-ghana",
+  "name": "Bank of Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q669484"
+  },
+  "website": "http://www.bog.gov.gh/"
+ },
+ {
+  "id": "gm-central-bank-of-the-gambia",
+  "name": "Central Bank of The Gambia",
+  "country": "GM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q495091"
+  },
+  "website": "http://www.cbg.gm/"
+ },
+ {
+  "id": "gn-central-bank-of-the-republic-of-guinea",
+  "name": "Central Bank of the Republic of Guinea",
+  "country": "GN",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2882980"
+  },
+  "website": "https://www.bcrg-guinee.org/"
+ },
+ {
+  "id": "ke-central-bank-of-kenya",
+  "name": "Central Bank of Kenya",
+  "country": "KE",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2510227"
+  },
+  "website": "https://www.centralbank.go.ke/"
+ },
+ {
+  "id": "km-central-bank-of-the-comoros",
+  "name": "Central Bank of the Comoros",
+  "country": "KM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604274"
+  },
+  "website": "http://www.banque-comores.km/"
+ },
+ {
+  "id": "lr-central-bank-of-liberia",
+  "name": "Central Bank of Liberia",
+  "country": "LR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2899684"
+  },
+  "website": "http://www.cbl.org.lr/index.php"
+ },
+ {
+  "id": "ls-central-bank-of-lesotho",
+  "name": "Central Bank of Lesotho",
+  "country": "LS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2608033"
+  },
+  "website": "http://www.centralbank.org.ls/"
+ },
+ {
+  "id": "ly-central-bank-of-libya",
+  "name": "Central Bank of Libya",
+  "country": "LY",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q58234"
+  },
+  "website": "http://cbl.gov.ly",
+  "logo": {
+   "path": "logos/ly/central-bank-of-libya.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:LogoCBL.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ma-bank-al-maghrib",
+  "name": "Bank Al-Maghrib",
+  "country": "MA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q328198"
+  },
+  "website": "https://www.bkam.ma/",
+  "logo": {
+   "path": "logos/ma/bank-al-maghrib.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Al-Maghrib_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mg-central-bank-of-madagascar",
+  "name": "Central Bank of Madagascar",
+  "country": "MG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3433330",
+   "bic": "REPUMGMGRTG"
+  },
+  "website": "http://www.banque-centrale.mg/"
+ },
+ {
+  "id": "mr-central-bank-of-mauritania",
+  "name": "Central Bank of Mauritania",
+  "country": "MR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2528877"
+  },
+  "website": "https://www.bcm.mr/"
+ },
+ {
+  "id": "mu-bank-of-mauritius",
+  "name": "Bank of Mauritius",
+  "country": "MU",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2743652"
+  },
+  "website": "https://www.bom.mu/"
+ },
+ {
+  "id": "mw-reserve-bank-of-malawi",
+  "name": "Reserve Bank of Malawi",
+  "country": "MW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2397584"
+  },
+  "website": "http://www.rbm.mw/"
+ },
+ {
+  "id": "mz-bank-of-mozambique",
+  "name": "Bank of Mozambique",
+  "country": "MZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3363703"
+  },
+  "website": "http://www.bancomoc.mz/Default_en.aspx",
+  "logo": {
+   "path": "logos/mz/bank-of-mozambique.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo-Banco-de-Mo%C3%A7ambique-01-995x1024.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "na-bank-of-namibia",
+  "name": "Bank of Namibia",
+  "country": "NA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806684"
+  },
+  "website": "https://www.bon.com.na/",
+  "logo": {
+   "path": "logos/na/bank-of-namibia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Bank_von_Namibia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "rw-national-bank-of-rwanda",
+  "name": "National Bank of Rwanda",
+  "country": "RW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4314980"
+  },
+  "website": "http://www.bnr.rw/"
+ },
+ {
+  "id": "sc-central-bank-of-seychelles",
+  "name": "Central Bank of Seychelles",
+  "country": "SC",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504280"
+  },
+  "website": "http://www.cbs.sc/",
+  "logo": {
+   "path": "logos/sc/central-bank-of-seychelles.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Seychelles_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sd-bank-of-sudan",
+  "name": "Bank of Sudan",
+  "country": "SD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190236"
+  },
+  "website": "http://www.cbos.gov.sd/en"
+ },
+ {
+  "id": "sl-bank-of-sierra-leone",
+  "name": "Bank of Sierra Leone",
+  "country": "SL",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806691"
+  },
+  "website": "http://www.bsl.gov.sl/"
+ },
+ {
+  "id": "so-central-bank-of-somalia",
+  "name": "Central Bank of Somalia",
+  "country": "SO",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2299534"
+  },
+  "website": "https://centralbank.gov.so/"
+ },
+ {
+  "id": "ss-bank-of-south-sudan",
+  "name": "Bank of South Sudan",
+  "country": "SS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359554"
+  },
+  "website": "https://boss.gov.ss"
+ },
+ {
+  "id": "st-central-bank-of-sao-tome-and-principe",
+  "name": "Central Bank of São Tomé and Príncipe",
+  "country": "ST",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2679982"
+  },
+  "website": "http://www.bcstp.st/"
+ },
+ {
+  "id": "sz-central-bank-of-eswatini",
+  "name": "Central Bank of Eswatini",
+  "country": "SZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3430466"
+  },
+  "website": "http://www.centralbank.org.sz"
+ },
+ {
+  "id": "td-bank-of-central-african-states",
+  "name": "Bank of Central African States",
+  "country": "TD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q189972"
+  },
+  "website": "https://www.beac.int"
+ },
+ {
+  "id": "tg-central-bank-of-west-african-states",
+  "name": "Central Bank of West African States",
+  "country": "TG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q620942"
+  },
+  "website": "http://www.bceao.int/",
+  "logo": {
+   "path": "logos/tg/central-bank-of-west-african-states.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_West_African_States_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tn-central-bank-of-tunisia",
+  "name": "Central Bank of Tunisia",
+  "country": "TN",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q600137"
+  },
+  "website": "http://www.bct.gov.tn/"
+ },
+ {
+  "id": "tz-bank-of-tanzania",
+  "name": "Bank of Tanzania",
+  "country": "TZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2670842"
+  },
+  "website": "http://www.bot-tz.org/"
+ },
+ {
+  "id": "ug-bank-of-uganda",
+  "name": "Bank of Uganda",
+  "country": "UG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q487300"
+  },
+  "website": "http://www.bou.or.ug/"
+ },
+ {
+  "id": "za-south-african-reserve-bank",
+  "name": "South African Reserve Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q912920"
+  },
+  "website": "http://www.reservebank.co.za/"
+ },
+ {
+  "id": "zm-bank-of-zambia",
+  "name": "Bank of Zambia",
+  "country": "ZM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806694"
+  },
+  "website": "http://www.boz.zm/"
+ },
+ {
+  "id": "zw-reserve-bank-of-zimbabwe",
+  "name": "Reserve Bank of Zimbabwe",
+  "country": "ZW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1025119"
+  },
+  "website": "https://www.rbz.co.zw/",
+  "logo": {
+   "path": "logos/zw/reserve-bank-of-zimbabwe.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zimbabwe_%2425m_2008_Obverse_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ae-central-bank-of-the-united-arab-emirates",
+  "name": "Central Bank of the United Arab Emirates",
+  "country": "AE",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2982584"
+  },
+  "website": "https://www.centralbank.ae/en"
+ },
+ {
+  "id": "af-da-afghanistan-bank",
+  "name": "Da Afghanistan Bank",
+  "country": "AF",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1156372"
+  },
+  "website": "http://dab.gov.af/en",
+  "logo": {
+   "path": "logos/af/da-afghanistan-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Da_Afghanistan_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "am-central-bank-of-armenia",
+  "name": "Central Bank of Armenia",
+  "country": "AM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190223"
+  },
+  "website": "https://cba.am",
+  "logo": {
+   "path": "logos/am/central-bank-of-armenia.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Armenia_logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "az-central-bank-of-azerbaijan",
+  "name": "Central Bank of Azerbaijan",
+  "country": "AZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190230"
+  },
+  "website": "http://www.cbar.az/",
+  "logo": {
+   "path": "logos/az/central-bank-of-azerbaijan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Azerbaijan.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bd-bangladesh-bank",
+  "name": "Bangladesh Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806532"
+  },
+  "website": "http://www.bangladesh-bank.org",
+  "logo": {
+   "path": "logos/bd/bangladesh-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bh-central-bank-of-bahrain",
+  "name": "Central Bank of Bahrain",
+  "country": "BH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q571182"
+  },
+  "website": "http://www.cbb.gov.bh"
+ },
+ {
+  "id": "bn-brunei-darussalam-central-bank",
+  "name": "Brunei Darussalam Central Bank",
+  "country": "BN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604419"
+  },
+  "website": "http://www.ambd.gov.bn",
+  "logo": {
+   "path": "logos/bn/brunei-darussalam-central-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambd-logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bt-royal-monetary-authority-of-bhutan",
+  "name": "Royal Monetary Authority of Bhutan",
+  "country": "BT",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1144649"
+  },
+  "website": "http://www.rma.org.bt"
+ },
+ {
+  "id": "cn-hong-kong-monetary-authority",
+  "name": "Hong Kong Monetary Authority",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1595286"
+  },
+  "website": "https://www.hkma.gov.hk/"
+ },
+ {
+  "id": "cn-monetary-authority-of-macao",
+  "name": "Monetary Authority of Macao",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q986615"
+  },
+  "website": "http://amcm.macau.gov.mo/",
+  "logo": {
+   "path": "logos/cn/monetary-authority-of-macao.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:AMCM_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-people-s-bank-of-china",
+  "name": "People's Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q249203"
+  },
+  "website": "http://www.pbc.gov.cn/"
+ },
+ {
+  "id": "id-bank-indonesia",
+  "name": "Bank Indonesia",
+  "country": "ID",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1906161",
+   "bic": "INDOIDJA"
+  },
+  "website": "http://www.bi.go.id/",
+  "logo": {
+   "path": "logos/id/bank-indonesia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankindonesialogo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "il-bank-of-israel",
+  "name": "Bank of Israel",
+  "country": "IL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q244411"
+  },
+  "website": "https://www.boi.org.il/"
+ },
+ {
+  "id": "in-reserve-bank-of-india",
+  "name": "Reserve Bank of India",
+  "country": "IN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q944085"
+  },
+  "website": "https://website.rbi.org.in/web/rbi",
+  "logo": {
+   "path": "logos/in/reserve-bank-of-india.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "iq-central-bank-of-iraq",
+  "name": "Central Bank of Iraq",
+  "country": "IQ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1778674"
+  },
+  "website": "http://www.cbi.iq"
+ },
+ {
+  "id": "ir-central-bank-of-iran",
+  "name": "Central Bank of Iran",
+  "country": "IR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1261157"
+  },
+  "website": "https://cbi.ir",
+  "logo": {
+   "path": "logos/ir/central-bank-of-iran.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_central_iran_bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jo-central-bank-of-jordan",
+  "name": "Central Bank of Jordan",
+  "country": "JO",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607421"
+  },
+  "website": "http://www.cbj.gov.jo/"
+ },
+ {
+  "id": "jp-bank-of-japan",
+  "name": "Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q333101",
+   "bic": "BOJPJPJT"
+  },
+  "website": "https://www.boj.or.jp/",
+  "logo": {
+   "path": "logos/jp/bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E3%83%AD%E3%82%B4.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kg-national-bank-of-the-kyrgyz-republic",
+  "name": "National Bank of the Kyrgyz Republic",
+  "country": "KG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3430475"
+  },
+  "website": "http://www.nbkr.kg",
+  "logo": {
+   "path": "logos/kg/national-bank-of-the-kyrgyz-republic.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_the_Kyrgyz_Republic_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kh-national-bank-of-cambodia",
+  "name": "National Bank of Cambodia",
+  "country": "KH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q284843"
+  },
+  "website": "http://nbc.org.kh"
+ },
+ {
+  "id": "kp-central-bank-of-the-democratic-people-s-republic-of-korea",
+  "name": "Central Bank of the Democratic People's Republic of Korea",
+  "country": "KP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1141425"
+  },
+  "logo": {
+   "path": "logos/kp/central-bank-of-the-democratic-people-s-republic-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_DPRK.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kr-bank-of-korea",
+  "name": "Bank of Korea",
+  "country": "KR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q485531",
+   "bic": "BOKRKRSEXXX"
+  },
+  "website": "http://www.bok.or.kr/",
+  "logo": {
+   "path": "logos/kr/bank-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_Korea_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kw-central-bank-of-kuwait",
+  "name": "Central Bank of Kuwait",
+  "country": "KW",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2944396"
+  },
+  "website": "http://new.cbk.gov.kw/en/index.jsp"
+ },
+ {
+  "id": "la-bank-of-the-lao-p-d-r",
+  "name": "Bank of the Lao P.D.R.",
+  "country": "LA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077339"
+  },
+  "website": "http://www.bol.gov.la/"
+ },
+ {
+  "id": "lb-banque-du-liban",
+  "name": "Banque du Liban",
+  "country": "LB",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776564"
+  },
+  "website": "http://www.bdl.gov.lb/"
+ },
+ {
+  "id": "lk-central-bank-of-sri-lanka",
+  "name": "Central Bank of Sri Lanka",
+  "country": "LK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2640939"
+  },
+  "website": "https://www.cbsl.gov.lk/"
+ },
+ {
+  "id": "mm-central-bank-of-myanmar",
+  "name": "Central Bank of Myanmar",
+  "country": "MM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1944374"
+  },
+  "website": "https://www.cbm.gov.mm/",
+  "logo": {
+   "path": "logos/mm/central-bank-of-myanmar.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Myanmar_seal.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mn-bank-of-mongolia",
+  "name": "Bank of Mongolia",
+  "country": "MN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1320131"
+  },
+  "website": "https://www.mongolbank.mn/en/",
+  "logo": {
+   "path": "logos/mn/bank-of-mongolia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Mongolbank_logo_eng.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mv-maldives-monetary-authority",
+  "name": "Maldives Monetary Authority",
+  "country": "MV",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1188022"
+  },
+  "website": "http://mma.gov.mv",
+  "logo": {
+   "path": "logos/mv/maldives-monetary-authority.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Maldives_Monetary_Authority_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "my-bank-negara-malaysia",
+  "name": "Bank Negara Malaysia",
+  "country": "MY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806646"
+  },
+  "website": "http://www.bnm.gov.my/"
+ },
+ {
+  "id": "np-nepal-rastra-bank",
+  "name": "Nepal Rastra Bank",
+  "country": "NP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1318435"
+  },
+  "website": "http://www.nrb.org.np/"
+ },
+ {
+  "id": "om-central-bank-of-oman",
+  "name": "Central Bank of Oman",
+  "country": "OM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3488501"
+  },
+  "website": "https://www.cbo.gov.om/",
+  "logo": {
+   "path": "logos/om/central-bank-of-oman.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Oman_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-bangko-sentral-ng-pilipinas",
+  "name": "Bangko Sentral ng Pilipinas",
+  "country": "PH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1853468"
+  },
+  "website": "https://www.bsp.gov.ph",
+  "logo": {
+   "path": "logos/ph/bangko-sentral-ng-pilipinas.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bangko_Sentral_ng_Pilipinas_2020_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pk-state-bank-of-pakistan",
+  "name": "State Bank of Pakistan",
+  "country": "PK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1323248"
+  },
+  "website": "http://www.sbp.org.pk/"
+ },
+ {
+  "id": "ps-palestine-monetary-authority",
+  "name": "Palestine Monetary Authority",
+  "country": "PS",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q7127309"
+  },
+  "website": "https://www.pma.ps/"
+ },
+ {
+  "id": "qa-qatar-central-bank",
+  "name": "Qatar Central Bank",
+  "country": "QA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3365778"
+  },
+  "website": "http://www.qcb.gov.qa"
+ },
+ {
+  "id": "sa-saudi-central-bank",
+  "name": "Saudi Central Bank",
+  "country": "SA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2605574"
+  },
+  "website": "http://www.sama.gov.sa",
+  "logo": {
+   "path": "logos/sa/saudi-central-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Saudi_Arabian_Monetary_Authority.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sg-monetary-authority-of-singapore",
+  "name": "Monetary Authority of Singapore",
+  "country": "SG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2661296"
+  },
+  "website": "http://www.mas.gov.sg/",
+  "logo": {
+   "path": "logos/sg/monetary-authority-of-singapore.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Monetary_Authority_of_Singapore.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sy-central-bank-of-syria",
+  "name": "Central Bank of Syria",
+  "country": "SY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806932"
+  },
+  "website": "https://cb.gov.sy/",
+  "logo": {
+   "path": "logos/sy/central-bank-of-syria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Syria_logo_%282025%29.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "th-bank-of-thailand",
+  "name": "Bank of Thailand",
+  "country": "TH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806706"
+  },
+  "website": "http://www.bot.or.th",
+  "logo": {
+   "path": "logos/th/bank-of-thailand.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Thailand_%282012%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tj-national-bank-of-tajikistan",
+  "name": "National Bank of Tajikistan",
+  "country": "TJ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4314981"
+  },
+  "website": "http://www.nbt.tj"
+ },
+ {
+  "id": "tl-banco-central-de-timor-leste",
+  "name": "Banco Central de Timor-Leste",
+  "country": "TL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504282"
+  },
+  "website": "https://www.bancocentral.tl/en"
+ },
+ {
+  "id": "tm-central-bank-of-turkmenistan",
+  "name": "Central Bank of Turkmenistan",
+  "country": "TM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504283",
+   "bic": "CBTUTM2AXXX"
+  },
+  "website": "http://www.cbt.tm"
+ },
+ {
+  "id": "tw-central-bank-of-the-republic-of-china",
+  "name": "Central Bank of the Republic of China",
+  "country": "TW",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q198642",
+   "bic": "CBCTTWTP"
+  },
+  "website": "https://www.cbc.gov.tw/",
+  "logo": {
+   "path": "logos/tw/central-bank-of-the-republic-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:ROC_Central_Bank_Seal.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uz-central-bank-of-uzbekistan",
+  "name": "Central Bank of Uzbekistan",
+  "country": "UZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504278"
+  },
+  "website": "http://www.cbu.uz/uz",
+  "logo": {
+   "path": "logos/uz/central-bank-of-uzbekistan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:CBU_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "vn-state-bank-of-vietnam",
+  "name": "State Bank of Vietnam",
+  "country": "VN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2234553"
+  },
+  "website": "https://www.sbv.gov.vn"
+ },
+ {
+  "id": "ye-central-bank-of-yemen",
+  "name": "Central Bank of Yemen",
+  "country": "YE",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797039"
+  },
+  "website": "http://www.centralbank.gov.ye"
+ },
+ {
+  "id": "ad-andorran-financial-authority",
+  "name": "Andorran Financial Authority",
+  "country": "AD",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q11926724"
+  },
+  "website": "https://www.afa.ad/"
+ },
+ {
+  "id": "al-bank-of-albania",
+  "name": "Bank of Albania",
+  "country": "AL",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806714"
+  },
+  "website": "http://www.bankofalbania.org/",
+  "logo": {
+   "path": "logos/al/bank-of-albania.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banka_e_Shqip%C3%ABris%C3%AB_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-austrian-national-bank",
+  "name": "Austrian National Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q670723"
+  },
+  "website": "https://www.oenb.at/",
+  "logo": {
+   "path": "logos/at/austrian-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Oesterreichische_Nationalbank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ba-central-bank-of-bosnia-and-herzegovina",
+  "name": "Central Bank of Bosnia and Herzegovina",
+  "country": "BA",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1184535"
+  },
+  "website": "https://www.cbbh.ba/"
+ },
+ {
+  "id": "be-banque-du-congo-belge",
+  "name": "Banque du Congo Belge",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q107359743"
+  }
+ },
+ {
+  "id": "be-emissiebank",
+  "name": "Emissiebank",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q105968386"
+  }
+ },
+ {
+  "id": "be-national-bank-of-belgium",
+  "name": "National Bank of Belgium",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q685918"
+  },
+  "website": "https://www.nbb.be",
+  "logo": {
+   "path": "logos/be/national-bank-of-belgium.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Belgium_EN_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bg-bulgarian-national-bank",
+  "name": "Bulgarian National Bank",
+  "country": "BG",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74687"
+  },
+  "website": "http://www.bnb.bg/"
+ },
+ {
+  "id": "by-national-bank-of-the-republic-of-belarus",
+  "name": "National Bank of the Republic of Belarus",
+  "country": "BY",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q431491"
+  },
+  "website": "http://www.nbrb.by/"
+ },
+ {
+  "id": "ch-swiss-national-bank",
+  "name": "Swiss National Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q597394"
+  },
+  "website": "https://www.snb.ch/",
+  "logo": {
+   "path": "logos/ch/swiss-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:SNB-Logo-positiv-blau.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cy-central-bank-of-cyprus",
+  "name": "Central Bank of Cyprus",
+  "country": "CY",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74693"
+  },
+  "website": "http://www.centralbank.cy"
+ },
+ {
+  "id": "cz-czech-national-bank",
+  "name": "Czech National Bank",
+  "country": "CZ",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q251062",
+   "bic": "CNBACZPPXXX"
+  },
+  "website": "https://www.cnb.cz/",
+  "logo": {
+   "path": "logos/cz/czech-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A1_n%C3%A1rodn%C3%AD_banka_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-european-central-bank",
+  "name": "European Central Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q8901"
+  },
+  "website": "https://www.ecb.europa.eu",
+  "logo": {
+   "path": "logos/de/european-central-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_European_Central_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-german-federal-bank",
+  "name": "German Federal Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q162222",
+   "bic": "MARKDEFFXXX"
+  },
+  "website": "https://www.bundesbank.de/",
+  "logo": {
+   "path": "logos/de/german-federal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bundesbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "dk-danmarks-nationalbank",
+  "name": "Danmarks Nationalbank",
+  "country": "DK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q683252"
+  },
+  "website": "https://www.nationalbanken.dk/da"
+ },
+ {
+  "id": "ee-bank-of-estonia",
+  "name": "Bank of Estonia",
+  "country": "EE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q366960"
+  },
+  "website": "https://www.eestipank.ee/"
+ },
+ {
+  "id": "es-bank-of-spain",
+  "name": "Bank of Spain",
+  "country": "ES",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q789966"
+  },
+  "website": "https://www.bde.es/",
+  "logo": {
+   "path": "logos/es/bank-of-spain.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banco_de_Espa%C3%B1a.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fi-bank-of-finland",
+  "name": "Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q194060"
+  },
+  "website": "https://www.suomenpankki.fi/",
+  "logo": {
+   "path": "logos/fi/bank-of-finland.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo-bof.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-bank-of-france",
+  "name": "Bank of France",
+  "country": "FR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806950",
+   "bic": "BDFEFR31XXX"
+  },
+  "website": "http://www.banque-france.fr/",
+  "logo": {
+   "path": "logos/fr/bank-of-france.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_de_France_2022_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-institut-d-emission-d-outre-mer",
+  "name": "Institut d'émission d'outre-mer",
+  "country": "FR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3151944"
+  },
+  "website": "http://ieom.fr/"
+ },
+ {
+  "id": "gb-bank-of-england",
+  "name": "Bank of England",
+  "country": "GB",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q183231"
+  },
+  "website": "https://www.bankofengland.co.uk/"
+ },
+ {
+  "id": "gb-bank-of-scotland",
+  "name": "Bank of Scotland",
+  "country": "GB",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q627381"
+  },
+  "website": "https://www.bankofscotland.co.uk/",
+  "logo": {
+   "path": "logos/gb/bank-of-scotland.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_Scotland_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ge-national-bank-of-georgia",
+  "name": "National Bank of Georgia",
+  "country": "GE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2667495",
+   "bic": "BNLNGE22"
+  },
+  "website": "https://nbg.gov.ge/"
+ },
+ {
+  "id": "ge-national-bank-of-the-republic-of-abkhazia",
+  "name": "National Bank of the Republic of Abkhazia",
+  "country": "GE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2001669"
+  },
+  "website": "https://www.nb-ra.org/",
+  "logo": {
+   "path": "logos/ge/national-bank-of-the-republic-of-abkhazia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_the_Republic_of_Abkhazia_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gr-bank-of-greece",
+  "name": "Bank of Greece",
+  "country": "GR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806700"
+  },
+  "website": "https://www.bankofgreece.gr"
+ },
+ {
+  "id": "hr-croatian-national-bank",
+  "name": "Croatian National Bank",
+  "country": "HR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1143457",
+   "bic": "NBHRHR2X"
+  },
+  "website": "https://www.hnb.hr",
+  "logo": {
+   "path": "logos/hr/croatian-national-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Croatian_National_Bank_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "hu-hungarian-national-bank",
+  "name": "Hungarian National Bank",
+  "country": "HU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q774636"
+  },
+  "website": "https://www.mnb.hu/",
+  "logo": {
+   "path": "logos/hu/hungarian-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Hungarian_National_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ie-central-bank-of-ireland",
+  "name": "Central Bank of Ireland",
+  "country": "IE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q283785"
+  },
+  "website": "https://www.centralbank.ie/"
+ },
+ {
+  "id": "is-central-bank-of-iceland",
+  "name": "Central Bank of Iceland",
+  "country": "IS",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1195916",
+   "bic": "SISLISRE"
+  },
+  "website": "http://cb.is/"
+ },
+ {
+  "id": "it-bank-of-italy",
+  "name": "Bank of Italy",
+  "country": "IT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806176"
+  },
+  "website": "https://www.bancaditalia.it"
+ },
+ {
+  "id": "kz-national-bank-of-kazakhstan",
+  "name": "National Bank of Kazakhstan",
+  "country": "KZ",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2472280"
+  },
+  "website": "http://www.nationalbank.kz",
+  "logo": {
+   "path": "logos/kz/national-bank-of-kazakhstan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Kazakhstan_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lt-bank-of-lithuania",
+  "name": "Bank of Lithuania",
+  "country": "LT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q616849"
+  },
+  "website": "http://www.lb.lt",
+  "logo": {
+   "path": "logos/lt/bank-of-lithuania.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lietuvos_bankas.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lu-central-bank-of-luxembourg",
+  "name": "Central Bank of Luxembourg",
+  "country": "LU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190234"
+  },
+  "website": "http://www.bcl.lu",
+  "logo": {
+   "path": "logos/lu/central-bank-of-luxembourg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_centrale_du_Luxembourg_FR_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lv-bank-of-latvia",
+  "name": "Bank of Latvia",
+  "country": "LV",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q687709"
+  },
+  "website": "https://www.bank.lv/",
+  "logo": {
+   "path": "logos/lv/bank-of-latvia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Latvijas_Banka_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "md-national-bank-of-moldova",
+  "name": "National Bank of Moldova",
+  "country": "MD",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2636071"
+  },
+  "website": "http://www.bnm.md/"
+ },
+ {
+  "id": "me-central-bank-of-montenegro",
+  "name": "Central Bank of Montenegro",
+  "country": "ME",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504284"
+  },
+  "website": "http://www.cb-mn.org",
+  "logo": {
+   "path": "logos/me/central-bank-of-montenegro.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Montenegro_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mk-national-bank-of-north-macedonia",
+  "name": "National Bank of North Macedonia",
+  "country": "MK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2598067"
+  },
+  "website": "http://www.nbrm.mk"
+ },
+ {
+  "id": "mt-central-bank-of-malta",
+  "name": "Central Bank of Malta",
+  "country": "MT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74690"
+  },
+  "website": "https://www.centralbankmalta.org"
+ },
+ {
+  "id": "no-centralbanken-for-norge",
+  "name": "Centralbanken for Norge",
+  "country": "NO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q11963362"
+  }
+ },
+ {
+  "id": "no-norges-bank",
+  "name": "Norges Bank",
+  "country": "NO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q970769"
+  },
+  "website": "http://www.norges-bank.no/",
+  "logo": {
+   "path": "logos/no/norges-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Norges_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pl-narodowy-bank-polski",
+  "name": "Narodowy Bank Polski",
+  "country": "PL",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q168844"
+  },
+  "website": "https://www.nbp.pl/",
+  "logo": {
+   "path": "logos/pl/narodowy-bank-polski.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Narodowy_Bank_Polski_logo_and_wordmark_%282021%29_v2.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pt-banco-de-portugal",
+  "name": "Banco de Portugal",
+  "country": "PT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q378372"
+  },
+  "website": "https://www.bportugal.pt"
+ },
+ {
+  "id": "ro-national-bank-of-romania",
+  "name": "National Bank of Romania",
+  "country": "RO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q967861"
+  },
+  "website": "http://www.bnr.ro/",
+  "logo": {
+   "path": "logos/ro/national-bank-of-romania.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Romania_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "rs-national-bank-of-serbia",
+  "name": "National Bank of Serbia",
+  "country": "RS",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1194664",
+   "bic": "NBSRRSBGXXX"
+  },
+  "website": "http://www.nbs.rs/"
+ },
+ {
+  "id": "ru-central-bank-of-russia",
+  "name": "Central Bank of Russia",
+  "country": "RU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806651"
+  },
+  "website": "https://cbr.ru/",
+  "logo": {
+   "path": "logos/ru/central-bank-of-russia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRF_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "se-sveriges-riksbank",
+  "name": "Sveriges Riksbank",
+  "country": "SE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q564652"
+  },
+  "website": "https://riksbank.se",
+  "logo": {
+   "path": "logos/se/sveriges-riksbank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Riksbanken_skylt.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "si-bank-of-slovenia",
+  "name": "Bank of Slovenia",
+  "country": "SI",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q26662"
+  },
+  "website": "http://www.bsi.si/",
+  "logo": {
+   "path": "logos/si/bank-of-slovenia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banka_Slovenije_2020.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sk-national-bank-of-slovakia",
+  "name": "National Bank of Slovakia",
+  "country": "SK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1481791"
+  },
+  "website": "http://www.nbs.sk"
+ },
+ {
+  "id": "tr-central-bank-of-the-republic-of-turkey",
+  "name": "Central Bank of the Republic of Turkey",
+  "country": "TR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q580829"
+  },
+  "website": "http://www.tcmb.gov.tr",
+  "logo": {
+   "path": "logos/tr/central-bank-of-the-republic-of-turkey.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:TCMB_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ua-national-bank-of-ukraine",
+  "name": "National Bank of Ukraine",
+  "country": "UA",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1070388"
+  },
+  "website": "https://bank.gov.ua/",
+  "logo": {
+   "path": "logos/ua/national-bank-of-ukraine.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:NBU_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "va-administration-of-the-patrimony-of-the-apostolic-see",
+  "name": "Administration of the Patrimony of the Apostolic See",
+  "country": "VA",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1562250",
+   "bic": "APDEVAVAXXX"
+  },
+  "website": "http://www.vatican.va/roman_curia/uffici/apsa/index_it.htm"
+ },
+ {
+  "id": "xk-central-bank-of-kosovo",
+  "name": "Central Bank of Kosovo",
+  "country": "XK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3338523"
+  },
+  "website": "https://bqk-kos.org/",
+  "logo": {
+   "path": "logos/xk/central-bank-of-kosovo.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Kosovo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "yu-national-bank-of-yugoslavia",
+  "name": "National Bank of Yugoslavia",
+  "country": "YU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q111908045"
+  }
+ },
+ {
+  "id": "aw-central-bank-of-aruba",
+  "name": "Central Bank of Aruba",
+  "country": "AW",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774469"
+  },
+  "website": "http://www.cbaruba.org"
+ },
+ {
+  "id": "bb-central-bank-of-barbados",
+  "name": "Central Bank of Barbados",
+  "country": "BB",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2600777"
+  },
+  "website": "http://www.centralbank.org.bb"
+ },
+ {
+  "id": "bm-bermuda-monetary-authority",
+  "name": "Bermuda Monetary Authority",
+  "country": "BM",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774433"
+  },
+  "website": "http://www.bma.bm"
+ },
+ {
+  "id": "bs-central-bank-of-the-bahamas",
+  "name": "Central Bank of The Bahamas",
+  "country": "BS",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504270"
+  },
+  "website": "http://www.centralbankbahamas.com/"
+ },
+ {
+  "id": "bz-central-bank-of-belize",
+  "name": "Central Bank of Belize",
+  "country": "BZ",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q643949"
+  },
+  "website": "http://www.centralbank.org.bz"
+ },
+ {
+  "id": "ca-bank-of-canada",
+  "name": "Bank of Canada",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806703"
+  },
+  "website": "https://www.bankofcanada.ca/"
+ },
+ {
+  "id": "ca-bank-of-montreal",
+  "name": "Bank of Montreal",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806693"
+  },
+  "website": "http://www.bmo.com/",
+  "logo": {
+   "path": "logos/ca/bank-of-montreal.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BMO_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cr-central-bank-of-costa-rica",
+  "name": "Central Bank of Costa Rica",
+  "country": "CR",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504273"
+  },
+  "website": "http://www.bccr.fi.cr/"
+ },
+ {
+  "id": "cu-central-bank-of-cuba",
+  "name": "Central Bank of Cuba",
+  "country": "CU",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607787"
+  },
+  "website": "http://www.bc.gob.cu/",
+  "logo": {
+   "path": "logos/cu/central-bank-of-cuba.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bancocentral-cuba.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cw-central-bank-of-curacao-and-sint-maarten",
+  "name": "Central Bank of Curaçao and Sint Maarten",
+  "country": "CW",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2602290"
+  },
+  "website": "https://www.centralbank.cw"
+ },
+ {
+  "id": "do-central-bank-of-the-dominican-republic",
+  "name": "Central Bank of the Dominican Republic",
+  "country": "DO",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1800406"
+  },
+  "website": "https://www.bancentral.gov.do/"
+ },
+ {
+  "id": "gt-bank-of-guatemala",
+  "name": "Bank of Guatemala",
+  "country": "GT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359424"
+  },
+  "website": "http://www.banguat.gob.gt",
+  "logo": {
+   "path": "logos/gt/bank-of-guatemala.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Autoridades_de_BANGUAT_realizan_reuni%C3%B3n_de_transici%C3%B3n_20231023_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "hn-central-bank-of-honduras",
+  "name": "Central Bank of Honduras",
+  "country": "HN",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2920146"
+  },
+  "website": "http://www.bch.hn/"
+ },
+ {
+  "id": "ht-bank-of-the-republic-of-haiti",
+  "name": "Bank of the Republic of Haiti",
+  "country": "HT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2883379"
+  },
+  "website": "https://www.brh.ht/"
+ },
+ {
+  "id": "jm-bank-of-jamaica",
+  "name": "Bank of Jamaica",
+  "country": "JM",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3374585"
+  },
+  "website": "http://www.boj.org.jm"
+ },
+ {
+  "id": "ky-cayman-islands-monetary-authority",
+  "name": "Cayman Islands Monetary Authority",
+  "country": "KY",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774447"
+  },
+  "website": "https://www.cima.ky/"
+ },
+ {
+  "id": "mx-banco-nacional-de-mexico",
+  "name": "Banco Nacional de México",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2646652"
+  },
+  "website": "https://www.banamex.com/",
+  "logo": {
+   "path": "logos/mx/banco-nacional-de-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banamex.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mx-bank-of-mexico",
+  "name": "Bank of Mexico",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806208"
+  },
+  "website": "http://www.banxico.org.mx/",
+  "logo": {
+   "path": "logos/mx/bank-of-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logobm.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ni-central-bank-of-nicaragua",
+  "name": "Central Bank of Nicaragua",
+  "country": "NI",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504274"
+  },
+  "website": "https://www.bcn.gob.ni/",
+  "logo": {
+   "path": "logos/ni/central-bank-of-nicaragua.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Nicaragua_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pa-national-bank-of-panama",
+  "name": "National Bank of Panama",
+  "country": "PA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q429235"
+  },
+  "website": "https://www.banconal.com.pa",
+  "logo": {
+   "path": "logos/pa/national-bank-of-panama.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Panama_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sv-central-reserve-bank-of-el-salvador",
+  "name": "Central Reserve Bank of El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1801435"
+  },
+  "website": "http://www.bcr.gob.sv/",
+  "logo": {
+   "path": "logos/sv/central-reserve-bank-of-el-salvador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Central_Reserve_Bank_of_El_Salvador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tt-central-bank-of-trinidad-and-tobago",
+  "name": "Central Bank of Trinidad and Tobago",
+  "country": "TT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504281"
+  },
+  "website": "https://www.central-bank.org.tt/",
+  "logo": {
+   "path": "logos/tt/central-bank-of-trinidad-and-tobago.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Trinidad_and_Tobago_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-atlanta",
+  "name": "Federal Reserve Bank of Atlanta",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3267952"
+  },
+  "website": "https://www.atlantafed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-boston",
+  "name": "Federal Reserve Bank of Boston",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4384803"
+  },
+  "website": "https://www.bostonfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-chicago",
+  "name": "Federal Reserve Bank of Chicago",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q965251"
+  },
+  "website": "https://www.chicagofed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-cleveland",
+  "name": "Federal Reserve Bank of Cleveland",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4384538"
+  },
+  "website": "https://www.clevelandfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-dallas",
+  "name": "Federal Reserve Bank of Dallas",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3268621"
+  },
+  "website": "https://www.dallasfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-kansas-city",
+  "name": "Federal Reserve Bank of Kansas City",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2166296"
+  },
+  "website": "https://www.kansascityfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-minneapolis",
+  "name": "Federal Reserve Bank of Minneapolis",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2503528"
+  },
+  "website": "https://www.minneapolisfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-new-york",
+  "name": "Federal Reserve Bank of New York",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q115860"
+  },
+  "website": "https://www.newyorkfed.org/",
+  "logo": {
+   "path": "logos/us/federal-reserve-bank-of-new-york.png",
+   "source": "https://commons.wikimedia.org/wiki/File:FRBNY_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-philadelphia",
+  "name": "Federal Reserve Bank of Philadelphia",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3267626"
+  },
+  "website": "https://www.philadelphiafed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-richmond",
+  "name": "Federal Reserve Bank of Richmond",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4383722"
+  },
+  "website": "https://www.richmondfed.org"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-san-francisco",
+  "name": "Federal Reserve Bank of San Francisco",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2657981"
+  },
+  "website": "http://www.frbsf.org/",
+  "logo": {
+   "path": "logos/us/federal-reserve-bank-of-san-francisco.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Federal_Reserve_System.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-st-louis",
+  "name": "Federal Reserve Bank of St. Louis",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4383730"
+  },
+  "website": "https://www.stlouisfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-system",
+  "name": "Federal Reserve System",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q53536"
+  },
+  "website": "https://www.federalreserve.gov/"
+ },
+ {
+  "id": "us-puerto-rico-fiscal-agent-and-financing",
+  "name": "Puerto Rico fiscal agent and financing",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q7258814"
+  }
+ },
+ {
+  "id": "vc-eastern-caribbean-central-bank",
+  "name": "Eastern Caribbean Central Bank",
+  "country": "VC",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1210260"
+  },
+  "website": "http://www.eccb-centralbank.org"
+ },
+ {
+  "id": "au-reserve-bank-of-australia",
+  "name": "Reserve Bank of Australia",
+  "country": "AU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1506724"
+  },
+  "website": "https://www.rba.gov.au/"
+ },
+ {
+  "id": "fj-reserve-bank-of-fiji",
+  "name": "Reserve Bank of Fiji",
+  "country": "FJ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776552"
+  },
+  "website": "http://www.rbf.gov.fj/"
+ },
+ {
+  "id": "ki-bank-of-kiribati",
+  "name": "Bank of Kiribati",
+  "country": "KI",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q98058686"
+  }
+ },
+ {
+  "id": "nr-bank-of-nauru",
+  "name": "Bank of Nauru",
+  "country": "NR",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806683"
+  }
+ },
+ {
+  "id": "nz-reserve-bank-of-new-zealand",
+  "name": "Reserve Bank of New Zealand",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1494550"
+  },
+  "website": "https://www.rbnz.govt.nz/"
+ },
+ {
+  "id": "pg-bank-of-papua-new-guinea",
+  "name": "Bank of Papua New Guinea",
+  "country": "PG",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3364697"
+  },
+  "website": "http://www.bankpng.gov.pg/"
+ },
+ {
+  "id": "sb-central-bank-of-solomon-islands",
+  "name": "Central Bank of Solomon Islands",
+  "country": "SB",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1777295"
+  },
+  "website": "http://www.cbsi.com.sb/"
+ },
+ {
+  "id": "to-national-reserve-bank-of-tonga",
+  "name": "National Reserve Bank of Tonga",
+  "country": "TO",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604318",
+   "bic": "NRBTTONU"
+  },
+  "website": "http://www.reservebank.to"
+ },
+ {
+  "id": "tv-national-bank-of-tuvalu",
+  "name": "National Bank of Tuvalu",
+  "country": "TV",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q16740215"
+  }
+ },
+ {
+  "id": "vu-reserve-bank-of-vanuatu",
+  "name": "Reserve Bank of Vanuatu",
+  "country": "VU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2601309"
+  },
+  "website": "http://www.rbv.gov.vu/"
+ },
+ {
+  "id": "ws-central-bank-of-samoa",
+  "name": "Central Bank of Samoa",
+  "country": "WS",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2632072"
+  },
+  "website": "http://www.cbs.gov.ws"
+ },
+ {
+  "id": "ar-central-bank-of-argentina",
+  "name": "Central Bank of Argentina",
+  "country": "AR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q642444"
+  },
+  "website": "https://www.bcra.gob.ar/",
+  "logo": {
+   "path": "logos/ar/central-bank-of-argentina.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BCRA_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bo-central-bank-of-bolivia",
+  "name": "Central Bank of Bolivia",
+  "country": "BO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806180"
+  },
+  "website": "http://www.bcb.gob.bo",
+  "logo": {
+   "path": "logos/bo/central-bank-of-bolivia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Bolivia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "br-banco-central-do-brasil-fortaleza",
+  "name": "Banco Central do Brasil (Fortaleza)",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q136416763"
+  },
+  "website": "https://www.bcb.gov.br/"
+ },
+ {
+  "id": "br-central-bank-of-brazil",
+  "name": "Central Bank of Brazil",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806186"
+  },
+  "website": "http://www.bcb.gov.br",
+  "logo": {
+   "path": "logos/br/central-bank-of-brazil.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Banco_Central_do_Brasil.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cl-central-bank-of-chile",
+  "name": "Central Bank of Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2631674"
+  },
+  "website": "http://www.bcentral.cl/",
+  "logo": {
+   "path": "logos/cl/central-bank-of-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Chile_2021.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-banco-de-la-republica",
+  "name": "Banco de la República",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q686329"
+  },
+  "website": "https://www.banrep.gov.co",
+  "logo": {
+   "path": "logos/co/banco-de-la-republica.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Colombia_Banrep.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-central-bank-of-colombia",
+  "name": "Central Bank of Colombia",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q104707199"
+  }
+ },
+ {
+  "id": "ec-central-bank-of-ecuador",
+  "name": "Central Bank of Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797646"
+  },
+  "website": "https://www.bce.ec",
+  "logo": {
+   "path": "logos/ec/central-bank-of-ecuador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_del_Banco_Central_del_Ecuador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gy-bank-of-guyana",
+  "name": "Bank of Guyana",
+  "country": "GY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1812564"
+  },
+  "website": "http://www.bankofguyana.org.gy/"
+ },
+ {
+  "id": "pe-central-reserve-bank-of-peru",
+  "name": "Central Reserve Bank of Peru",
+  "country": "PE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q932146"
+  },
+  "website": "https://www.bcrp.gob.pe"
+ },
+ {
+  "id": "py-central-bank-of-paraguay",
+  "name": "Central Bank of Paraguay",
+  "country": "PY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504275"
+  },
+  "website": "https://www.bcp.gov.py/"
+ },
+ {
+  "id": "sr-centrale-bank-van-suriname",
+  "name": "Centrale Bank van Suriname",
+  "country": "SR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2981941"
+  },
+  "website": "https://www.cbvs.sr/",
+  "logo": {
+   "path": "logos/sr/centrale-bank-van-suriname.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Suriname_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uy-central-bank-of-uruguay",
+  "name": "Central Bank of Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504285"
+  },
+  "website": "https://www.bcu.gub.uy",
+  "logo": {
+   "path": "logos/uy/central-bank-of-uruguay.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Uruguay_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-central-bank-of-venezuela",
+  "name": "Central Bank of Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2570775"
+  },
+  "website": "http://www.bcv.org.ve",
+  "logo": {
+   "path": "logos/ve/central-bank-of-venezuela.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Venezuela_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

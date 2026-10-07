@@ -1,0 +1,242 @@
+[
+ {
+  "id": "gb-bank-of-england",
+  "name": "Bank of England",
+  "country": "GB",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q183231"
+  },
+  "website": "https://www.bankofengland.co.uk/"
+ },
+ {
+  "id": "gb-bank-of-scotland",
+  "name": "Bank of Scotland",
+  "country": "GB",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q627381"
+  },
+  "website": "https://www.bankofscotland.co.uk/",
+  "logo": {
+   "path": "logos/gb/bank-of-scotland.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_Scotland_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-barclays",
+  "name": "Barclays",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q245343"
+  },
+  "website": "https://home.barclays/",
+  "logo": {
+   "path": "logos/gb/barclays.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Barclays_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-black-sea-and-baltic-general-insurance-company-ltd",
+  "name": "Black Sea and Baltic General Insurance Company Ltd",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4088073"
+  }
+ },
+ {
+  "id": "gb-c-hoare-co",
+  "name": "C. Hoare & Co",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q3371149"
+  },
+  "website": "http://www.hoaresbank.co.uk"
+ },
+ {
+  "id": "gb-cater-allen",
+  "name": "Cater Allen",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5051884"
+  },
+  "website": "http://www.caterallen.co.uk",
+  "logo": {
+   "path": "logos/gb/cater-allen.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Cater_Allen.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-child-co",
+  "name": "Child & Co.",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5097688"
+  },
+  "website": "https://www.rbs.com/rbs/our-brands/child---co.html"
+ },
+ {
+  "id": "gb-coutts",
+  "name": "Coutts",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q3696285"
+  },
+  "website": "http://www.coutts.com/"
+ },
+ {
+  "id": "gb-tandem-bank",
+  "name": "Tandem Bank",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q25112380"
+  },
+  "website": "https://www.tandem.co.uk/"
+ },
+ {
+  "id": "gb-arbuthnot-banking-group",
+  "name": "Arbuthnot Banking Group",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q4784962"
+  },
+  "website": "https://www.arbuthnotlatham.co.uk/"
+ },
+ {
+  "id": "gb-kaupthing-singer-friedlander",
+  "name": "Kaupthing Singer & Friedlander",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q6378864"
+  }
+ },
+ {
+  "id": "gb-natwest-markets-nv",
+  "name": "Natwest Markets NV",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q28963183"
+  },
+  "website": "https://www.rbs.com"
+ },
+ {
+  "id": "gb-panmure-gordon-co",
+  "name": "Panmure Gordon & Co.",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7131347"
+  },
+  "website": "http://www.panmure.com/",
+  "logo": {
+   "path": "logos/gb/panmure-gordon-co.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Panmure_Gordon.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-samuel-montagu-co",
+  "name": "Samuel Montagu & Co.",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7412208"
+  }
+ },
+ {
+  "id": "gb-scottish-national-investment-bank",
+  "name": "Scottish National Investment Bank",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q67289065"
+  },
+  "website": "https://www.thebank.scot/"
+ },
+ {
+  "id": "gb-mortgage-company-of-egypt",
+  "name": "Mortgage Company of Egypt",
+  "country": "GB",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q106798016"
+  }
+ },
+ {
+  "id": "gb-monzo",
+  "name": "Monzo",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://monzo.com"
+ },
+ {
+  "id": "gb-revolut",
+  "name": "Revolut",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://www.revolut.com"
+ },
+ {
+  "id": "gb-starling-bank",
+  "name": "Starling Bank",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://www.starlingbank.com"
+ },
+ {
+  "id": "gb-wise",
+  "name": "Wise",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://wise.com"
+ },
+ {
+  "id": "gb-checkout-com",
+  "name": "Checkout.com",
+  "country": "GB",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://www.checkout.com"
+ },
+ {
+  "id": "gb-sendwave",
+  "name": "Sendwave",
+  "country": "GB",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://sendwave.com"
+ }
+]

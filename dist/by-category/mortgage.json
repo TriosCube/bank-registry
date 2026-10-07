@@ -1,0 +1,626 @@
+[
+ {
+  "id": "gh-republic-bank-ghana-plc",
+  "name": "Republic Bank (Ghana) PLC",
+  "country": "GH",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q140798483"
+  },
+  "website": "https://www.republicghana.com"
+ },
+ {
+  "id": "ng-abbey-mortgage-bank",
+  "name": "Abbey Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "404"
+  },
+  "logo": {
+   "path": "logos/ng/abbey-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-adamawa-mortgage-bank-limited",
+  "name": "Adamawa Mortgage Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90102"
+  },
+  "logo": {
+   "path": "logos/ng/adamawa-mortgage-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ag-mortgage-bank",
+  "name": "AG Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90077"
+  },
+  "logo": {
+   "path": "logos/ng/ag-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-brent-mortgage-bank",
+  "name": "Brent Mortgage bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90070"
+  },
+  "logo": {
+   "path": "logos/ng/brent-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cooperative-mortgage-bank",
+  "name": "Cooperative Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90089"
+  },
+  "logo": {
+   "path": "logos/ng/cooperative-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-firsttrust-mortgage-bank-nigeria",
+  "name": "FirstTrust Mortgage Bank Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "413"
+  },
+  "logo": {
+   "path": "logos/ng/firsttrust-mortgage-bank-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gateway-mortgage-bank-ltd",
+  "name": "Gateway Mortgage Bank LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "812"
+  },
+  "logo": {
+   "path": "logos/ng/gateway-mortgage-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-haggai-mortgage-bank",
+  "name": "Haggai Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90065"
+  },
+  "logo": {
+   "path": "logos/ng/haggai-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ibom-mortgage-bank",
+  "name": "Ibom Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90012"
+  },
+  "logo": {
+   "path": "logos/ng/ibom-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-infinity-trust-mortgage-bank",
+  "name": "Infinity trust  Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "070016"
+  },
+  "logo": {
+   "path": "logos/ng/infinity-trust-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-jubilee-life-mortgage-bank",
+  "name": "Jubilee Life Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "402"
+  },
+  "logo": {
+   "path": "logos/ng/jubilee-life-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-living-trust-mortgage-bank",
+  "name": "Living Trust Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "031"
+  },
+  "logo": {
+   "path": "logos/ng/living-trust-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mayfresh-mortgage-bank",
+  "name": "Mayfresh Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90003"
+  },
+  "logo": {
+   "path": "logos/ng/mayfresh-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-platinum-mortgage-bank",
+  "name": "Platinum Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "268"
+  },
+  "logo": {
+   "path": "logos/ng/platinum-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-refuge-mortgage-bank",
+  "name": "Refuge Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90067"
+  },
+  "logo": {
+   "path": "logos/ng/refuge-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stb-mortgage-bank",
+  "name": "STB Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "070022"
+  },
+  "logo": {
+   "path": "logos/ng/stb-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "il-general-mortgage-bank-of-palestine",
+  "name": "General Mortgage Bank of Palestine",
+  "country": "IL",
+  "region": "asia",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q122389351"
+  }
+ },
+ {
+  "id": "at-hypo-tirol-bank",
+  "name": "Hypo Tirol Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1641284"
+  },
+  "website": "http://www.hypotirol.com",
+  "logo": {
+   "path": "logos/at/hypo-tirol-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Hypo_Tirol_Bank_Stand_2020.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-landes-hypothekenanstalt-fur-niederosterreich",
+  "name": "Landes-Hypothekenanstalt für Niederösterreich",
+  "country": "AT",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q122081251"
+  }
+ },
+ {
+  "id": "ch-schweizerisch-argentinische-hypothekenbank",
+  "name": "Schweizerisch-Argentinische Hypothekenbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111655656"
+  }
+ },
+ {
+  "id": "de-berlin-hyp",
+  "name": "Berlin Hyp",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q821289",
+   "bic": "BHYPDEB2XXX"
+  },
+  "website": "https://www.berlinhyp.de/",
+  "logo": {
+   "path": "logos/de/berlin-hyp.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BerlinHyp2013.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-berliner-hypotheken-und-pfandbriefbank-ag",
+  "name": "Berliner Hypotheken- und Pfandbriefbank AG",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q57173003"
+  }
+ },
+ {
+  "id": "de-braunschweig-hannoversche-hypothekenbank",
+  "name": "Braunschweig-Hannoversche Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q27479410"
+  }
+ },
+ {
+  "id": "de-deutsche-hypothekenbank",
+  "name": "Deutsche Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1203131",
+   "bic": "DEHYDE2HXXX"
+  },
+  "website": "http://www.deutsche-hypo.de/"
+ },
+ {
+  "id": "de-deutsche-hypothekenbank-meiningen",
+  "name": "Deutsche Hypothekenbank Meiningen",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1203134"
+  }
+ },
+ {
+  "id": "de-dusseldorfer-hypothekenbank",
+  "name": "Düsseldorfer Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q15806956",
+   "bic": "DHYPDEDDXXX"
+  },
+  "website": "http://www.duesshyp.de/",
+  "logo": {
+   "path": "logos/de/dusseldorfer-hypothekenbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorfer_Hypothekenbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-former-landeshypothekenbank",
+  "name": "Former Landeshypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q66605878"
+  }
+ },
+ {
+  "id": "de-hessische-landes-hypothekenbank",
+  "name": "Hessische Landes-Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q63397934"
+  }
+ },
+ {
+  "id": "de-hypothekenbank-in-hamburg",
+  "name": "Hypothekenbank in Hamburg",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q56481420"
+  }
+ },
+ {
+  "id": "fi-industrial-mortgage-bank-of-finland",
+  "name": "Industrial Mortgage Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112127113"
+  }
+ },
+ {
+  "id": "fi-mortgage-society-of-finland",
+  "name": "Mortgage Society of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q3375628"
+  },
+  "website": "https://www.hypo.fi/"
+ },
+ {
+  "id": "fi-muncipal-mortgage-bank-of-finland",
+  "name": "Muncipal Mortgage Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112128637"
+  }
+ },
+ {
+  "id": "gb-mortgage-company-of-egypt",
+  "name": "Mortgage Company of Egypt",
+  "country": "GB",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q106798016"
+  }
+ },
+ {
+  "id": "gr-national-mortgage-bank-of-greece",
+  "name": "National Mortgage Bank of Greece",
+  "country": "GR",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111949666"
+  }
+ },
+ {
+  "id": "hu-hungarian-mortgage-bank",
+  "name": "Hungarian Mortgage Bank",
+  "country": "HU",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111731360"
+  }
+ },
+ {
+  "id": "pl-ing-bank-hipoteczny",
+  "name": "ING Bank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316156",
+   "bic": "INGBPLPHXXX"
+  },
+  "website": "https://www.inghipoteczny.pl/"
+ },
+ {
+  "id": "pl-mbank-hipoteczny",
+  "name": "mBank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316219"
+  }
+ },
+ {
+  "id": "pl-pekao-bank-hipoteczny",
+  "name": "Pekao Bank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316228",
+   "bic": "HYVEPLP2XXX"
+  }
+ },
+ {
+  "id": "pl-wilenski-bank-ziemski",
+  "name": "Wilenski Bank Ziemski",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112175274"
+  }
+ },
+ {
+  "id": "yu-state-mortgage-bank-of-jugoslavia",
+  "name": "State Mortgage Bank of Jugoslavia",
+  "country": "YU",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111905054"
+  }
+ },
+ {
+  "id": "pa-banco-hipotecario-de-panama",
+  "name": "Banco Hipotecario de Panama",
+  "country": "PA",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118287934"
+  }
+ },
+ {
+  "id": "sv-banco-hipotecario-de-el-salvador",
+  "name": "Banco Hipotecario de El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q20748141"
+  }
+ },
+ {
+  "id": "us-international-mortgage-and-investment",
+  "name": "International Mortgage and Investment",
+  "country": "US",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q117023271"
+  }
+ },
+ {
+  "id": "ar-banco-hipotecario",
+  "name": "Banco Hipotecario",
+  "country": "AR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q2882071"
+  },
+  "website": "https://www.hipotecario.com.ar/",
+  "logo": {
+   "path": "logos/ar/banco-hipotecario.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banco_Hipotecario.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "br-banco-hypothecario-e-agricola-do-estado-de-minas-geraes",
+  "name": "Banco Hypothecario e Agricola do Estado de Minas Geraes",
+  "country": "BR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118396382"
+  }
+ },
+ {
+  "id": "cl-banco-hipotecario-de-chile",
+  "name": "Banco Hipotecario de Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q56559796"
+  },
+  "logo": {
+   "path": "logos/cl/banco-hipotecario-de-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Hipotecario_de_Chile.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-agricultural-mortgage-bank",
+  "name": "Agricultural Mortgage Bank",
+  "country": "CO",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118288066"
+  }
+ },
+ {
+  "id": "ec-banco-hipotecario-del-ecuador",
+  "name": "Banco Hipotecario del Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118289840"
+  }
+ },
+ {
+  "id": "uy-banco-hipotecario-del-uruguay",
+  "name": "Banco Hipotecario del Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q4202998"
+  },
+  "website": "https://www.bhu.net",
+  "logo": {
+   "path": "logos/uy/banco-hipotecario-del-uruguay.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BHU_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

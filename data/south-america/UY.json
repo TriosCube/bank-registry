@@ -1,0 +1,34 @@
+[
+ {
+  "id": "uy-central-bank-of-uruguay",
+  "name": "Central Bank of Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504285"
+  },
+  "website": "https://www.bcu.gub.uy",
+  "logo": {
+   "path": "logos/uy/central-bank-of-uruguay.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Uruguay_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uy-banco-hipotecario-del-uruguay",
+  "name": "Banco Hipotecario del Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q4202998"
+  },
+  "website": "https://www.bhu.net",
+  "logo": {
+   "path": "logos/uy/banco-hipotecario-del-uruguay.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BHU_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

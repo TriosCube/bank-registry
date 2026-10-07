@@ -1,0 +1,13 @@
+[
+ {
+  "id": "mr-central-bank-of-mauritania",
+  "name": "Central Bank of Mauritania",
+  "country": "MR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2528877"
+  },
+  "website": "https://www.bcm.mr/"
+ }
+]

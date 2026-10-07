@@ -1,0 +1,17 @@
+[
+ {
+  "id": "kp-central-bank-of-the-democratic-people-s-republic-of-korea",
+  "name": "Central Bank of the Democratic People's Republic of Korea",
+  "country": "KP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1141425"
+  },
+  "logo": {
+   "path": "logos/kp/central-bank-of-the-democratic-people-s-republic-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_DPRK.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

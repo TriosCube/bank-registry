@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ug-bank-of-uganda",
+  "name": "Bank of Uganda",
+  "country": "UG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q487300"
+  },
+  "website": "http://www.bou.or.ug/"
+ }
+]

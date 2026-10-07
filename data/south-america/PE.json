@@ -1,0 +1,13 @@
+[
+ {
+  "id": "pe-central-reserve-bank-of-peru",
+  "name": "Central Reserve Bank of Peru",
+  "country": "PE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q932146"
+  },
+  "website": "https://www.bcrp.gob.pe"
+ }
+]

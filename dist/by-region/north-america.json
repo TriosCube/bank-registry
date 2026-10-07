@@ -1,0 +1,1004 @@
+[
+ {
+  "id": "aw-central-bank-of-aruba",
+  "name": "Central Bank of Aruba",
+  "country": "AW",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774469"
+  },
+  "website": "http://www.cbaruba.org"
+ },
+ {
+  "id": "aw-aib-bank-aruba",
+  "name": "AIB Bank (Aruba)",
+  "country": "AW",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q135916317"
+  }
+ },
+ {
+  "id": "bb-central-bank-of-barbados",
+  "name": "Central Bank of Barbados",
+  "country": "BB",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2600777"
+  },
+  "website": "http://www.centralbank.org.bb"
+ },
+ {
+  "id": "bm-bermuda-monetary-authority",
+  "name": "Bermuda Monetary Authority",
+  "country": "BM",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774433"
+  },
+  "website": "http://www.bma.bm"
+ },
+ {
+  "id": "bs-central-bank-of-the-bahamas",
+  "name": "Central Bank of The Bahamas",
+  "country": "BS",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504270"
+  },
+  "website": "http://www.centralbankbahamas.com/"
+ },
+ {
+  "id": "bz-central-bank-of-belize",
+  "name": "Central Bank of Belize",
+  "country": "BZ",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q643949"
+  },
+  "website": "http://www.centralbank.org.bz"
+ },
+ {
+  "id": "ca-bank-of-canada",
+  "name": "Bank of Canada",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806703"
+  },
+  "website": "https://www.bankofcanada.ca/"
+ },
+ {
+  "id": "ca-bank-of-montreal",
+  "name": "Bank of Montreal",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806693"
+  },
+  "website": "http://www.bmo.com/",
+  "logo": {
+   "path": "logos/ca/bank-of-montreal.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BMO_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ca-bank-of-canada-q4856070",
+  "name": "Bank of Canada",
+  "country": "CA",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4856070"
+  }
+ },
+ {
+  "id": "ca-tangerine",
+  "name": "Tangerine",
+  "country": "CA",
+  "region": "north-america",
+  "category": "fintech",
+  "codes": {
+   "wikidata": "Q15238797"
+  },
+  "website": "https://www.tangerine.ca/en/",
+  "logo": {
+   "path": "logos/ca/tangerine.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Tangerine_Bank_logo_2026.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ca-windsor-drake",
+  "name": "Windsor Drake",
+  "country": "CA",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140322137"
+  },
+  "website": "https://windsordrake.com"
+ },
+ {
+  "id": "cr-central-bank-of-costa-rica",
+  "name": "Central Bank of Costa Rica",
+  "country": "CR",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504273"
+  },
+  "website": "http://www.bccr.fi.cr/"
+ },
+ {
+  "id": "cu-central-bank-of-cuba",
+  "name": "Central Bank of Cuba",
+  "country": "CU",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607787"
+  },
+  "website": "http://www.bc.gob.cu/",
+  "logo": {
+   "path": "logos/cu/central-bank-of-cuba.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bancocentral-cuba.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cw-central-bank-of-curacao-and-sint-maarten",
+  "name": "Central Bank of Curaçao and Sint Maarten",
+  "country": "CW",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2602290"
+  },
+  "website": "https://www.centralbank.cw"
+ },
+ {
+  "id": "do-central-bank-of-the-dominican-republic",
+  "name": "Central Bank of the Dominican Republic",
+  "country": "DO",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1800406"
+  },
+  "website": "https://www.bancentral.gov.do/"
+ },
+ {
+  "id": "gt-bank-of-guatemala",
+  "name": "Bank of Guatemala",
+  "country": "GT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359424"
+  },
+  "website": "http://www.banguat.gob.gt",
+  "logo": {
+   "path": "logos/gt/bank-of-guatemala.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Autoridades_de_BANGUAT_realizan_reuni%C3%B3n_de_transici%C3%B3n_20231023_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "hn-central-bank-of-honduras",
+  "name": "Central Bank of Honduras",
+  "country": "HN",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2920146"
+  },
+  "website": "http://www.bch.hn/"
+ },
+ {
+  "id": "ht-bank-of-the-republic-of-haiti",
+  "name": "Bank of the Republic of Haiti",
+  "country": "HT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2883379"
+  },
+  "website": "https://www.brh.ht/"
+ },
+ {
+  "id": "ht-banque-de-l-union-haitienne",
+  "name": "Banque de l'Union Haïtienne",
+  "country": "HT",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2883032"
+  },
+  "website": "https://buh.ht/",
+  "logo": {
+   "path": "logos/ht/banque-de-l-union-haitienne.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BUH_Logo_2014.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ht-promocapital",
+  "name": "PromoCapital",
+  "country": "HT",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7249841"
+  }
+ },
+ {
+  "id": "jm-bank-of-jamaica",
+  "name": "Bank of Jamaica",
+  "country": "JM",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3374585"
+  },
+  "website": "http://www.boj.org.jm"
+ },
+ {
+  "id": "ky-cayman-islands-monetary-authority",
+  "name": "Cayman Islands Monetary Authority",
+  "country": "KY",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774447"
+  },
+  "website": "https://www.cima.ky/"
+ },
+ {
+  "id": "ky-dms-bank-and-trust",
+  "name": "DMS Bank and Trust",
+  "country": "KY",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q110125408"
+  },
+  "website": "https://dmsbank.com",
+  "logo": {
+   "path": "logos/ky/dms-bank-and-trust.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:DMS_Bank_%26_Trust_logo_2021.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mx-banco-nacional-de-mexico",
+  "name": "Banco Nacional de México",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2646652"
+  },
+  "website": "https://www.banamex.com/",
+  "logo": {
+   "path": "logos/mx/banco-nacional-de-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banamex.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mx-bank-of-mexico",
+  "name": "Bank of Mexico",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806208"
+  },
+  "website": "http://www.banxico.org.mx/",
+  "logo": {
+   "path": "logos/mx/bank-of-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logobm.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ni-central-bank-of-nicaragua",
+  "name": "Central Bank of Nicaragua",
+  "country": "NI",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504274"
+  },
+  "website": "https://www.bcn.gob.ni/",
+  "logo": {
+   "path": "logos/ni/central-bank-of-nicaragua.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Nicaragua_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pa-national-bank-of-panama",
+  "name": "National Bank of Panama",
+  "country": "PA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q429235"
+  },
+  "website": "https://www.banconal.com.pa",
+  "logo": {
+   "path": "logos/pa/national-bank-of-panama.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Panama_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pa-banco-hipotecario-de-panama",
+  "name": "Banco Hipotecario de Panama",
+  "country": "PA",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118287934"
+  }
+ },
+ {
+  "id": "sv-central-reserve-bank-of-el-salvador",
+  "name": "Central Reserve Bank of El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1801435"
+  },
+  "website": "http://www.bcr.gob.sv/",
+  "logo": {
+   "path": "logos/sv/central-reserve-bank-of-el-salvador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Central_Reserve_Bank_of_El_Salvador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sv-banco-hipotecario-de-el-salvador",
+  "name": "Banco Hipotecario de El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q20748141"
+  }
+ },
+ {
+  "id": "tt-central-bank-of-trinidad-and-tobago",
+  "name": "Central Bank of Trinidad and Tobago",
+  "country": "TT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504281"
+  },
+  "website": "https://www.central-bank.org.tt/",
+  "logo": {
+   "path": "logos/tt/central-bank-of-trinidad-and-tobago.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Trinidad_and_Tobago_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-atlanta",
+  "name": "Federal Reserve Bank of Atlanta",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3267952"
+  },
+  "website": "https://www.atlantafed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-boston",
+  "name": "Federal Reserve Bank of Boston",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4384803"
+  },
+  "website": "https://www.bostonfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-chicago",
+  "name": "Federal Reserve Bank of Chicago",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q965251"
+  },
+  "website": "https://www.chicagofed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-cleveland",
+  "name": "Federal Reserve Bank of Cleveland",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4384538"
+  },
+  "website": "https://www.clevelandfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-dallas",
+  "name": "Federal Reserve Bank of Dallas",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3268621"
+  },
+  "website": "https://www.dallasfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-kansas-city",
+  "name": "Federal Reserve Bank of Kansas City",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2166296"
+  },
+  "website": "https://www.kansascityfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-minneapolis",
+  "name": "Federal Reserve Bank of Minneapolis",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2503528"
+  },
+  "website": "https://www.minneapolisfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-new-york",
+  "name": "Federal Reserve Bank of New York",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q115860"
+  },
+  "website": "https://www.newyorkfed.org/",
+  "logo": {
+   "path": "logos/us/federal-reserve-bank-of-new-york.png",
+   "source": "https://commons.wikimedia.org/wiki/File:FRBNY_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-philadelphia",
+  "name": "Federal Reserve Bank of Philadelphia",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3267626"
+  },
+  "website": "https://www.philadelphiafed.org/"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-richmond",
+  "name": "Federal Reserve Bank of Richmond",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4383722"
+  },
+  "website": "https://www.richmondfed.org"
+ },
+ {
+  "id": "us-federal-reserve-bank-of-san-francisco",
+  "name": "Federal Reserve Bank of San Francisco",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2657981"
+  },
+  "website": "http://www.frbsf.org/",
+  "logo": {
+   "path": "logos/us/federal-reserve-bank-of-san-francisco.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Federal_Reserve_System.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-federal-reserve-bank-of-st-louis",
+  "name": "Federal Reserve Bank of St. Louis",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4383730"
+  },
+  "website": "https://www.stlouisfed.org/"
+ },
+ {
+  "id": "us-federal-reserve-system",
+  "name": "Federal Reserve System",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q53536"
+  },
+  "website": "https://www.federalreserve.gov/"
+ },
+ {
+  "id": "us-puerto-rico-fiscal-agent-and-financing",
+  "name": "Puerto Rico fiscal agent and financing",
+  "country": "US",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q7258814"
+  }
+ },
+ {
+  "id": "us-bank-of-the-sierra",
+  "name": "Bank of the Sierra",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q117187407"
+  },
+  "website": "https://www.bankofthesierra.com/"
+ },
+ {
+  "id": "us-fidelity-bank",
+  "name": "Fidelity Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q27883293",
+   "bic": "FDLTUS44XXX"
+  },
+  "website": "https://www.fidelitybank.com",
+  "logo": {
+   "path": "logos/us/fidelity-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Fidelity_Bank%2C_National_Association_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-lexicon-bank",
+  "name": "Lexicon Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q122524100"
+  },
+  "website": "https://lexiconbank.com/"
+ },
+ {
+  "id": "us-nicolet-national-bank",
+  "name": "Nicolet National Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q124021408",
+   "bic": "NICTUS44XXX"
+  },
+  "website": "https://www.nicoletbank.com",
+  "logo": {
+   "path": "logos/us/nicolet-national-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:428_Nicolet-National-Bank-Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-onewest-bank",
+  "name": "OneWest Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q153669"
+  },
+  "website": "https://www.onewestbank.com/",
+  "logo": {
+   "path": "logos/us/onewest-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:OneWest_Bank_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-pinnacle-bank-wyoming",
+  "name": "Pinnacle Bank Wyoming",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q124021712"
+  },
+  "website": "https://www.wypinnbank.com"
+ },
+ {
+  "id": "us-brown-brothers-harriman-co",
+  "name": "Brown Brothers Harriman & Co.",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q3645421",
+   "bic": "BBHCUS33XXX"
+  },
+  "website": "http://bbh.com",
+  "logo": {
+   "path": "logos/us/brown-brothers-harriman-co.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brown_Brothers_Harriman_Logo_1.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-cantor",
+  "name": "Cantor",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q141612756"
+  },
+  "website": "https://www.cantor.com"
+ },
+ {
+  "id": "us-discretion-capital",
+  "name": "Discretion Capital",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q138646050"
+  },
+  "website": "https://discretioncapital.com"
+ },
+ {
+  "id": "us-dominick-dominick",
+  "name": "Dominick & Dominick",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q5290900"
+  },
+  "website": "http://www.dominickanddominick.com"
+ },
+ {
+  "id": "us-goldman-sachs",
+  "name": "Goldman Sachs",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q193326",
+   "bic": "GSGIUS31XXX"
+  },
+  "website": "https://www.goldmansachs.com/",
+  "logo": {
+   "path": "logos/us/goldman-sachs.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-hambrecht-quist",
+  "name": "Hambrecht & Quist",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q5644255"
+  }
+ },
+ {
+  "id": "us-houlihan-lokey",
+  "name": "Houlihan Lokey",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q1410137"
+  },
+  "website": "https://www.hl.com/"
+ },
+ {
+  "id": "us-hyde-park-capital",
+  "name": "Hyde Park Capital",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140132028"
+  },
+  "website": "https://www.hydeparkcapital.com"
+ },
+ {
+  "id": "us-jegi-leonis",
+  "name": "JEGI LEONIS",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q141594948"
+  },
+  "website": "https://jl-co.com/"
+ },
+ {
+  "id": "us-leerink-partners",
+  "name": "Leerink partners",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q39060971"
+  },
+  "website": "https://www.svbsecurities.com/",
+  "logo": {
+   "path": "logos/us/leerink-partners.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Leerink_Partners.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-mavros",
+  "name": "Mavros",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140291136"
+  },
+  "website": "https://www.mavrosgroup.com"
+ },
+ {
+  "id": "us-midcap-advisors",
+  "name": "MidCap Advisors",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q17021820"
+  },
+  "website": "http://www.midcapadvisors.com",
+  "logo": {
+   "path": "logos/us/midcap-advisors.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:MidCapAdvisors.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-moelis-company",
+  "name": "Moelis & Company",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q16953039"
+  },
+  "website": "http://www.moelis.com",
+  "logo": {
+   "path": "logos/us/moelis-company.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Moelis_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-moorgate-partners",
+  "name": "Moorgate Partners",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q58894747"
+  },
+  "website": "http://www.moorgatepartners.com/"
+ },
+ {
+  "id": "us-post-oak-group",
+  "name": "Post Oak Group",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q137843751"
+  },
+  "website": "https://www.postoakgroup.co"
+ },
+ {
+  "id": "us-prime-ward-king",
+  "name": "Prime, Ward & King",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q55630455"
+  }
+ },
+ {
+  "id": "us-quarterdeck-investment-partners-inc",
+  "name": "Quarterdeck Investment Partners, Inc.",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7269288"
+  }
+ },
+ {
+  "id": "us-international-mortgage-and-investment",
+  "name": "International Mortgage and Investment",
+  "country": "US",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q117023271"
+  }
+ },
+ {
+  "id": "us-chime",
+  "name": "Chime",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://www.chime.com"
+ },
+ {
+  "id": "us-chipper-cash",
+  "name": "Chipper Cash",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://chippercash.com"
+ },
+ {
+  "id": "us-sofi",
+  "name": "SoFi",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://www.sofi.com"
+ },
+ {
+  "id": "us-block-inc",
+  "name": "Block, Inc.",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://block.xyz"
+ },
+ {
+  "id": "us-mastercard",
+  "name": "Mastercard",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.mastercard.com"
+ },
+ {
+  "id": "us-moneygram",
+  "name": "MoneyGram",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.moneygram.com"
+ },
+ {
+  "id": "us-payoneer",
+  "name": "Payoneer",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.payoneer.com"
+ },
+ {
+  "id": "us-paypal",
+  "name": "PayPal",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.paypal.com"
+ },
+ {
+  "id": "us-plaid",
+  "name": "Plaid",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://plaid.com"
+ },
+ {
+  "id": "us-remitly",
+  "name": "Remitly",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.remitly.com"
+ },
+ {
+  "id": "us-square",
+  "name": "Square",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://squareup.com"
+ },
+ {
+  "id": "us-stripe",
+  "name": "Stripe",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://stripe.com"
+ },
+ {
+  "id": "us-visa",
+  "name": "Visa",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.visa.com"
+ },
+ {
+  "id": "us-western-union",
+  "name": "Western Union",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.westernunion.com"
+ },
+ {
+  "id": "us-abacus-federal-savings-bank",
+  "name": "Abacus Federal Savings Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "savings",
+  "codes": {
+   "wikidata": "Q4663181"
+  },
+  "website": "http://www.abacusbank.com/",
+  "logo": {
+   "path": "logos/us/abacus-federal-savings-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Abacus_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "vc-eastern-caribbean-central-bank",
+  "name": "Eastern Caribbean Central Bank",
+  "country": "VC",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1210260"
+  },
+  "website": "http://www.eccb-centralbank.org"
+ }
+]

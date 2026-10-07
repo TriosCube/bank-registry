@@ -1,0 +1,13 @@
+[
+ {
+  "id": "jo-central-bank-of-jordan",
+  "name": "Central Bank of Jordan",
+  "country": "JO",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607421"
+  },
+  "website": "http://www.cbj.gov.jo/"
+ }
+]

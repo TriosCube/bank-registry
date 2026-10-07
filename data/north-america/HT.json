@@ -1,0 +1,39 @@
+[
+ {
+  "id": "ht-bank-of-the-republic-of-haiti",
+  "name": "Bank of the Republic of Haiti",
+  "country": "HT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2883379"
+  },
+  "website": "https://www.brh.ht/"
+ },
+ {
+  "id": "ht-banque-de-l-union-haitienne",
+  "name": "Banque de l'Union Haïtienne",
+  "country": "HT",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2883032"
+  },
+  "website": "https://buh.ht/",
+  "logo": {
+   "path": "logos/ht/banque-de-l-union-haitienne.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BUH_Logo_2014.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ht-promocapital",
+  "name": "PromoCapital",
+  "country": "HT",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7249841"
+  }
+ }
+]

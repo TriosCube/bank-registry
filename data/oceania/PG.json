@@ -1,0 +1,13 @@
+[
+ {
+  "id": "pg-bank-of-papua-new-guinea",
+  "name": "Bank of Papua New Guinea",
+  "country": "PG",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3364697"
+  },
+  "website": "http://www.bankpng.gov.pg/"
+ }
+]

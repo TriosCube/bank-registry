@@ -1,0 +1,13 @@
+[
+ {
+  "id": "my-bank-negara-malaysia",
+  "name": "Bank Negara Malaysia",
+  "country": "MY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806646"
+  },
+  "website": "http://www.bnm.gov.my/"
+ }
+]

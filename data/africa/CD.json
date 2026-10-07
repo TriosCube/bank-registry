@@ -1,0 +1,13 @@
+[
+ {
+  "id": "cd-central-bank-of-congo",
+  "name": "Central Bank of Congo",
+  "country": "CD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2882989"
+  },
+  "website": "http://www.bcc.cd"
+ }
+]

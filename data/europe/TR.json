@@ -1,0 +1,83 @@
+[
+ {
+  "id": "tr-central-bank-of-the-republic-of-turkey",
+  "name": "Central Bank of the Republic of Turkey",
+  "country": "TR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q580829"
+  },
+  "website": "http://www.tcmb.gov.tr",
+  "logo": {
+   "path": "logos/tr/central-bank-of-the-republic-of-turkey.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:TCMB_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tr-novabank",
+  "name": "NovaBank",
+  "country": "TR",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q61072074"
+  },
+  "website": "http://www.novabank.com.tr/"
+ },
+ {
+  "id": "tr-industrial-development-bank-of-turkey",
+  "name": "Industrial Development Bank of Turkey",
+  "country": "TR",
+  "region": "europe",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q28465260"
+  },
+  "website": "http://www.tskb.com.tr/"
+ },
+ {
+  "id": "tr-aktif-bank",
+  "name": "Aktif Bank",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18712731"
+  },
+  "website": "https://www.aktifbank.com.tr/tr",
+  "logo": {
+   "path": "logos/tr/aktif-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Aktif_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tr-bankpozitif",
+  "name": "BankPozitif",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q20471726"
+  },
+  "website": "https://www.bankpozitif.com.tr/"
+ },
+ {
+  "id": "tr-is-yatrm",
+  "name": "İş Yatırım",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q6103263"
+  },
+  "website": "http://www.isinvestment.com",
+  "logo": {
+   "path": "logos/tr/is-yatrm.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Is_Investment_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

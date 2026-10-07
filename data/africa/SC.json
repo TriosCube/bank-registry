@@ -1,0 +1,18 @@
+[
+ {
+  "id": "sc-central-bank-of-seychelles",
+  "name": "Central Bank of Seychelles",
+  "country": "SC",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504280"
+  },
+  "website": "http://www.cbs.sc/",
+  "logo": {
+   "path": "logos/sc/central-bank-of-seychelles.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Seychelles_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ee-bank-of-estonia",
+  "name": "Bank of Estonia",
+  "country": "EE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q366960"
+  },
+  "website": "https://www.eestipank.ee/"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "id": "bn-brunei-darussalam-central-bank",
+  "name": "Brunei Darussalam Central Bank",
+  "country": "BN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604419"
+  },
+  "website": "http://www.ambd.gov.bn",
+  "logo": {
+   "path": "logos/bn/brunei-darussalam-central-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambd-logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "za-discovery-bank",
+  "name": "Discovery Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "codes": {
+   "wikidata": "Q136469268"
+  }
+ },
+ {
+  "id": "za-tymebank",
+  "name": "TymeBank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "website": "https://www.tymebank.co.za"
+ },
+ {
+  "id": "gb-monzo",
+  "name": "Monzo",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://monzo.com"
+ },
+ {
+  "id": "gb-revolut",
+  "name": "Revolut",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://www.revolut.com"
+ },
+ {
+  "id": "gb-starling-bank",
+  "name": "Starling Bank",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://www.starlingbank.com"
+ },
+ {
+  "id": "gb-wise",
+  "name": "Wise",
+  "country": "GB",
+  "region": "europe",
+  "category": "neobank",
+  "website": "https://wise.com"
+ },
+ {
+  "id": "it-buddy",
+  "name": "buddy",
+  "country": "IT",
+  "region": "europe",
+  "category": "neobank",
+  "codes": {
+   "wikidata": "Q104218310"
+  },
+  "website": "https://www.buddy.unicredit.com/",
+  "logo": {
+   "path": "logos/it/buddy.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo-buddybank.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-chime",
+  "name": "Chime",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://www.chime.com"
+ },
+ {
+  "id": "us-chipper-cash",
+  "name": "Chipper Cash",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://chippercash.com"
+ },
+ {
+  "id": "us-sofi",
+  "name": "SoFi",
+  "country": "US",
+  "region": "north-america",
+  "category": "neobank",
+  "website": "https://www.sofi.com"
+ },
+ {
+  "id": "br-nubank",
+  "name": "Nubank",
+  "country": "BR",
+  "region": "south-america",
+  "category": "neobank",
+  "website": "https://nubank.com.br"
+ }
+]

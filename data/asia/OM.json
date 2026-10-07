@@ -1,0 +1,18 @@
+[
+ {
+  "id": "om-central-bank-of-oman",
+  "name": "Central Bank of Oman",
+  "country": "OM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3488501"
+  },
+  "website": "https://www.cbo.gov.om/",
+  "logo": {
+   "path": "logos/om/central-bank-of-oman.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Oman_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

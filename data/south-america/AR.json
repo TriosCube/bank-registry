@@ -1,0 +1,74 @@
+[
+ {
+  "id": "ar-central-bank-of-argentina",
+  "name": "Central Bank of Argentina",
+  "country": "AR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q642444"
+  },
+  "website": "https://www.bcra.gob.ar/",
+  "logo": {
+   "path": "logos/ar/central-bank-of-argentina.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BCRA_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-banco-de-inversion-y-comercio-exterior",
+  "name": "Banco de Inversión y Comercio Exterior",
+  "country": "AR",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q98124040"
+  },
+  "website": "https://www.bice.com.ar/",
+  "logo": {
+   "path": "logos/ar/banco-de-inversion-y-comercio-exterior.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bice-logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-bank-of-the-argentine-nation",
+  "name": "Bank of the Argentine Nation",
+  "country": "AR",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2883376"
+  },
+  "website": "https://www.bna.com.ar/",
+  "logo": {
+   "path": "logos/ar/bank-of-the-argentine-nation.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Naci%C3%B3n.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-mercado-pago",
+  "name": "Mercado Pago",
+  "country": "AR",
+  "region": "south-america",
+  "category": "fintech",
+  "website": "https://www.mercadopago.com"
+ },
+ {
+  "id": "ar-banco-hipotecario",
+  "name": "Banco Hipotecario",
+  "country": "AR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q2882071"
+  },
+  "website": "https://www.hipotecario.com.ar/",
+  "logo": {
+   "path": "logos/ar/banco-hipotecario.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banco_Hipotecario.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

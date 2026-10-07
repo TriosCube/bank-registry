@@ -1,0 +1,13 @@
+[
+ {
+  "id": "zm-bank-of-zambia",
+  "name": "Bank of Zambia",
+  "country": "ZM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806694"
+  },
+  "website": "http://www.boz.zm/"
+ }
+]

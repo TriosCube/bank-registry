@@ -1,0 +1,13 @@
+[
+ {
+  "id": "do-central-bank-of-the-dominican-republic",
+  "name": "Central Bank of the Dominican Republic",
+  "country": "DO",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1800406"
+  },
+  "website": "https://www.bancentral.gov.do/"
+ }
+]

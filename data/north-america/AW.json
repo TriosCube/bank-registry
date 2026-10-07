@@ -1,0 +1,23 @@
+[
+ {
+  "id": "aw-central-bank-of-aruba",
+  "name": "Central Bank of Aruba",
+  "country": "AW",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774469"
+  },
+  "website": "http://www.cbaruba.org"
+ },
+ {
+  "id": "aw-aib-bank-aruba",
+  "name": "AIB Bank (Aruba)",
+  "country": "AW",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q135916317"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ye-central-bank-of-yemen",
+  "name": "Central Bank of Yemen",
+  "country": "YE",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797039"
+  },
+  "website": "http://www.centralbank.gov.ye"
+ }
+]

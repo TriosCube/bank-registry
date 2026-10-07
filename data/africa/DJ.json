@@ -1,0 +1,13 @@
+[
+ {
+  "id": "dj-central-bank-of-djibouti",
+  "name": "Central Bank of Djibouti",
+  "country": "DJ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504271"
+  },
+  "website": "http://www.banque-centrale.dj"
+ }
+]

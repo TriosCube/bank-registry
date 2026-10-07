@@ -1,0 +1,14 @@
+[
+ {
+  "id": "va-administration-of-the-patrimony-of-the-apostolic-see",
+  "name": "Administration of the Patrimony of the Apostolic See",
+  "country": "VA",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1562250",
+   "bic": "APDEVAVAXXX"
+  },
+  "website": "http://www.vatican.va/roman_curia/uffici/apsa/index_it.htm"
+ }
+]

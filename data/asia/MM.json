@@ -1,0 +1,18 @@
+[
+ {
+  "id": "mm-central-bank-of-myanmar",
+  "name": "Central Bank of Myanmar",
+  "country": "MM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1944374"
+  },
+  "website": "https://www.cbm.gov.mm/",
+  "logo": {
+   "path": "logos/mm/central-bank-of-myanmar.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Myanmar_seal.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

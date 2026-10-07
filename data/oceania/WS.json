@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ws-central-bank-of-samoa",
+  "name": "Central Bank of Samoa",
+  "country": "WS",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2632072"
+  },
+  "website": "http://www.cbs.gov.ws"
+ }
+]

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bank registry entry",
+  "type": "object",
+  "required": ["id", "name", "country", "region", "category"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z]{2}-[a-z0-9-]+$", "description": "<iso2 lower>-<slug>. Stable: never rename once published."},
+    "name": {"type": "string", "minLength": 2},
+    "shortName": {"type": "string"},
+    "country": {"type": "string", "pattern": "^[A-Z]{2}$", "description": "ISO 3166-1 alpha-2"},
+    "region": {"enum": ["africa", "asia", "europe", "north-america", "south-america", "oceania"]},
+    "category": {"enum": ["commercial", "central", "microfinance", "investment", "development", "islamic", "savings", "cooperative", "mortgage", "neobank", "fintech", "payments", "mobile-money", "other"]},
+    "codes": {"type": "object", "additionalProperties": false, "properties": {
+      "nip": {"type": "string", "description": "Nigeria CBN/NIBSS bank code"},
+      "bic": {"type": "string", "pattern": "^[A-Z0-9]{8}([A-Z0-9]{3})?$", "description": "SWIFT/BIC"},
+      "wikidata": {"type": "string", "pattern": "^Q[0-9]+$"}}},
+    "ussd": {"type": "string"},
+    "website": {"type": "string", "format": "uri"},
+    "logo": {"type": "object", "required": ["path"], "additionalProperties": false, "properties": {
+      "path": {"type": "string", "description": "Repo-relative path under logos/"},
+      "source": {"type": "string", "format": "uri"},
+      "license": {"type": "string"}}},
+    "status": {"enum": ["active", "inactive"], "default": "active"}
+  }
+}

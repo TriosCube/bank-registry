@@ -1,0 +1,13 @@
+[
+ {
+  "id": "gy-bank-of-guyana",
+  "name": "Bank of Guyana",
+  "country": "GY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1812564"
+  },
+  "website": "http://www.bankofguyana.org.gy/"
+ }
+]

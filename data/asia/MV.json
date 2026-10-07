@@ -1,0 +1,18 @@
+[
+ {
+  "id": "mv-maldives-monetary-authority",
+  "name": "Maldives Monetary Authority",
+  "country": "MV",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1188022"
+  },
+  "website": "http://mma.gov.mv",
+  "logo": {
+   "path": "logos/mv/maldives-monetary-authority.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Maldives_Monetary_Authority_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

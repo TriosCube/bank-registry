@@ -1,0 +1,47 @@
+[
+ {
+  "id": "br-banco-central-do-brasil-fortaleza",
+  "name": "Banco Central do Brasil (Fortaleza)",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q136416763"
+  },
+  "website": "https://www.bcb.gov.br/"
+ },
+ {
+  "id": "br-central-bank-of-brazil",
+  "name": "Central Bank of Brazil",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806186"
+  },
+  "website": "http://www.bcb.gov.br",
+  "logo": {
+   "path": "logos/br/central-bank-of-brazil.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Banco_Central_do_Brasil.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "br-banco-hypothecario-e-agricola-do-estado-de-minas-geraes",
+  "name": "Banco Hypothecario e Agricola do Estado de Minas Geraes",
+  "country": "BR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118396382"
+  }
+ },
+ {
+  "id": "br-nubank",
+  "name": "Nubank",
+  "country": "BR",
+  "region": "south-america",
+  "category": "neobank",
+  "website": "https://nubank.com.br"
+ }
+]

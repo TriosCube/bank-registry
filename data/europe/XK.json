@@ -1,0 +1,18 @@
+[
+ {
+  "id": "xk-central-bank-of-kosovo",
+  "name": "Central Bank of Kosovo",
+  "country": "XK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3338523"
+  },
+  "website": "https://bqk-kos.org/",
+  "logo": {
+   "path": "logos/xk/central-bank-of-kosovo.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Kosovo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

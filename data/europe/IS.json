@@ -1,0 +1,14 @@
+[
+ {
+  "id": "is-central-bank-of-iceland",
+  "name": "Central Bank of Iceland",
+  "country": "IS",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1195916",
+   "bic": "SISLISRE"
+  },
+  "website": "http://cb.is/"
+ }
+]

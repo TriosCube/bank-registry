@@ -1,0 +1,28 @@
+[
+ {
+  "id": "hu-hungarian-national-bank",
+  "name": "Hungarian National Bank",
+  "country": "HU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q774636"
+  },
+  "website": "https://www.mnb.hu/",
+  "logo": {
+   "path": "logos/hu/hungarian-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Hungarian_National_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "hu-hungarian-mortgage-bank",
+  "name": "Hungarian Mortgage Bank",
+  "country": "HU",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111731360"
+  }
+ }
+]

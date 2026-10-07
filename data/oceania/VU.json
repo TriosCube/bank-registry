@@ -1,0 +1,13 @@
+[
+ {
+  "id": "vu-reserve-bank-of-vanuatu",
+  "name": "Reserve Bank of Vanuatu",
+  "country": "VU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2601309"
+  },
+  "website": "http://www.rbv.gov.vu/"
+ }
+]

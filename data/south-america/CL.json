@@ -1,0 +1,49 @@
+[
+ {
+  "id": "cl-central-bank-of-chile",
+  "name": "Central Bank of Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2631674"
+  },
+  "website": "http://www.bcentral.cl/",
+  "logo": {
+   "path": "logos/cl/central-bank-of-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Chile_2021.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cl-state-bank-of-chile",
+  "name": "State Bank of Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5718188"
+  },
+  "website": "https://www.bancoestado.cl/",
+  "logo": {
+   "path": "logos/cl/state-bank-of-chile.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_BancoEstado.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cl-banco-hipotecario-de-chile",
+  "name": "Banco Hipotecario de Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q56559796"
+  },
+  "logo": {
+   "path": "logos/cl/banco-hipotecario-de-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Hipotecario_de_Chile.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "yu-national-bank-of-yugoslavia",
+  "name": "National Bank of Yugoslavia",
+  "country": "YU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q111908045"
+  }
+ },
+ {
+  "id": "yu-state-mortgage-bank-of-jugoslavia",
+  "name": "State Mortgage Bank of Jugoslavia",
+  "country": "YU",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111905054"
+  }
+ }
+]

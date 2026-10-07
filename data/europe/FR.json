@@ -1,0 +1,71 @@
+[
+ {
+  "id": "fr-bank-of-france",
+  "name": "Bank of France",
+  "country": "FR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806950",
+   "bic": "BDFEFR31XXX"
+  },
+  "website": "http://www.banque-france.fr/",
+  "logo": {
+   "path": "logos/fr/bank-of-france.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_de_France_2022_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-institut-d-emission-d-outre-mer",
+  "name": "Institut d'émission d'outre-mer",
+  "country": "FR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3151944"
+  },
+  "website": "http://ieom.fr/"
+ },
+ {
+  "id": "fr-bnp-paribas",
+  "name": "BNP Paribas",
+  "country": "FR",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q499707",
+   "bic": "BNEMFRP1XXX"
+  },
+  "website": "https://group.bnpparibas",
+  "logo": {
+   "path": "logos/fr/bnp-paribas.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BNP_Paribas.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-bnp-paribas-cib",
+  "name": "BNP Paribas CIB",
+  "country": "FR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q4836134"
+  },
+  "website": "http://www.cib.bnpparibas.com",
+  "logo": {
+   "path": "logos/fr/bnp-paribas-cib.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BNP_Paribas.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-orange-money",
+  "name": "Orange Money",
+  "country": "FR",
+  "region": "europe",
+  "category": "mobile-money",
+  "website": "https://www.orange.com"
+ }
+]

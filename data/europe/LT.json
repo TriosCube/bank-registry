@@ -1,0 +1,34 @@
+[
+ {
+  "id": "lt-bank-of-lithuania",
+  "name": "Bank of Lithuania",
+  "country": "LT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q616849"
+  },
+  "website": "http://www.lb.lt",
+  "logo": {
+   "path": "logos/lt/bank-of-lithuania.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lietuvos_bankas.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lt-revolut",
+  "name": "Revolut",
+  "country": "LT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q22908307"
+  },
+  "website": "https://www.revolut.com",
+  "logo": {
+   "path": "logos/lt/revolut.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Revolut_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

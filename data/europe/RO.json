@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ro-national-bank-of-romania",
+  "name": "National Bank of Romania",
+  "country": "RO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q967861"
+  },
+  "website": "http://www.bnr.ro/",
+  "logo": {
+   "path": "logos/ro/national-bank-of-romania.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Romania_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

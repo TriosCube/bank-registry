@@ -1,0 +1,13 @@
+[
+ {
+  "id": "by-national-bank-of-the-republic-of-belarus",
+  "name": "National Bank of the Republic of Belarus",
+  "country": "BY",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q431491"
+  },
+  "website": "http://www.nbrb.by/"
+ }
+]

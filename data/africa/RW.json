@@ -1,0 +1,13 @@
+[
+ {
+  "id": "rw-national-bank-of-rwanda",
+  "name": "National Bank of Rwanda",
+  "country": "RW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4314980"
+  },
+  "website": "http://www.bnr.rw/"
+ }
+]

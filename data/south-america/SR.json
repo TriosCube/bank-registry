@@ -1,0 +1,18 @@
+[
+ {
+  "id": "sr-centrale-bank-van-suriname",
+  "name": "Centrale Bank van Suriname",
+  "country": "SR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2981941"
+  },
+  "website": "https://www.cbvs.sr/",
+  "logo": {
+   "path": "logos/sr/centrale-bank-van-suriname.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Suriname_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

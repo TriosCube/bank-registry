@@ -1,0 +1,96 @@
+[
+ {
+  "id": "ph-bangko-sentral-ng-pilipinas",
+  "name": "Bangko Sentral ng Pilipinas",
+  "country": "PH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1853468"
+  },
+  "website": "https://www.bsp.gov.ph",
+  "logo": {
+   "path": "logos/ph/bangko-sentral-ng-pilipinas.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bangko_Sentral_ng_Pilipinas_2020_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-asia-united-bank",
+  "name": "Asia United Bank",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4806482"
+  },
+  "website": "https://www.aub.com.ph",
+  "logo": {
+   "path": "logos/ph/asia-united-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Asia_United_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-bank-of-the-philippine-islands",
+  "name": "Bank of the Philippine Islands",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2501256"
+  },
+  "website": "https://bpi.com.ph"
+ },
+ {
+  "id": "ph-bdo",
+  "name": "BDO",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4854129"
+  },
+  "website": "https://www.bdo.com.ph",
+  "logo": {
+   "path": "logos/ph/bdo.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BDO_Unibank_%28logo%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-security-bank-corporation",
+  "name": "Security Bank Corporation",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7444945"
+  },
+  "website": "https://www.securitybank.com/",
+  "logo": {
+   "path": "logos/ph/security-bank-corporation.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Security_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-al-amanah-islamic-investment-bank-of-the-philippines",
+  "name": "Al-Amanah Islamic Investment Bank of the Philippines",
+  "country": "PH",
+  "region": "asia",
+  "category": "islamic",
+  "codes": {
+   "wikidata": "Q1657945"
+  },
+  "website": "http://www.amanahbank.gov.ph/"
+ },
+ {
+  "id": "ph-gcash",
+  "name": "GCash",
+  "country": "PH",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.gcash.com"
+ }
+]

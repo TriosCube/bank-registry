@@ -1,0 +1,13 @@
+[
+ {
+  "id": "iq-central-bank-of-iraq",
+  "name": "Central Bank of Iraq",
+  "country": "IQ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1778674"
+  },
+  "website": "http://www.cbi.iq"
+ }
+]

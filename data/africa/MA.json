@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ma-bank-al-maghrib",
+  "name": "Bank Al-Maghrib",
+  "country": "MA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q328198"
+  },
+  "website": "https://www.bkam.ma/",
+  "logo": {
+   "path": "logos/ma/bank-al-maghrib.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Al-Maghrib_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

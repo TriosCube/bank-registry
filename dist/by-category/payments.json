@@ -1,0 +1,303 @@
+[
+ {
+  "id": "eg-fawry",
+  "name": "Fawry",
+  "country": "EG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://fawry.com"
+ },
+ {
+  "id": "ke-cellulant",
+  "name": "Cellulant",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://cellulant.io"
+ },
+ {
+  "id": "ke-pesapal",
+  "name": "Pesapal",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.pesapal.com"
+ },
+ {
+  "id": "ng-9mobile-9payment-service-bank",
+  "name": "9mobile 9Payment Service Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120001"
+  },
+  "logo": {
+   "path": "logos/ng/9mobile-9payment-service-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-airtel-smartcash-psb",
+  "name": "Airtel Smartcash PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120004"
+  },
+  "logo": {
+   "path": "logos/ng/airtel-smartcash-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fincra",
+  "name": "Fincra",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://fincra.com"
+ },
+ {
+  "id": "ng-interswitch",
+  "name": "Interswitch",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.interswitchgroup.com"
+ },
+ {
+  "id": "ng-money-master-psb",
+  "name": "Money Master PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "946"
+  },
+  "logo": {
+   "path": "logos/ng/money-master-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mtn-momo-psb",
+  "name": "MTN Momo PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120003"
+  },
+  "logo": {
+   "path": "logos/ng/mtn-momo-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-remita",
+  "name": "Remita",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://remita.net"
+ },
+ {
+  "id": "za-ozow",
+  "name": "Ozow",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://ozow.com"
+ },
+ {
+  "id": "za-stitch",
+  "name": "Stitch",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://stitch.money"
+ },
+ {
+  "id": "za-yoco",
+  "name": "Yoco",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.yoco.com"
+ },
+ {
+  "id": "cn-alipay",
+  "name": "Alipay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://global.alipay.com"
+ },
+ {
+  "id": "cn-wechat-pay",
+  "name": "WeChat Pay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://pay.weixin.qq.com"
+ },
+ {
+  "id": "in-india-post-payments-bank",
+  "name": "India Post Payments Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19895346"
+  },
+  "website": "https://ippbonline.bank.in/"
+ },
+ {
+  "id": "in-ippopay",
+  "name": "IppoPay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q130642374"
+  },
+  "website": "https://www.ippopay.com"
+ },
+ {
+  "id": "in-paytm",
+  "name": "Paytm",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19757718"
+  },
+  "website": "https://www.paytm.com"
+ },
+ {
+  "id": "in-razorpay",
+  "name": "Razorpay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://razorpay.com"
+ },
+ {
+  "id": "gb-checkout-com",
+  "name": "Checkout.com",
+  "country": "GB",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://www.checkout.com"
+ },
+ {
+  "id": "gb-sendwave",
+  "name": "Sendwave",
+  "country": "GB",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://sendwave.com"
+ },
+ {
+  "id": "nl-adyen",
+  "name": "Adyen",
+  "country": "NL",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://www.adyen.com"
+ },
+ {
+  "id": "us-block-inc",
+  "name": "Block, Inc.",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://block.xyz"
+ },
+ {
+  "id": "us-mastercard",
+  "name": "Mastercard",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.mastercard.com"
+ },
+ {
+  "id": "us-moneygram",
+  "name": "MoneyGram",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.moneygram.com"
+ },
+ {
+  "id": "us-payoneer",
+  "name": "Payoneer",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.payoneer.com"
+ },
+ {
+  "id": "us-paypal",
+  "name": "PayPal",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.paypal.com"
+ },
+ {
+  "id": "us-plaid",
+  "name": "Plaid",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://plaid.com"
+ },
+ {
+  "id": "us-remitly",
+  "name": "Remitly",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.remitly.com"
+ },
+ {
+  "id": "us-square",
+  "name": "Square",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://squareup.com"
+ },
+ {
+  "id": "us-stripe",
+  "name": "Stripe",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://stripe.com"
+ },
+ {
+  "id": "us-visa",
+  "name": "Visa",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.visa.com"
+ },
+ {
+  "id": "us-western-union",
+  "name": "Western Union",
+  "country": "US",
+  "region": "north-america",
+  "category": "payments",
+  "website": "https://www.westernunion.com"
+ }
+]

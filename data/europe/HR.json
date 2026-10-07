@@ -1,0 +1,19 @@
+[
+ {
+  "id": "hr-croatian-national-bank",
+  "name": "Croatian National Bank",
+  "country": "HR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1143457",
+   "bic": "NBHRHR2X"
+  },
+  "website": "https://www.hnb.hr",
+  "logo": {
+   "path": "logos/hr/croatian-national-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Croatian_National_Bank_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "id": "ng-asosavings",
+  "name": "ASO Savings and Loans",
+  "country": "NG",
+  "region": "africa",
+  "category": "savings",
+  "codes": {
+   "nip": "401"
+  },
+  "logo": {
+   "path": "logos/ng/asosavings.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kebbi-homes-savings-and-loans-limited",
+  "name": "Kebbi Homes Savings and Loans Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "savings",
+  "codes": {
+   "nip": "90028"
+  },
+  "logo": {
+   "path": "logos/ng/kebbi-homes-savings-and-loans-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "us-abacus-federal-savings-bank",
+  "name": "Abacus Federal Savings Bank",
+  "country": "US",
+  "region": "north-america",
+  "category": "savings",
+  "codes": {
+   "wikidata": "Q4663181"
+  },
+  "website": "http://www.abacusbank.com/",
+  "logo": {
+   "path": "logos/us/abacus-federal-savings-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Abacus_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

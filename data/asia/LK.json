@@ -1,0 +1,13 @@
+[
+ {
+  "id": "lk-central-bank-of-sri-lanka",
+  "name": "Central Bank of Sri Lanka",
+  "country": "LK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2640939"
+  },
+  "website": "https://www.cbsl.gov.lk/"
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "tz-bank-of-tanzania",
+  "name": "Bank of Tanzania",
+  "country": "TZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2670842"
+  },
+  "website": "http://www.bot-tz.org/"
+ }
+]

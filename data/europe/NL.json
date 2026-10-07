@@ -1,0 +1,10 @@
+[
+ {
+  "id": "nl-adyen",
+  "name": "Adyen",
+  "country": "NL",
+  "region": "europe",
+  "category": "payments",
+  "website": "https://www.adyen.com"
+ }
+]

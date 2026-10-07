@@ -1,0 +1,148 @@
+[
+ {
+  "id": "jp-bank-of-japan",
+  "name": "Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q333101",
+   "bic": "BOJPJPJT"
+  },
+  "website": "https://www.boj.or.jp/",
+  "logo": {
+   "path": "logos/jp/bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E3%83%AD%E3%82%B4.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-au-jibun-bank",
+  "name": "au Jibun Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11269354",
+   "bic": "JICRJPJ1"
+  },
+  "website": "https://www.jibunbank.co.jp/"
+ },
+ {
+  "id": "jp-daiwa-next-bank",
+  "name": "Daiwa Next Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11433388"
+  },
+  "website": "https://www.bank-daiwa.co.jp/"
+ },
+ {
+  "id": "jp-docomo-smtb-net-bank",
+  "name": "DOCOMO SMTB Net Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q17228896"
+  },
+  "website": "https://www.netbk.co.jp/",
+  "logo": {
+   "path": "logos/jp/docomo-smtb-net-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Docomo_smtb_net_bank_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-minna-no-ginko",
+  "name": "Minna no Ginko",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q107411895"
+  },
+  "website": "https://note.minna-no-ginko.com/"
+ },
+ {
+  "id": "jp-national-banks-in-meiji-japan",
+  "name": "National Banks in Meiji Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11421309"
+  }
+ },
+ {
+  "id": "jp-seven-bank",
+  "name": "Seven Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7457182"
+  },
+  "website": "https://www.sevenbank.co.jp/",
+  "logo": {
+   "path": "logos/jp/seven-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Seven_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-sony-bank",
+  "name": "Sony Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7562429"
+  },
+  "website": "http://sonybank.net/",
+  "logo": {
+   "path": "logos/jp/sony-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Sony_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-ui-bank",
+  "name": "UI Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q110242795"
+  },
+  "website": "https://www.uibank.co.jp/"
+ },
+ {
+  "id": "jp-development-bank-of-japan",
+  "name": "Development Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q5266677"
+  },
+  "website": "https://www.dbj.jp/",
+  "logo": {
+   "path": "logos/jp/development-bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dbj_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-hayate-investment",
+  "name": "Hayate Investment",
+  "country": "JP",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q133898744"
+  }
+ }
+]

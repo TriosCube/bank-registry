@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ss-bank-of-south-sudan",
+  "name": "Bank of South Sudan",
+  "country": "SS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359554"
+  },
+  "website": "https://boss.gov.ss"
+ }
+]

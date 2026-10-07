@@ -1,0 +1,34 @@
+[
+ {
+  "id": "ru-central-bank-of-russia",
+  "name": "Central Bank of Russia",
+  "country": "RU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806651"
+  },
+  "website": "https://cbr.ru/",
+  "logo": {
+   "path": "logos/ru/central-bank-of-russia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRF_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ru-freedom-holding",
+  "name": "Freedom Holding",
+  "country": "RU",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q21843099"
+  },
+  "website": "https://www.freedomholdingcorp.com/",
+  "logo": {
+   "path": "logos/ru/freedom-holding.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Freedom_Holding_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

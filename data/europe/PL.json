@@ -1,0 +1,109 @@
+[
+ {
+  "id": "pl-narodowy-bank-polski",
+  "name": "Narodowy Bank Polski",
+  "country": "PL",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q168844"
+  },
+  "website": "https://www.nbp.pl/",
+  "logo": {
+   "path": "logos/pl/narodowy-bank-polski.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Narodowy_Bank_Polski_logo_and_wordmark_%282021%29_v2.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pl-bank-polska-kasa-opieki",
+  "name": "Bank Polska Kasa Opieki",
+  "country": "PL",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806642"
+  },
+  "website": "https://pekao.com.pl",
+  "logo": {
+   "path": "logos/pl/bank-polska-kasa-opieki.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Pekao_SA_Logo_%282017%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pl-bnp-paribas-bank-polska",
+  "name": "BNP Paribas Bank Polska",
+  "country": "PL",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q20744004"
+  },
+  "website": "https://www.bnpparibas.pl/",
+  "logo": {
+   "path": "logos/pl/bnp-paribas-bank-polska.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BNP_Paribas.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pl-erste-bank-polska",
+  "name": "Erste Bank Polska",
+  "country": "PL",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806653"
+  },
+  "website": "https://www.erste.pl/",
+  "logo": {
+   "path": "logos/pl/erste-bank-polska.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Erste_Logo_2023.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pl-ing-bank-hipoteczny",
+  "name": "ING Bank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316156",
+   "bic": "INGBPLPHXXX"
+  },
+  "website": "https://www.inghipoteczny.pl/"
+ },
+ {
+  "id": "pl-mbank-hipoteczny",
+  "name": "mBank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316219"
+  }
+ },
+ {
+  "id": "pl-pekao-bank-hipoteczny",
+  "name": "Pekao Bank Hipoteczny",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q121316228",
+   "bic": "HYVEPLP2XXX"
+  }
+ },
+ {
+  "id": "pl-wilenski-bank-ziemski",
+  "name": "Wilenski Bank Ziemski",
+  "country": "PL",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112175274"
+  }
+ }
+]

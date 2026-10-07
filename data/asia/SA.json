@@ -1,0 +1,18 @@
+[
+ {
+  "id": "sa-saudi-central-bank",
+  "name": "Saudi Central Bank",
+  "country": "SA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2605574"
+  },
+  "website": "http://www.sama.gov.sa",
+  "logo": {
+   "path": "logos/sa/saudi-central-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Saudi_Arabian_Monetary_Authority.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

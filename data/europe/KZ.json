@@ -1,0 +1,18 @@
+[
+ {
+  "id": "kz-national-bank-of-kazakhstan",
+  "name": "National Bank of Kazakhstan",
+  "country": "KZ",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2472280"
+  },
+  "website": "http://www.nationalbank.kz",
+  "logo": {
+   "path": "logos/kz/national-bank-of-kazakhstan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Kazakhstan_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

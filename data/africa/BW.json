@@ -1,0 +1,13 @@
+[
+ {
+  "id": "bw-bank-of-botswana",
+  "name": "Bank of Botswana",
+  "country": "BW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q859830"
+  },
+  "website": "http://www.bankofbotswana.bw/"
+ }
+]

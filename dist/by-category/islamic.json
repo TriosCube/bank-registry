@@ -1,0 +1,29 @@
+[
+ {
+  "id": "ng-jaiz-bank",
+  "name": "Jaiz Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "islamic",
+  "codes": {
+   "nip": "301"
+  },
+  "ussd": "*389*301#",
+  "logo": {
+   "path": "logos/ng/jaiz-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ph-al-amanah-islamic-investment-bank-of-the-philippines",
+  "name": "Al-Amanah Islamic Investment Bank of the Philippines",
+  "country": "PH",
+  "region": "asia",
+  "category": "islamic",
+  "codes": {
+   "wikidata": "Q1657945"
+  },
+  "website": "http://www.amanahbank.gov.ph/"
+ }
+]

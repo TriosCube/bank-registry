@@ -1,0 +1,13 @@
+[
+ {
+  "id": "td-bank-of-central-african-states",
+  "name": "Bank of Central African States",
+  "country": "TD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q189972"
+  },
+  "website": "https://www.beac.int"
+ }
+]

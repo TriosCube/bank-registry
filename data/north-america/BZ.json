@@ -1,0 +1,13 @@
+[
+ {
+  "id": "bz-central-bank-of-belize",
+  "name": "Central Bank of Belize",
+  "country": "BZ",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q643949"
+  },
+  "website": "http://www.centralbank.org.bz"
+ }
+]

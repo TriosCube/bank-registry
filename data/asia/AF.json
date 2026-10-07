@@ -1,0 +1,18 @@
+[
+ {
+  "id": "af-da-afghanistan-bank",
+  "name": "Da Afghanistan Bank",
+  "country": "AF",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1156372"
+  },
+  "website": "http://dab.gov.af/en",
+  "logo": {
+   "path": "logos/af/da-afghanistan-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Da_Afghanistan_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

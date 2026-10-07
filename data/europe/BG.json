@@ -1,0 +1,29 @@
+[
+ {
+  "id": "bg-bulgarian-national-bank",
+  "name": "Bulgarian National Bank",
+  "country": "BG",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74687"
+  },
+  "website": "http://www.bnb.bg/"
+ },
+ {
+  "id": "bg-postbank",
+  "name": "Postbank",
+  "country": "BG",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7234083"
+  },
+  "website": "https://www.postbank.bg/",
+  "logo": {
+   "path": "logos/bg/postbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Postbank_Bulgaria_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

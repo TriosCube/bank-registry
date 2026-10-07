@@ -1,0 +1,13 @@
+[
+ {
+  "id": "tl-banco-central-de-timor-leste",
+  "name": "Banco Central de Timor-Leste",
+  "country": "TL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504282"
+  },
+  "website": "https://www.bancocentral.tl/en"
+ }
+]

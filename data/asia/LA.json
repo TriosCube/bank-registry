@@ -1,0 +1,24 @@
+[
+ {
+  "id": "la-bank-of-the-lao-p-d-r",
+  "name": "Bank of the Lao P.D.R.",
+  "country": "LA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077339"
+  },
+  "website": "http://www.bol.gov.la/"
+ },
+ {
+  "id": "la-digitap-app",
+  "name": "DigiTap App",
+  "country": "LA",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q138848998"
+  },
+  "website": "https://digitap.app/"
+ }
+]

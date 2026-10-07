@@ -1,0 +1,13 @@
+[
+ {
+  "id": "lr-central-bank-of-liberia",
+  "name": "Central Bank of Liberia",
+  "country": "LR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2899684"
+  },
+  "website": "http://www.cbl.org.lr/index.php"
+ }
+]

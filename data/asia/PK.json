@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pk-state-bank-of-pakistan",
+  "name": "State Bank of Pakistan",
+  "country": "PK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1323248"
+  },
+  "website": "http://www.sbp.org.pk/"
+ },
+ {
+  "id": "pk-bank-alfalah",
+  "name": "Bank Alfalah",
+  "country": "PK",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4855895"
+  },
+  "website": "http://www.bankalfalah.com/",
+  "logo": {
+   "path": "logos/pk/bank-alfalah.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_alfalah_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

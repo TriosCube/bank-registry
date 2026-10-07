@@ -1,0 +1,19 @@
+[
+ {
+  "id": "cz-czech-national-bank",
+  "name": "Czech National Bank",
+  "country": "CZ",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q251062",
+   "bic": "CNBACZPPXXX"
+  },
+  "website": "https://www.cnb.cz/",
+  "logo": {
+   "path": "logos/cz/czech-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A1_n%C3%A1rodn%C3%AD_banka_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

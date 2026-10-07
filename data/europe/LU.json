@@ -1,0 +1,45 @@
+[
+ {
+  "id": "lu-central-bank-of-luxembourg",
+  "name": "Central Bank of Luxembourg",
+  "country": "LU",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190234"
+  },
+  "website": "http://www.bcl.lu",
+  "logo": {
+   "path": "logos/lu/central-bank-of-luxembourg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_centrale_du_Luxembourg_FR_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lu-banque-havilland",
+  "name": "Banque Havilland",
+  "country": "LU",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4857061"
+  },
+  "website": "http://www.banquehavilland.com",
+  "logo": {
+   "path": "logos/lu/banque-havilland.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BH_LOGO_RVB_200px.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "lu-nord-lb-luxembourg",
+  "name": "NORD/LB Luxembourg",
+  "country": "LU",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q56285051",
+   "bic": "NOLALULL"
+  }
+ }
+]

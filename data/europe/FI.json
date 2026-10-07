@@ -1,0 +1,75 @@
+[
+ {
+  "id": "fi-bank-of-finland",
+  "name": "Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q194060"
+  },
+  "website": "https://www.suomenpankki.fi/",
+  "logo": {
+   "path": "logos/fi/bank-of-finland.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo-bof.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fi-rauvolan-paivakoti",
+  "name": "Rauvolan päiväkoti",
+  "country": "FI",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q113138065"
+  }
+ },
+ {
+  "id": "fi-nordic-investment-bank",
+  "name": "Nordic Investment Bank",
+  "country": "FI",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q2020649"
+  },
+  "website": "http://nib.int",
+  "logo": {
+   "path": "logos/fi/nordic-investment-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Nordic_Investment_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fi-industrial-mortgage-bank-of-finland",
+  "name": "Industrial Mortgage Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112127113"
+  }
+ },
+ {
+  "id": "fi-mortgage-society-of-finland",
+  "name": "Mortgage Society of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q3375628"
+  },
+  "website": "https://www.hypo.fi/"
+ },
+ {
+  "id": "fi-muncipal-mortgage-bank-of-finland",
+  "name": "Muncipal Mortgage Bank of Finland",
+  "country": "FI",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q112128637"
+  }
+ }
+]

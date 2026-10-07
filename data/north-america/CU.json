@@ -1,0 +1,18 @@
+[
+ {
+  "id": "cu-central-bank-of-cuba",
+  "name": "Central Bank of Cuba",
+  "country": "CU",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607787"
+  },
+  "website": "http://www.bc.gob.cu/",
+  "logo": {
+   "path": "logos/cu/central-bank-of-cuba.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bancocentral-cuba.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "bi-bank-of-the-republic-of-burundi",
+  "name": "Bank of the Republic of Burundi",
+  "country": "BI",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806937"
+  },
+  "website": "http://www.brb.bi/"
+ }
+]

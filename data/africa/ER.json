@@ -1,0 +1,13 @@
+[
+ {
+  "id": "er-bank-of-eritrea",
+  "name": "Bank of Eritrea",
+  "country": "ER",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806163"
+  },
+  "website": "http://www.boe.gov.er/"
+ }
+]

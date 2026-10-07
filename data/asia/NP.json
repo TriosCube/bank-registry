@@ -1,0 +1,13 @@
+[
+ {
+  "id": "np-nepal-rastra-bank",
+  "name": "Nepal Rastra Bank",
+  "country": "NP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1318435"
+  },
+  "website": "http://www.nrb.org.np/"
+ }
+]

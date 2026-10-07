@@ -1,0 +1,29 @@
+[
+ {
+  "id": "mt-central-bank-of-malta",
+  "name": "Central Bank of Malta",
+  "country": "MT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74690"
+  },
+  "website": "https://www.centralbankmalta.org"
+ },
+ {
+  "id": "mt-medirect",
+  "name": "MeDirect",
+  "country": "MT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q30020679"
+  },
+  "website": "https://www.medirect.com.mt",
+  "logo": {
+   "path": "logos/mt/medirect.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:MeDirect_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

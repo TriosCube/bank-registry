@@ -1,0 +1,13 @@
+[
+ {
+  "id": "cr-central-bank-of-costa-rica",
+  "name": "Central Bank of Costa Rica",
+  "country": "CR",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504273"
+  },
+  "website": "http://www.bccr.fi.cr/"
+ }
+]

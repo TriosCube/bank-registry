@@ -1,0 +1,13 @@
+[
+ {
+  "id": "im-isle-of-man-bank",
+  "name": "Isle of Man Bank",
+  "country": "IM",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4041644"
+  },
+  "website": "http://www.iombank.com/"
+ }
+]

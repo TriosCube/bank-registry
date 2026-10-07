@@ -1,0 +1,50 @@
+[
+ {
+  "id": "bd-bangladesh-bank",
+  "name": "Bangladesh Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806532"
+  },
+  "website": "http://www.bangladesh-bank.org",
+  "logo": {
+   "path": "logos/bd/bangladesh-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bd-bangladesh-krishi-bank",
+  "name": "Bangladesh Krishi Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q16345932"
+  },
+  "website": "https://www.krishibank.gov.bd"
+ },
+ {
+  "id": "bd-probashi-kallyan-bank",
+  "name": "Probashi Kallyan Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q27990635"
+  }
+ },
+ {
+  "id": "bd-investment-corporation-of-bangladesh",
+  "name": "Investment Corporation of Bangladesh",
+  "country": "BD",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18385199"
+  },
+  "website": "https://www.icb.gov.bd/"
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "jm-bank-of-jamaica",
+  "name": "Bank of Jamaica",
+  "country": "JM",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3374585"
+  },
+  "website": "http://www.boj.org.jm"
+ }
+]

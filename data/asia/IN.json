@@ -1,0 +1,188 @@
+[
+ {
+  "id": "in-reserve-bank-of-india",
+  "name": "Reserve Bank of India",
+  "country": "IN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q944085"
+  },
+  "website": "https://website.rbi.org.in/web/rbi",
+  "logo": {
+   "path": "logos/in/reserve-bank-of-india.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-andhra-pradesh-grameena-bank",
+  "name": "Andhra Pradesh Grameena Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4754401"
+  },
+  "website": "https://apgb.bank.in/",
+  "logo": {
+   "path": "logos/in/andhra-pradesh-grameena-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Apgb_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-andhra-pradesh-grameena-vikas-bank",
+  "name": "Andhra Pradesh Grameena Vikas Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q18109664"
+  },
+  "website": "https://www.apgvbank.in/"
+ },
+ {
+  "id": "in-au-small-finance-bank",
+  "name": "AU Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q48729722"
+  },
+  "website": "https://www.au.bank.in"
+ },
+ {
+  "id": "in-chhattisgarh-gramin-bank",
+  "name": "Chhattisgarh Gramin Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65977517"
+  },
+  "logo": {
+   "path": "logos/in/chhattisgarh-gramin-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:CGB_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-jana-small-finance-bank",
+  "name": "Jana Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65122274"
+  },
+  "website": "https://www.jana.bank.in/"
+ },
+ {
+  "id": "in-karur-vysya-bank",
+  "name": "Karur Vysya Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q6373724"
+  },
+  "website": "https://www.kvb.bank.in/",
+  "logo": {
+   "path": "logos/in/karur-vysya-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Karur_Vysya_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-north-east-small-finance-bank",
+  "name": "North East Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q117322167"
+  },
+  "website": "https://nesfb.com"
+ },
+ {
+  "id": "in-ujjivan-small-finance-bank",
+  "name": "Ujjivan Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q42529272"
+  },
+  "website": "https://www.ujjivansfb.bank.in/"
+ },
+ {
+  "id": "in-utkarsh-small-finance-bank",
+  "name": "Utkarsh Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q66497305"
+  },
+  "website": "https://www.utkarsh.bank/"
+ },
+ {
+  "id": "in-phonepe",
+  "name": "PhonePe",
+  "country": "IN",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.phonepe.com"
+ },
+ {
+  "id": "in-airtel-money",
+  "name": "Airtel Money",
+  "country": "IN",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.airtel.africa/money"
+ },
+ {
+  "id": "in-india-post-payments-bank",
+  "name": "India Post Payments Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19895346"
+  },
+  "website": "https://ippbonline.bank.in/"
+ },
+ {
+  "id": "in-ippopay",
+  "name": "IppoPay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q130642374"
+  },
+  "website": "https://www.ippopay.com"
+ },
+ {
+  "id": "in-paytm",
+  "name": "Paytm",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19757718"
+  },
+  "website": "https://www.paytm.com"
+ },
+ {
+  "id": "in-razorpay",
+  "name": "Razorpay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://razorpay.com"
+ }
+]

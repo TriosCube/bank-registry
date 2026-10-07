@@ -1,0 +1,13 @@
+[
+ {
+  "id": "vn-state-bank-of-vietnam",
+  "name": "State Bank of Vietnam",
+  "country": "VN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2234553"
+  },
+  "website": "https://www.sbv.gov.vn"
+ }
+]

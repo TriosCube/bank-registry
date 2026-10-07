@@ -1,0 +1,13 @@
+[
+ {
+  "id": "bb-central-bank-of-barbados",
+  "name": "Central Bank of Barbados",
+  "country": "BB",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2600777"
+  },
+  "website": "http://www.centralbank.org.bb"
+ }
+]

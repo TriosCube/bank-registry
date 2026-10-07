@@ -1,0 +1,13 @@
+[
+ {
+  "id": "qa-qatar-central-bank",
+  "name": "Qatar Central Bank",
+  "country": "QA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3365778"
+  },
+  "website": "http://www.qcb.gov.qa"
+ }
+]

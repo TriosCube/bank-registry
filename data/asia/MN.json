@@ -1,0 +1,18 @@
+[
+ {
+  "id": "mn-bank-of-mongolia",
+  "name": "Bank of Mongolia",
+  "country": "MN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1320131"
+  },
+  "website": "https://www.mongolbank.mn/en/",
+  "logo": {
+   "path": "logos/mn/bank-of-mongolia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Mongolbank_logo_eng.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

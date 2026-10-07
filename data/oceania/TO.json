@@ -1,0 +1,14 @@
+[
+ {
+  "id": "to-national-reserve-bank-of-tonga",
+  "name": "National Reserve Bank of Tonga",
+  "country": "TO",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604318",
+   "bic": "NRBTTONU"
+  },
+  "website": "http://www.reservebank.to"
+ }
+]

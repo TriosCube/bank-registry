@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ni-central-bank-of-nicaragua",
+  "name": "Central Bank of Nicaragua",
+  "country": "NI",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504274"
+  },
+  "website": "https://www.bcn.gob.ni/",
+  "logo": {
+   "path": "logos/ni/central-bank-of-nicaragua.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Nicaragua_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

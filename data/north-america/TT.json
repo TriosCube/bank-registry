@@ -1,0 +1,18 @@
+[
+ {
+  "id": "tt-central-bank-of-trinidad-and-tobago",
+  "name": "Central Bank of Trinidad and Tobago",
+  "country": "TT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504281"
+  },
+  "website": "https://www.central-bank.org.tt/",
+  "logo": {
+   "path": "logos/tt/central-bank-of-trinidad-and-tobago.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Trinidad_and_Tobago_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

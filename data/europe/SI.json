@@ -1,0 +1,18 @@
+[
+ {
+  "id": "si-bank-of-slovenia",
+  "name": "Bank of Slovenia",
+  "country": "SI",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q26662"
+  },
+  "website": "http://www.bsi.si/",
+  "logo": {
+   "path": "logos/si/bank-of-slovenia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banka_Slovenije_2020.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

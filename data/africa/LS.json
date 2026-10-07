@@ -1,0 +1,13 @@
+[
+ {
+  "id": "ls-central-bank-of-lesotho",
+  "name": "Central Bank of Lesotho",
+  "country": "LS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2608033"
+  },
+  "website": "http://www.centralbank.org.ls/"
+ }
+]

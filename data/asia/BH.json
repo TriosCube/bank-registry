@@ -1,0 +1,29 @@
+[
+ {
+  "id": "bh-central-bank-of-bahrain",
+  "name": "Central Bank of Bahrain",
+  "country": "BH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q571182"
+  },
+  "website": "http://www.cbb.gov.bh"
+ },
+ {
+  "id": "bh-gulf-finance-house",
+  "name": "Gulf Finance House",
+  "country": "BH",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18574937"
+  },
+  "website": "http://gfh.com/",
+  "logo": {
+   "path": "logos/bh/gulf-finance-house.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Gfh_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

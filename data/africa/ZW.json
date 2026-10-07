@@ -1,0 +1,18 @@
+[
+ {
+  "id": "zw-reserve-bank-of-zimbabwe",
+  "name": "Reserve Bank of Zimbabwe",
+  "country": "ZW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1025119"
+  },
+  "website": "https://www.rbz.co.zw/",
+  "logo": {
+   "path": "logos/zw/reserve-bank-of-zimbabwe.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zimbabwe_%2425m_2008_Obverse_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

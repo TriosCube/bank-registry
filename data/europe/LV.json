@@ -1,0 +1,18 @@
+[
+ {
+  "id": "lv-bank-of-latvia",
+  "name": "Bank of Latvia",
+  "country": "LV",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q687709"
+  },
+  "website": "https://www.bank.lv/",
+  "logo": {
+   "path": "logos/lv/bank-of-latvia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Latvijas_Banka_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

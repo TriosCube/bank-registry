@@ -1,0 +1,18 @@
+[
+ {
+  "id": "bo-central-bank-of-bolivia",
+  "name": "Central Bank of Bolivia",
+  "country": "BO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806180"
+  },
+  "website": "http://www.bcb.gob.bo",
+  "logo": {
+   "path": "logos/bo/central-bank-of-bolivia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Bolivia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

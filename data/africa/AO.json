@@ -1,0 +1,25 @@
+[
+ {
+  "id": "ao-national-bank-of-angola",
+  "name": "National Bank of Angola",
+  "country": "AO",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q31211"
+  },
+  "website": "http://www.bna.ao/"
+ },
+ {
+  "id": "ao-banco-angolano-de-investimentos",
+  "name": "Banco Angolano de Investimentos",
+  "country": "AO",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806172",
+   "bic": "BAIPAOLUXXX"
+  },
+  "website": "http://www.bancobai.ao/"
+ }
+]

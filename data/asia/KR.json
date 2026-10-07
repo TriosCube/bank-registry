@@ -1,0 +1,19 @@
+[
+ {
+  "id": "kr-bank-of-korea",
+  "name": "Bank of Korea",
+  "country": "KR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q485531",
+   "bic": "BOKRKRSEXXX"
+  },
+  "website": "http://www.bok.or.kr/",
+  "logo": {
+   "path": "logos/kr/bank-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_Korea_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,1327 @@
+[
+ {
+  "id": "ae-central-bank-of-the-united-arab-emirates",
+  "name": "Central Bank of the United Arab Emirates",
+  "country": "AE",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2982584"
+  },
+  "website": "https://www.centralbank.ae/en"
+ },
+ {
+  "id": "af-da-afghanistan-bank",
+  "name": "Da Afghanistan Bank",
+  "country": "AF",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1156372"
+  },
+  "website": "http://dab.gov.af/en",
+  "logo": {
+   "path": "logos/af/da-afghanistan-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Da_Afghanistan_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "am-central-bank-of-armenia",
+  "name": "Central Bank of Armenia",
+  "country": "AM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190223"
+  },
+  "website": "https://cba.am",
+  "logo": {
+   "path": "logos/am/central-bank-of-armenia.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Armenia_logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "az-central-bank-of-azerbaijan",
+  "name": "Central Bank of Azerbaijan",
+  "country": "AZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190230"
+  },
+  "website": "http://www.cbar.az/",
+  "logo": {
+   "path": "logos/az/central-bank-of-azerbaijan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Azerbaijan.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "az-bank-eurasia",
+  "name": "Bank Eurasia",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12837401"
+  },
+  "website": "https://bankavrasiya.az"
+ },
+ {
+  "id": "az-bank-melli-iran-baku-branch",
+  "name": "Bank Melli Iran Baku Branch",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q131785687"
+  },
+  "website": "https://bmibaku.az"
+ },
+ {
+  "id": "az-turanbank",
+  "name": "TuranBank",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65279422"
+  },
+  "website": "https://turanbank.az/"
+ },
+ {
+  "id": "az-yapi-kredi-bank-azerbaijan",
+  "name": "Yapi Kredi Bank Azerbaijan",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12847882"
+  },
+  "website": "https://www.yapikredi.com.az/"
+ },
+ {
+  "id": "az-yelo-bank",
+  "name": "Yelo Bank",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q109096315"
+  },
+  "website": "https://www.yelo.az/"
+ },
+ {
+  "id": "bd-bangladesh-bank",
+  "name": "Bangladesh Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806532"
+  },
+  "website": "http://www.bangladesh-bank.org",
+  "logo": {
+   "path": "logos/bd/bangladesh-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bd-bangladesh-krishi-bank",
+  "name": "Bangladesh Krishi Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q16345932"
+  },
+  "website": "https://www.krishibank.gov.bd"
+ },
+ {
+  "id": "bd-probashi-kallyan-bank",
+  "name": "Probashi Kallyan Bank",
+  "country": "BD",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q27990635"
+  }
+ },
+ {
+  "id": "bd-investment-corporation-of-bangladesh",
+  "name": "Investment Corporation of Bangladesh",
+  "country": "BD",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18385199"
+  },
+  "website": "https://www.icb.gov.bd/"
+ },
+ {
+  "id": "bh-central-bank-of-bahrain",
+  "name": "Central Bank of Bahrain",
+  "country": "BH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q571182"
+  },
+  "website": "http://www.cbb.gov.bh"
+ },
+ {
+  "id": "bh-gulf-finance-house",
+  "name": "Gulf Finance House",
+  "country": "BH",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18574937"
+  },
+  "website": "http://gfh.com/",
+  "logo": {
+   "path": "logos/bh/gulf-finance-house.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Gfh_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bn-brunei-darussalam-central-bank",
+  "name": "Brunei Darussalam Central Bank",
+  "country": "BN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604419"
+  },
+  "website": "http://www.ambd.gov.bn",
+  "logo": {
+   "path": "logos/bn/brunei-darussalam-central-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambd-logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bt-royal-monetary-authority-of-bhutan",
+  "name": "Royal Monetary Authority of Bhutan",
+  "country": "BT",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1144649"
+  },
+  "website": "http://www.rma.org.bt"
+ },
+ {
+  "id": "cn-hong-kong-monetary-authority",
+  "name": "Hong Kong Monetary Authority",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1595286"
+  },
+  "website": "https://www.hkma.gov.hk/"
+ },
+ {
+  "id": "cn-monetary-authority-of-macao",
+  "name": "Monetary Authority of Macao",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q986615"
+  },
+  "website": "http://amcm.macau.gov.mo/",
+  "logo": {
+   "path": "logos/cn/monetary-authority-of-macao.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:AMCM_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-people-s-bank-of-china",
+  "name": "People's Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q249203"
+  },
+  "website": "http://www.pbc.gov.cn/"
+ },
+ {
+  "id": "cn-beijing-zhongguancun-bank",
+  "name": "Beijing Zhongguancun Bank",
+  "country": "CN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q48897633"
+  },
+  "website": "http://www.zgcbank.com/"
+ },
+ {
+  "id": "cn-exim-bank-of-china",
+  "name": "Exim Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1073267"
+  },
+  "website": "http://www.eximbank.gov.cn/",
+  "logo": {
+   "path": "logos/cn/exim-bank-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Export%E2%80%93Import_Bank_of_China_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-agricultural-development-bank-of-china",
+  "name": "Agricultural Development Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q4693884"
+  },
+  "website": "https://www.adbc.com.cn",
+  "logo": {
+   "path": "logos/cn/agricultural-development-bank-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Agricultural_Development_Bank_of_China_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-development-bank",
+  "name": "China Development Bank",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q1064065"
+  },
+  "website": "http://www.cdb.com.cn/",
+  "logo": {
+   "path": "logos/cn/china-development-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:PRC_China_Development_Bank_%28CDB%29_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-power-investment-corporation",
+  "name": "China Power Investment Corporation",
+  "country": "CN",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q1006925"
+  },
+  "website": "http://eng.cpicorp.com.cn/"
+ },
+ {
+  "id": "cn-alipay",
+  "name": "Alipay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://global.alipay.com"
+ },
+ {
+  "id": "cn-wechat-pay",
+  "name": "WeChat Pay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://pay.weixin.qq.com"
+ },
+ {
+  "id": "id-bank-indonesia",
+  "name": "Bank Indonesia",
+  "country": "ID",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1906161",
+   "bic": "INDOIDJA"
+  },
+  "website": "http://www.bi.go.id/",
+  "logo": {
+   "path": "logos/id/bank-indonesia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankindonesialogo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "id-bank-syariah-mandiri",
+  "name": "Bank Syariah Mandiri",
+  "country": "ID",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12474533"
+  },
+  "website": "https://www.syariahmandiri.co.id/"
+ },
+ {
+  "id": "il-bank-of-israel",
+  "name": "Bank of Israel",
+  "country": "IL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q244411"
+  },
+  "website": "https://www.boi.org.il/"
+ },
+ {
+  "id": "il-general-mortgage-bank-of-palestine",
+  "name": "General Mortgage Bank of Palestine",
+  "country": "IL",
+  "region": "asia",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q122389351"
+  }
+ },
+ {
+  "id": "in-reserve-bank-of-india",
+  "name": "Reserve Bank of India",
+  "country": "IN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q944085"
+  },
+  "website": "https://website.rbi.org.in/web/rbi",
+  "logo": {
+   "path": "logos/in/reserve-bank-of-india.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Reserve_Bank_of_India_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-andhra-pradesh-grameena-bank",
+  "name": "Andhra Pradesh Grameena Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4754401"
+  },
+  "website": "https://apgb.bank.in/",
+  "logo": {
+   "path": "logos/in/andhra-pradesh-grameena-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Apgb_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-andhra-pradesh-grameena-vikas-bank",
+  "name": "Andhra Pradesh Grameena Vikas Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q18109664"
+  },
+  "website": "https://www.apgvbank.in/"
+ },
+ {
+  "id": "in-au-small-finance-bank",
+  "name": "AU Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q48729722"
+  },
+  "website": "https://www.au.bank.in"
+ },
+ {
+  "id": "in-chhattisgarh-gramin-bank",
+  "name": "Chhattisgarh Gramin Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65977517"
+  },
+  "logo": {
+   "path": "logos/in/chhattisgarh-gramin-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:CGB_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-jana-small-finance-bank",
+  "name": "Jana Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65122274"
+  },
+  "website": "https://www.jana.bank.in/"
+ },
+ {
+  "id": "in-karur-vysya-bank",
+  "name": "Karur Vysya Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q6373724"
+  },
+  "website": "https://www.kvb.bank.in/",
+  "logo": {
+   "path": "logos/in/karur-vysya-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Karur_Vysya_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "in-north-east-small-finance-bank",
+  "name": "North East Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q117322167"
+  },
+  "website": "https://nesfb.com"
+ },
+ {
+  "id": "in-ujjivan-small-finance-bank",
+  "name": "Ujjivan Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q42529272"
+  },
+  "website": "https://www.ujjivansfb.bank.in/"
+ },
+ {
+  "id": "in-utkarsh-small-finance-bank",
+  "name": "Utkarsh Small Finance Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q66497305"
+  },
+  "website": "https://www.utkarsh.bank/"
+ },
+ {
+  "id": "in-phonepe",
+  "name": "PhonePe",
+  "country": "IN",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.phonepe.com"
+ },
+ {
+  "id": "in-airtel-money",
+  "name": "Airtel Money",
+  "country": "IN",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.airtel.africa/money"
+ },
+ {
+  "id": "in-india-post-payments-bank",
+  "name": "India Post Payments Bank",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19895346"
+  },
+  "website": "https://ippbonline.bank.in/"
+ },
+ {
+  "id": "in-ippopay",
+  "name": "IppoPay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q130642374"
+  },
+  "website": "https://www.ippopay.com"
+ },
+ {
+  "id": "in-paytm",
+  "name": "Paytm",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "codes": {
+   "wikidata": "Q19757718"
+  },
+  "website": "https://www.paytm.com"
+ },
+ {
+  "id": "in-razorpay",
+  "name": "Razorpay",
+  "country": "IN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://razorpay.com"
+ },
+ {
+  "id": "iq-central-bank-of-iraq",
+  "name": "Central Bank of Iraq",
+  "country": "IQ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1778674"
+  },
+  "website": "http://www.cbi.iq"
+ },
+ {
+  "id": "ir-central-bank-of-iran",
+  "name": "Central Bank of Iran",
+  "country": "IR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1261157"
+  },
+  "website": "https://cbi.ir",
+  "logo": {
+   "path": "logos/ir/central-bank-of-iran.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_central_iran_bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jo-central-bank-of-jordan",
+  "name": "Central Bank of Jordan",
+  "country": "JO",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2607421"
+  },
+  "website": "http://www.cbj.gov.jo/"
+ },
+ {
+  "id": "jp-bank-of-japan",
+  "name": "Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q333101",
+   "bic": "BOJPJPJT"
+  },
+  "website": "https://www.boj.or.jp/",
+  "logo": {
+   "path": "logos/jp/bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E6%9C%AC%E9%8A%80%E8%A1%8C%E3%83%AD%E3%82%B4.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-au-jibun-bank",
+  "name": "au Jibun Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11269354",
+   "bic": "JICRJPJ1"
+  },
+  "website": "https://www.jibunbank.co.jp/"
+ },
+ {
+  "id": "jp-daiwa-next-bank",
+  "name": "Daiwa Next Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11433388"
+  },
+  "website": "https://www.bank-daiwa.co.jp/"
+ },
+ {
+  "id": "jp-docomo-smtb-net-bank",
+  "name": "DOCOMO SMTB Net Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q17228896"
+  },
+  "website": "https://www.netbk.co.jp/",
+  "logo": {
+   "path": "logos/jp/docomo-smtb-net-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Docomo_smtb_net_bank_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-minna-no-ginko",
+  "name": "Minna no Ginko",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q107411895"
+  },
+  "website": "https://note.minna-no-ginko.com/"
+ },
+ {
+  "id": "jp-national-banks-in-meiji-japan",
+  "name": "National Banks in Meiji Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11421309"
+  }
+ },
+ {
+  "id": "jp-seven-bank",
+  "name": "Seven Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7457182"
+  },
+  "website": "https://www.sevenbank.co.jp/",
+  "logo": {
+   "path": "logos/jp/seven-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Seven_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-sony-bank",
+  "name": "Sony Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7562429"
+  },
+  "website": "http://sonybank.net/",
+  "logo": {
+   "path": "logos/jp/sony-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Sony_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-ui-bank",
+  "name": "UI Bank",
+  "country": "JP",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q110242795"
+  },
+  "website": "https://www.uibank.co.jp/"
+ },
+ {
+  "id": "jp-development-bank-of-japan",
+  "name": "Development Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q5266677"
+  },
+  "website": "https://www.dbj.jp/",
+  "logo": {
+   "path": "logos/jp/development-bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dbj_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-hayate-investment",
+  "name": "Hayate Investment",
+  "country": "JP",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q133898744"
+  }
+ },
+ {
+  "id": "kg-national-bank-of-the-kyrgyz-republic",
+  "name": "National Bank of the Kyrgyz Republic",
+  "country": "KG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3430475"
+  },
+  "website": "http://www.nbkr.kg",
+  "logo": {
+   "path": "logos/kg/national-bank-of-the-kyrgyz-republic.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_the_Kyrgyz_Republic_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kh-national-bank-of-cambodia",
+  "name": "National Bank of Cambodia",
+  "country": "KH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q284843"
+  },
+  "website": "http://nbc.org.kh"
+ },
+ {
+  "id": "kp-central-bank-of-the-democratic-people-s-republic-of-korea",
+  "name": "Central Bank of the Democratic People's Republic of Korea",
+  "country": "KP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1141425"
+  },
+  "logo": {
+   "path": "logos/kp/central-bank-of-the-democratic-people-s-republic-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_DPRK.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kr-bank-of-korea",
+  "name": "Bank of Korea",
+  "country": "KR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q485531",
+   "bic": "BOKRKRSEXXX"
+  },
+  "website": "http://www.bok.or.kr/",
+  "logo": {
+   "path": "logos/kr/bank-of-korea.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_Korea_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "kw-central-bank-of-kuwait",
+  "name": "Central Bank of Kuwait",
+  "country": "KW",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2944396"
+  },
+  "website": "http://new.cbk.gov.kw/en/index.jsp"
+ },
+ {
+  "id": "la-bank-of-the-lao-p-d-r",
+  "name": "Bank of the Lao P.D.R.",
+  "country": "LA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077339"
+  },
+  "website": "http://www.bol.gov.la/"
+ },
+ {
+  "id": "la-digitap-app",
+  "name": "DigiTap App",
+  "country": "LA",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q138848998"
+  },
+  "website": "https://digitap.app/"
+ },
+ {
+  "id": "lb-banque-du-liban",
+  "name": "Banque du Liban",
+  "country": "LB",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776564"
+  },
+  "website": "http://www.bdl.gov.lb/"
+ },
+ {
+  "id": "lk-central-bank-of-sri-lanka",
+  "name": "Central Bank of Sri Lanka",
+  "country": "LK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2640939"
+  },
+  "website": "https://www.cbsl.gov.lk/"
+ },
+ {
+  "id": "mm-central-bank-of-myanmar",
+  "name": "Central Bank of Myanmar",
+  "country": "MM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1944374"
+  },
+  "website": "https://www.cbm.gov.mm/",
+  "logo": {
+   "path": "logos/mm/central-bank-of-myanmar.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Myanmar_seal.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mn-bank-of-mongolia",
+  "name": "Bank of Mongolia",
+  "country": "MN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1320131"
+  },
+  "website": "https://www.mongolbank.mn/en/",
+  "logo": {
+   "path": "logos/mn/bank-of-mongolia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Mongolbank_logo_eng.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mv-maldives-monetary-authority",
+  "name": "Maldives Monetary Authority",
+  "country": "MV",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1188022"
+  },
+  "website": "http://mma.gov.mv",
+  "logo": {
+   "path": "logos/mv/maldives-monetary-authority.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Maldives_Monetary_Authority_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "my-bank-negara-malaysia",
+  "name": "Bank Negara Malaysia",
+  "country": "MY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806646"
+  },
+  "website": "http://www.bnm.gov.my/"
+ },
+ {
+  "id": "np-nepal-rastra-bank",
+  "name": "Nepal Rastra Bank",
+  "country": "NP",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1318435"
+  },
+  "website": "http://www.nrb.org.np/"
+ },
+ {
+  "id": "om-central-bank-of-oman",
+  "name": "Central Bank of Oman",
+  "country": "OM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3488501"
+  },
+  "website": "https://www.cbo.gov.om/",
+  "logo": {
+   "path": "logos/om/central-bank-of-oman.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Oman_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-bangko-sentral-ng-pilipinas",
+  "name": "Bangko Sentral ng Pilipinas",
+  "country": "PH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1853468"
+  },
+  "website": "https://www.bsp.gov.ph",
+  "logo": {
+   "path": "logos/ph/bangko-sentral-ng-pilipinas.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bangko_Sentral_ng_Pilipinas_2020_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-asia-united-bank",
+  "name": "Asia United Bank",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4806482"
+  },
+  "website": "https://www.aub.com.ph",
+  "logo": {
+   "path": "logos/ph/asia-united-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Asia_United_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-bank-of-the-philippine-islands",
+  "name": "Bank of the Philippine Islands",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2501256"
+  },
+  "website": "https://bpi.com.ph"
+ },
+ {
+  "id": "ph-bdo",
+  "name": "BDO",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4854129"
+  },
+  "website": "https://www.bdo.com.ph",
+  "logo": {
+   "path": "logos/ph/bdo.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BDO_Unibank_%28logo%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-security-bank-corporation",
+  "name": "Security Bank Corporation",
+  "country": "PH",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7444945"
+  },
+  "website": "https://www.securitybank.com/",
+  "logo": {
+   "path": "logos/ph/security-bank-corporation.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Security_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ph-al-amanah-islamic-investment-bank-of-the-philippines",
+  "name": "Al-Amanah Islamic Investment Bank of the Philippines",
+  "country": "PH",
+  "region": "asia",
+  "category": "islamic",
+  "codes": {
+   "wikidata": "Q1657945"
+  },
+  "website": "http://www.amanahbank.gov.ph/"
+ },
+ {
+  "id": "ph-gcash",
+  "name": "GCash",
+  "country": "PH",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.gcash.com"
+ },
+ {
+  "id": "pk-state-bank-of-pakistan",
+  "name": "State Bank of Pakistan",
+  "country": "PK",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1323248"
+  },
+  "website": "http://www.sbp.org.pk/"
+ },
+ {
+  "id": "pk-bank-alfalah",
+  "name": "Bank Alfalah",
+  "country": "PK",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4855895"
+  },
+  "website": "http://www.bankalfalah.com/",
+  "logo": {
+   "path": "logos/pk/bank-alfalah.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_alfalah_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ps-palestine-monetary-authority",
+  "name": "Palestine Monetary Authority",
+  "country": "PS",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q7127309"
+  },
+  "website": "https://www.pma.ps/"
+ },
+ {
+  "id": "qa-qatar-central-bank",
+  "name": "Qatar Central Bank",
+  "country": "QA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3365778"
+  },
+  "website": "http://www.qcb.gov.qa"
+ },
+ {
+  "id": "sa-saudi-central-bank",
+  "name": "Saudi Central Bank",
+  "country": "SA",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2605574"
+  },
+  "website": "http://www.sama.gov.sa",
+  "logo": {
+   "path": "logos/sa/saudi-central-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Saudi_Arabian_Monetary_Authority.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sg-monetary-authority-of-singapore",
+  "name": "Monetary Authority of Singapore",
+  "country": "SG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2661296"
+  },
+  "website": "http://www.mas.gov.sg/",
+  "logo": {
+   "path": "logos/sg/monetary-authority-of-singapore.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Monetary_Authority_of_Singapore.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sg-grab-financial",
+  "name": "Grab Financial",
+  "country": "SG",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.grab.com"
+ },
+ {
+  "id": "sy-central-bank-of-syria",
+  "name": "Central Bank of Syria",
+  "country": "SY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806932"
+  },
+  "website": "https://cb.gov.sy/",
+  "logo": {
+   "path": "logos/sy/central-bank-of-syria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Syria_logo_%282025%29.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "th-bank-of-thailand",
+  "name": "Bank of Thailand",
+  "country": "TH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806706"
+  },
+  "website": "http://www.bot.or.th",
+  "logo": {
+   "path": "logos/th/bank-of-thailand.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Thailand_%282012%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tj-national-bank-of-tajikistan",
+  "name": "National Bank of Tajikistan",
+  "country": "TJ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4314981"
+  },
+  "website": "http://www.nbt.tj"
+ },
+ {
+  "id": "tl-banco-central-de-timor-leste",
+  "name": "Banco Central de Timor-Leste",
+  "country": "TL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504282"
+  },
+  "website": "https://www.bancocentral.tl/en"
+ },
+ {
+  "id": "tm-central-bank-of-turkmenistan",
+  "name": "Central Bank of Turkmenistan",
+  "country": "TM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504283",
+   "bic": "CBTUTM2AXXX"
+  },
+  "website": "http://www.cbt.tm"
+ },
+ {
+  "id": "tw-central-bank-of-the-republic-of-china",
+  "name": "Central Bank of the Republic of China",
+  "country": "TW",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q198642",
+   "bic": "CBCTTWTP"
+  },
+  "website": "https://www.cbc.gov.tw/",
+  "logo": {
+   "path": "logos/tw/central-bank-of-the-republic-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:ROC_Central_Bank_Seal.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-agricultural-bank-of-taiwan",
+  "name": "Agricultural Bank of Taiwan",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q10891538"
+  },
+  "website": "https://en.agribank.com.tw/"
+ },
+ {
+  "id": "tw-export-import-bank-of-the-republic-of-china",
+  "name": "Export-Import Bank of the Republic of China",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q7676288",
+   "bic": "EROCTWTP"
+  },
+  "website": "https://www.eximbank.com.tw/",
+  "logo": {
+   "path": "logos/tw/export-import-bank-of-the-republic-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:ROC_Export-Import_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-land-bank-of-taiwan",
+  "name": "Land Bank of Taiwan",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q717592",
+   "bic": "LBOTTWTP"
+  },
+  "website": "https://www.landbank.com.tw",
+  "logo": {
+   "path": "logos/tw/land-bank-of-taiwan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Land_Bank_of_Taiwan_Seal.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tw-taiwan-business-bank",
+  "name": "Taiwan Business Bank",
+  "country": "TW",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15913812",
+   "bic": "MBBTTWTP"
+  },
+  "website": "https://www.tbb.com.tw",
+  "logo": {
+   "path": "logos/tw/taiwan-business-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Taiwan_Business_Bank_logo_20190526.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uz-central-bank-of-uzbekistan",
+  "name": "Central Bank of Uzbekistan",
+  "country": "UZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504278"
+  },
+  "website": "http://www.cbu.uz/uz",
+  "logo": {
+   "path": "logos/uz/central-bank-of-uzbekistan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:CBU_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "vn-state-bank-of-vietnam",
+  "name": "State Bank of Vietnam",
+  "country": "VN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2234553"
+  },
+  "website": "https://www.sbv.gov.vn"
+ },
+ {
+  "id": "ye-central-bank-of-yemen",
+  "name": "Central Bank of Yemen",
+  "country": "YE",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797039"
+  },
+  "website": "http://www.centralbank.gov.ye"
+ }
+]

@@ -1,0 +1,608 @@
+[
+ {
+  "id": "ng-coronation-merchant-bank",
+  "name": "Coronation Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "559"
+  },
+  "logo": {
+   "path": "logos/ng/coronation-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fsdh-merchant-bank-limited",
+  "name": "FSDH Merchant Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "501"
+  },
+  "logo": {
+   "path": "logos/ng/fsdh-merchant-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-greenwich-merchant-bank",
+  "name": "Greenwich Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "562"
+  },
+  "logo": {
+   "path": "logos/ng/greenwich-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rand-merchant-bank",
+  "name": "Rand Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "502"
+  },
+  "logo": {
+   "path": "logos/ng/rand-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "bd-investment-corporation-of-bangladesh",
+  "name": "Investment Corporation of Bangladesh",
+  "country": "BD",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18385199"
+  },
+  "website": "https://www.icb.gov.bd/"
+ },
+ {
+  "id": "bh-gulf-finance-house",
+  "name": "Gulf Finance House",
+  "country": "BH",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18574937"
+  },
+  "website": "http://gfh.com/",
+  "logo": {
+   "path": "logos/bh/gulf-finance-house.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Gfh_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-power-investment-corporation",
+  "name": "China Power Investment Corporation",
+  "country": "CN",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q1006925"
+  },
+  "website": "http://eng.cpicorp.com.cn/"
+ },
+ {
+  "id": "jp-hayate-investment",
+  "name": "Hayate Investment",
+  "country": "JP",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q133898744"
+  }
+ },
+ {
+  "id": "ch-credit-suisse",
+  "name": "Credit Suisse",
+  "country": "CH",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q372657"
+  },
+  "website": "https://www.credit-suisse.com/",
+  "logo": {
+   "path": "logos/ch/credit-suisse.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Credit_Suisse_Logo_2022.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-mbaer-merchant-bank",
+  "name": "MBaer Merchant Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q138508459"
+  }
+ },
+ {
+  "id": "de-varengold-wertpapierhandelsbank",
+  "name": "Varengold Wertpapierhandelsbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q481206",
+   "bic": "VGAGDEHHXXX"
+  },
+  "website": "https://www.varengold.de/",
+  "logo": {
+   "path": "logos/de/varengold-wertpapierhandelsbank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Varengold_Bank_AG_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "es-closa-investment-bankers",
+  "name": "Closa Investment Bankers",
+  "country": "ES",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q120562393"
+  },
+  "website": "https://www.closa.com/"
+ },
+ {
+  "id": "fi-nordic-investment-bank",
+  "name": "Nordic Investment Bank",
+  "country": "FI",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q2020649"
+  },
+  "website": "http://nib.int",
+  "logo": {
+   "path": "logos/fi/nordic-investment-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Nordic_Investment_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "fr-bnp-paribas-cib",
+  "name": "BNP Paribas CIB",
+  "country": "FR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q4836134"
+  },
+  "website": "http://www.cib.bnpparibas.com",
+  "logo": {
+   "path": "logos/fr/bnp-paribas-cib.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BNP_Paribas.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-arbuthnot-banking-group",
+  "name": "Arbuthnot Banking Group",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q4784962"
+  },
+  "website": "https://www.arbuthnotlatham.co.uk/"
+ },
+ {
+  "id": "gb-kaupthing-singer-friedlander",
+  "name": "Kaupthing Singer & Friedlander",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q6378864"
+  }
+ },
+ {
+  "id": "gb-natwest-markets-nv",
+  "name": "Natwest Markets NV",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q28963183"
+  },
+  "website": "https://www.rbs.com"
+ },
+ {
+  "id": "gb-panmure-gordon-co",
+  "name": "Panmure Gordon & Co.",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7131347"
+  },
+  "website": "http://www.panmure.com/",
+  "logo": {
+   "path": "logos/gb/panmure-gordon-co.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Panmure_Gordon.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gb-samuel-montagu-co",
+  "name": "Samuel Montagu & Co.",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7412208"
+  }
+ },
+ {
+  "id": "gb-scottish-national-investment-bank",
+  "name": "Scottish National Investment Bank",
+  "country": "GB",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q67289065"
+  },
+  "website": "https://www.thebank.scot/"
+ },
+ {
+  "id": "it-mediobanca",
+  "name": "Mediobanca",
+  "country": "IT",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q749034"
+  },
+  "website": "https://www.mediobanca.com/",
+  "logo": {
+   "path": "logos/it/mediobanca.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Mediobanca_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pt-portuguese-investment-bank",
+  "name": "Portuguese Investment Bank",
+  "country": "PT",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q537886"
+  },
+  "website": "https://www.bancobpi.pt",
+  "logo": {
+   "path": "logos/pt/portuguese-investment-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BPI_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ru-freedom-holding",
+  "name": "Freedom Holding",
+  "country": "RU",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q21843099"
+  },
+  "website": "https://www.freedomholdingcorp.com/",
+  "logo": {
+   "path": "logos/ru/freedom-holding.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Freedom_Holding_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tr-aktif-bank",
+  "name": "Aktif Bank",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q18712731"
+  },
+  "website": "https://www.aktifbank.com.tr/tr",
+  "logo": {
+   "path": "logos/tr/aktif-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Aktif_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tr-bankpozitif",
+  "name": "BankPozitif",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q20471726"
+  },
+  "website": "https://www.bankpozitif.com.tr/"
+ },
+ {
+  "id": "tr-is-yatrm",
+  "name": "İş Yatırım",
+  "country": "TR",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q6103263"
+  },
+  "website": "http://www.isinvestment.com",
+  "logo": {
+   "path": "logos/tr/is-yatrm.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Is_Investment_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "aw-aib-bank-aruba",
+  "name": "AIB Bank (Aruba)",
+  "country": "AW",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q135916317"
+  }
+ },
+ {
+  "id": "ca-windsor-drake",
+  "name": "Windsor Drake",
+  "country": "CA",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140322137"
+  },
+  "website": "https://windsordrake.com"
+ },
+ {
+  "id": "ht-promocapital",
+  "name": "PromoCapital",
+  "country": "HT",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7249841"
+  }
+ },
+ {
+  "id": "us-brown-brothers-harriman-co",
+  "name": "Brown Brothers Harriman & Co.",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q3645421",
+   "bic": "BBHCUS33XXX"
+  },
+  "website": "http://bbh.com",
+  "logo": {
+   "path": "logos/us/brown-brothers-harriman-co.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Brown_Brothers_Harriman_Logo_1.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-cantor",
+  "name": "Cantor",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q141612756"
+  },
+  "website": "https://www.cantor.com"
+ },
+ {
+  "id": "us-discretion-capital",
+  "name": "Discretion Capital",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q138646050"
+  },
+  "website": "https://discretioncapital.com"
+ },
+ {
+  "id": "us-dominick-dominick",
+  "name": "Dominick & Dominick",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q5290900"
+  },
+  "website": "http://www.dominickanddominick.com"
+ },
+ {
+  "id": "us-goldman-sachs",
+  "name": "Goldman Sachs",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q193326",
+   "bic": "GSGIUS31XXX"
+  },
+  "website": "https://www.goldmansachs.com/",
+  "logo": {
+   "path": "logos/us/goldman-sachs.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-hambrecht-quist",
+  "name": "Hambrecht & Quist",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q5644255"
+  }
+ },
+ {
+  "id": "us-houlihan-lokey",
+  "name": "Houlihan Lokey",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q1410137"
+  },
+  "website": "https://www.hl.com/"
+ },
+ {
+  "id": "us-hyde-park-capital",
+  "name": "Hyde Park Capital",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140132028"
+  },
+  "website": "https://www.hydeparkcapital.com"
+ },
+ {
+  "id": "us-jegi-leonis",
+  "name": "JEGI LEONIS",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q141594948"
+  },
+  "website": "https://jl-co.com/"
+ },
+ {
+  "id": "us-leerink-partners",
+  "name": "Leerink partners",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q39060971"
+  },
+  "website": "https://www.svbsecurities.com/",
+  "logo": {
+   "path": "logos/us/leerink-partners.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Leerink_Partners.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-mavros",
+  "name": "Mavros",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140291136"
+  },
+  "website": "https://www.mavrosgroup.com"
+ },
+ {
+  "id": "us-midcap-advisors",
+  "name": "MidCap Advisors",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q17021820"
+  },
+  "website": "http://www.midcapadvisors.com",
+  "logo": {
+   "path": "logos/us/midcap-advisors.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:MidCapAdvisors.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-moelis-company",
+  "name": "Moelis & Company",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q16953039"
+  },
+  "website": "http://www.moelis.com",
+  "logo": {
+   "path": "logos/us/moelis-company.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Moelis_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "us-moorgate-partners",
+  "name": "Moorgate Partners",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q58894747"
+  },
+  "website": "http://www.moorgatepartners.com/"
+ },
+ {
+  "id": "us-post-oak-group",
+  "name": "Post Oak Group",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q137843751"
+  },
+  "website": "https://www.postoakgroup.co"
+ },
+ {
+  "id": "us-prime-ward-king",
+  "name": "Prime, Ward & King",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q55630455"
+  }
+ },
+ {
+  "id": "us-quarterdeck-investment-partners-inc",
+  "name": "Quarterdeck Investment Partners, Inc.",
+  "country": "US",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q7269288"
+  }
+ },
+ {
+  "id": "nz-new-zealand-green-investment-finance",
+  "name": "New Zealand Green Investment Finance",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q134464210"
+  }
+ }
+]

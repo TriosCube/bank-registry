@@ -1,0 +1,26 @@
+[
+ {
+  "id": "sg-monetary-authority-of-singapore",
+  "name": "Monetary Authority of Singapore",
+  "country": "SG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2661296"
+  },
+  "website": "http://www.mas.gov.sg/",
+  "logo": {
+   "path": "logos/sg/monetary-authority-of-singapore.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Monetary_Authority_of_Singapore.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sg-grab-financial",
+  "name": "Grab Financial",
+  "country": "SG",
+  "region": "asia",
+  "category": "fintech",
+  "website": "https://www.grab.com"
+ }
+]

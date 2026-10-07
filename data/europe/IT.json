@@ -1,0 +1,74 @@
+[
+ {
+  "id": "it-bank-of-italy",
+  "name": "Bank of Italy",
+  "country": "IT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806176"
+  },
+  "website": "https://www.bancaditalia.it"
+ },
+ {
+  "id": "it-ing",
+  "name": "ING",
+  "country": "IT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q701108",
+   "bic": "INGBFR21XXX"
+  },
+  "website": "https://www.ing.es/"
+ },
+ {
+  "id": "it-raiffeisen-landesbank-sudtirol-cassa-centrale-raiffeisen-dell-alto-adige",
+  "name": "Raiffeisen Landesbank Südtirol – Cassa Centrale Raiffeisen dell'Alto Adige",
+  "country": "IT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q3929540",
+   "bic": "RZSBIT2B"
+  },
+  "website": "http://www.raiffeisen.it/",
+  "logo": {
+   "path": "logos/it/raiffeisen-landesbank-sudtirol-cassa-centrale-raiffeisen-dell-alto-adige.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Raiffeisenverband_S%C3%BCdtirol_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "it-mediobanca",
+  "name": "Mediobanca",
+  "country": "IT",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q749034"
+  },
+  "website": "https://www.mediobanca.com/",
+  "logo": {
+   "path": "logos/it/mediobanca.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Mediobanca_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "it-buddy",
+  "name": "buddy",
+  "country": "IT",
+  "region": "europe",
+  "category": "neobank",
+  "codes": {
+   "wikidata": "Q104218310"
+  },
+  "website": "https://www.buddy.unicredit.com/",
+  "logo": {
+   "path": "logos/it/buddy.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo-buddybank.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "id": "ge-national-bank-of-georgia",
+  "name": "National Bank of Georgia",
+  "country": "GE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2667495",
+   "bic": "BNLNGE22"
+  },
+  "website": "https://nbg.gov.ge/"
+ },
+ {
+  "id": "ge-national-bank-of-the-republic-of-abkhazia",
+  "name": "National Bank of the Republic of Abkhazia",
+  "country": "GE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2001669"
+  },
+  "website": "https://www.nb-ra.org/",
+  "logo": {
+   "path": "logos/ge/national-bank-of-the-republic-of-abkhazia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_the_Republic_of_Abkhazia_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

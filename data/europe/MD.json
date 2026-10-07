@@ -1,0 +1,13 @@
+[
+ {
+  "id": "md-national-bank-of-moldova",
+  "name": "National Bank of Moldova",
+  "country": "MD",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2636071"
+  },
+  "website": "http://www.bnm.md/"
+ }
+]

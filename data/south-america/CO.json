@@ -1,0 +1,38 @@
+[
+ {
+  "id": "co-banco-de-la-republica",
+  "name": "Banco de la República",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q686329"
+  },
+  "website": "https://www.banrep.gov.co",
+  "logo": {
+   "path": "logos/co/banco-de-la-republica.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Colombia_Banrep.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-central-bank-of-colombia",
+  "name": "Central Bank of Colombia",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q104707199"
+  }
+ },
+ {
+  "id": "co-agricultural-mortgage-bank",
+  "name": "Agricultural Mortgage Bank",
+  "country": "CO",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118288066"
+  }
+ }
+]

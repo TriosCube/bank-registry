@@ -1,0 +1,126 @@
+[
+ {
+  "id": "cn-hong-kong-monetary-authority",
+  "name": "Hong Kong Monetary Authority",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1595286"
+  },
+  "website": "https://www.hkma.gov.hk/"
+ },
+ {
+  "id": "cn-monetary-authority-of-macao",
+  "name": "Monetary Authority of Macao",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q986615"
+  },
+  "website": "http://amcm.macau.gov.mo/",
+  "logo": {
+   "path": "logos/cn/monetary-authority-of-macao.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:AMCM_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-people-s-bank-of-china",
+  "name": "People's Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q249203"
+  },
+  "website": "http://www.pbc.gov.cn/"
+ },
+ {
+  "id": "cn-beijing-zhongguancun-bank",
+  "name": "Beijing Zhongguancun Bank",
+  "country": "CN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q48897633"
+  },
+  "website": "http://www.zgcbank.com/"
+ },
+ {
+  "id": "cn-exim-bank-of-china",
+  "name": "Exim Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1073267"
+  },
+  "website": "http://www.eximbank.gov.cn/",
+  "logo": {
+   "path": "logos/cn/exim-bank-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Export%E2%80%93Import_Bank_of_China_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-agricultural-development-bank-of-china",
+  "name": "Agricultural Development Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q4693884"
+  },
+  "website": "https://www.adbc.com.cn",
+  "logo": {
+   "path": "logos/cn/agricultural-development-bank-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Agricultural_Development_Bank_of_China_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-development-bank",
+  "name": "China Development Bank",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q1064065"
+  },
+  "website": "http://www.cdb.com.cn/",
+  "logo": {
+   "path": "logos/cn/china-development-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:PRC_China_Development_Bank_%28CDB%29_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-power-investment-corporation",
+  "name": "China Power Investment Corporation",
+  "country": "CN",
+  "region": "asia",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q1006925"
+  },
+  "website": "http://eng.cpicorp.com.cn/"
+ },
+ {
+  "id": "cn-alipay",
+  "name": "Alipay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://global.alipay.com"
+ },
+ {
+  "id": "cn-wechat-pay",
+  "name": "WeChat Pay",
+  "country": "CN",
+  "region": "asia",
+  "category": "payments",
+  "website": "https://pay.weixin.qq.com"
+ }
+]

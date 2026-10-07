@@ -1,0 +1,23 @@
+[
+ {
+  "id": "nz-reserve-bank-of-new-zealand",
+  "name": "Reserve Bank of New Zealand",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1494550"
+  },
+  "website": "https://www.rbnz.govt.nz/"
+ },
+ {
+  "id": "nz-new-zealand-green-investment-finance",
+  "name": "New Zealand Green Investment Finance",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q134464210"
+  }
+ }
+]

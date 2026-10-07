@@ -1,0 +1,32 @@
+[
+ {
+  "id": "au-reserve-bank-of-australia",
+  "name": "Reserve Bank of Australia",
+  "country": "AU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1506724"
+  },
+  "website": "https://www.rba.gov.au/"
+ },
+ {
+  "id": "au-national-australia-bank",
+  "name": "National Australia Bank",
+  "country": "AU",
+  "region": "oceania",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1430985"
+  },
+  "website": "https://www.nab.com.au/"
+ },
+ {
+  "id": "au-airwallex",
+  "name": "Airwallex",
+  "country": "AU",
+  "region": "oceania",
+  "category": "fintech",
+  "website": "https://www.airwallex.com"
+ }
+]

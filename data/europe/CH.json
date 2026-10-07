@@ -1,0 +1,964 @@
+[
+ {
+  "id": "ch-swiss-national-bank",
+  "name": "Swiss National Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q597394"
+  },
+  "website": "https://www.snb.ch/",
+  "logo": {
+   "path": "logos/ch/swiss-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:SNB-Logo-positiv-blau.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-aargauische-kantonalbank",
+  "name": "Aargauische Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q301269"
+  },
+  "website": "https://www.akb.ch/",
+  "logo": {
+   "path": "logos/ch/aargauische-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Aargauische_Kantonalbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-acrevis-bank",
+  "name": "Acrevis Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q342662"
+  },
+  "website": "https://www.acrevis.ch/",
+  "logo": {
+   "path": "logos/ch/acrevis-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Acrevis_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-alternative-bank-schweiz",
+  "name": "Alternative Bank Schweiz",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q438447",
+   "bic": "ABSOCH22XXX"
+  },
+  "website": "http://www.abs.ch"
+ },
+ {
+  "id": "ch-appenzeller-kantonalbank",
+  "name": "Appenzeller Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q620963",
+   "bic": "AIKACH22"
+  },
+  "website": "https://www.appkb.ch/",
+  "logo": {
+   "path": "logos/ch/appenzeller-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Appenzeller_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-baloise-bank-soba",
+  "name": "Baloise Bank SoBa",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q805493"
+  },
+  "website": "http://www.baloise.ch/",
+  "logo": {
+   "path": "logos/ch/baloise-bank-soba.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_BaloiseBankSoBa.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-bancastato",
+  "name": "BancaStato",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806158"
+  },
+  "website": "https://www.bancastato.ch/",
+  "logo": {
+   "path": "logos/ch/bancastato.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Tessiner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-bank-cic-switzerland-ltd",
+  "name": "Bank CIC (Switzerland) Ltd.",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806622"
+  },
+  "website": "https://www.cic.ch/",
+  "logo": {
+   "path": "logos/ch/bank-cic-switzerland-ltd.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_CIC_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-bank-in-zuzwil",
+  "name": "Bank in Zuzwil",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806666"
+  },
+  "website": "http://www.bizu.ch/",
+  "logo": {
+   "path": "logos/ch/bank-in-zuzwil.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_in_Zuzwil_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-bank-sparhafen-zurich",
+  "name": "Bank Sparhafen Zürich",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806645"
+  },
+  "website": "http://www.bank-sparhafen.ch/",
+  "logo": {
+   "path": "logos/ch/bank-sparhafen-zurich.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Sparhafen_Z%C3%BCrich_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-bank-thaler",
+  "name": "Bank Thaler",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806648"
+  },
+  "website": "http://www.banquethaler.ch/",
+  "logo": {
+   "path": "logos/ch/bank-thaler.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Thaler_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-banque-bonhote",
+  "name": "Banque Bonhôte",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q688112"
+  },
+  "website": "https://www.bonhote.ch/"
+ },
+ {
+  "id": "ch-banque-cantonale-du-jura",
+  "name": "Banque Cantonale du Jura",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806923"
+  },
+  "website": "https://www.bcj.ch/",
+  "logo": {
+   "path": "logos/ch/banque-cantonale-du-jura.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banque_Cantonale_du_Jura.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-banque-cantonale-du-valais",
+  "name": "Banque Cantonale du Valais",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2543025",
+   "bic": "BCVSCH2LXXX"
+  },
+  "website": "https://www.bcvs.ch",
+  "logo": {
+   "path": "logos/ch/banque-cantonale-du-valais.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_BCVS.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-banque-cantonale-neuchateloise",
+  "name": "Banque Cantonale Neuchâteloise",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q688391"
+  },
+  "website": "https://www.bcn.ch/",
+  "logo": {
+   "path": "logos/ch/banque-cantonale-neuchateloise.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_Cantonale_Neuch%C3%A2teloise.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-banque-cantonale-vaudoise",
+  "name": "Banque cantonale vaudoise",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q685533"
+  },
+  "website": "https://www.bcv.ch",
+  "logo": {
+   "path": "logos/ch/banque-cantonale-vaudoise.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banque_Cantonale_Vaudoise_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-banque-pasche",
+  "name": "Banque Pasche",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806933"
+  }
+ },
+ {
+  "id": "ch-banque-piguet-galland",
+  "name": "Banque Piguet Galland",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2094701"
+  },
+  "website": "http://www.piguetgalland.ch"
+ },
+ {
+  "id": "ch-basel-cantonal-bank",
+  "name": "Basel Cantonal Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q810408"
+  },
+  "website": "https://www.bkb.ch/",
+  "logo": {
+   "path": "logos/ch/basel-cantonal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Basler_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-basellandschaftliche-kantonalbank",
+  "name": "Basellandschaftliche Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q809931"
+  },
+  "website": "https://www.blkb.ch/",
+  "logo": {
+   "path": "logos/ch/basellandschaftliche-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_BLKB.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-berner-kantonalbank",
+  "name": "Berner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q824579",
+   "bic": "KBBECH22"
+  },
+  "website": "https://www.bcbe.ch/"
+ },
+ {
+  "id": "ch-bordier-cie",
+  "name": "Bordier & Cie",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q17118591"
+  },
+  "website": "https://www.bordier.com/"
+ },
+ {
+  "id": "ch-bz-bank",
+  "name": "BZ Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q797244"
+  },
+  "website": "http://www.bzbank.ch/"
+ },
+ {
+  "id": "ch-clientis-bank-im-thal",
+  "name": "Clientis Bank im Thal",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1101030"
+  },
+  "website": "http://www.bankimthal.clientis.ch/"
+ },
+ {
+  "id": "ch-clientis-bank-oberuzwil",
+  "name": "Clientis Bank Oberuzwil",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1101016"
+  },
+  "website": "http://www.oberuzwil.clientis.ch/",
+  "logo": {
+   "path": "logos/ch/clientis-bank-oberuzwil.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Clientis_Bank_Oberuzwil_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-clientis-bank-toggenburg",
+  "name": "Clientis Bank Toggenburg",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1101026"
+  },
+  "website": "http://www.cbt.clientis.ch/",
+  "logo": {
+   "path": "logos/ch/clientis-bank-toggenburg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Clientis_Bank_Toggenburg.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-clientis-caisse-depargne-cec",
+  "name": "Clientis Caisse d’Epargne CEC",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1101044"
+  },
+  "website": "http://www.cec.clientis.ch/"
+ },
+ {
+  "id": "ch-dreyfus-sons-co-ltd-banquiers",
+  "name": "Dreyfus Sons & Co Ltd, Banquiers",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1258853"
+  },
+  "website": "http://www.dreyfusbank.ch/"
+ },
+ {
+  "id": "ch-e-gutzwiller-cie-banquiers",
+  "name": "E. Gutzwiller & Cie. Banquiers",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1273487"
+  },
+  "website": "http://www.gutzwiller.ch/",
+  "logo": {
+   "path": "logos/ch/e-gutzwiller-cie-banquiers.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_E_Gutzwiller_Cie_Banquiers.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-ersparniskasse-affoltern-i-e",
+  "name": "Ersparniskasse Affoltern i.E.",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1361832",
+   "bic": "RBABCH22387"
+  },
+  "website": "http://www.ekaffoltern.ch/"
+ },
+ {
+  "id": "ch-ersparniskasse-schaffhausen",
+  "name": "Ersparniskasse Schaffhausen",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1243920"
+  },
+  "website": "http://www.ersparniskasse.ch/",
+  "logo": {
+   "path": "logos/ch/ersparniskasse-schaffhausen.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ersparniskasse_Schaffhausen_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-freiburger-kantonalbank",
+  "name": "Freiburger Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1453871"
+  },
+  "website": "https://www.bcf.ch",
+  "logo": {
+   "path": "logos/ch/freiburger-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Freiburger_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-geneva-cantonal-bank",
+  "name": "Geneva Cantonal Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q650629"
+  },
+  "website": "https://www.bcge.ch/",
+  "logo": {
+   "path": "logos/ch/geneva-cantonal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Genfer_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-glarner-kantonalbank",
+  "name": "Glarner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1529290"
+  },
+  "website": "https://www.glkb.ch/",
+  "logo": {
+   "path": "logos/ch/glarner-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Glarner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-grisons-cantonal-bank",
+  "name": "Grisons Cantonal Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1543702"
+  },
+  "website": "https://www.gkb.ch",
+  "logo": {
+   "path": "logos/ch/grisons-cantonal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Graub%C3%BCndner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-ihag-privatbank",
+  "name": "IHAG Privatbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2111028"
+  },
+  "website": "http://www.pbihag.ch/",
+  "logo": {
+   "path": "logos/ch/ihag-privatbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Privatbank_IHAG_Z%C3%BCrich_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-lienhardt-partner-privatbank-zurich",
+  "name": "Lienhardt & Partner Privatbank Zürich",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1824236"
+  },
+  "website": "https://www.lienhardt.ch/"
+ },
+ {
+  "id": "ch-lombard-odier-cie",
+  "name": "Lombard Odier & Cie",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q691607"
+  },
+  "website": "https://www.lombardodier.com",
+  "logo": {
+   "path": "logos/ch/lombard-odier-cie.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Lombard_Odier_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-luzerner-kantonalbank",
+  "name": "Luzerner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1756878"
+  },
+  "website": "https://www.lukb.ch/",
+  "logo": {
+   "path": "logos/ch/luzerner-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Luzerner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-migros-bank",
+  "name": "Migros Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1593349"
+  },
+  "website": "https://www.migrosbank.ch",
+  "logo": {
+   "path": "logos/ch/migros-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Migros-Bank-Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-mirabaud-group",
+  "name": "Mirabaud Group",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1937907"
+  },
+  "website": "https://www.mirabaud.com/",
+  "logo": {
+   "path": "logos/ch/mirabaud-group.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:LOGO_MIRABAUD_BLUE_RGB.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-mourgue-dalgue-cie",
+  "name": "Mourgue d’Algue & Cie",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1950975"
+  },
+  "website": "http://www.mabank.ch/",
+  "logo": {
+   "path": "logos/ch/mourgue-dalgue-cie.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mourgue_d%E2%80%99Algue_%26_Cie_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-nidwaldner-kantonalbank",
+  "name": "Nidwaldner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1987417"
+  },
+  "website": "https://www.nkb.ch/",
+  "logo": {
+   "path": "logos/ch/nidwaldner-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Nidwaldner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-obwaldner-kantonalbank",
+  "name": "Obwaldner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1291630"
+  },
+  "website": "https://www.okb.ch/",
+  "logo": {
+   "path": "logos/ch/obwaldner-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Obwaldner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-pkb-private-bank",
+  "name": "PKB Private Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2044248"
+  },
+  "website": "https://www.pkb.ch/"
+ },
+ {
+  "id": "ch-rahn-bodmer",
+  "name": "Rahn & Bodmer",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2127453"
+  },
+  "website": "http://www.rahnbodmer.ch/",
+  "logo": {
+   "path": "logos/ch/rahn-bodmer.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Rahn_%26_Bodmer_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-reichmuth-co",
+  "name": "Reichmuth & Co",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2139310"
+  },
+  "website": "http://www.reichmuthco.ch",
+  "logo": {
+   "path": "logos/ch/reichmuth-co.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:R%26Co_Wortmarke_PB_Black_RGB.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-rothschild-bank",
+  "name": "Rothschild Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2168775"
+  },
+  "website": "http://www.rothschild.com/"
+ },
+ {
+  "id": "ch-schaffhauser-kantonalbank",
+  "name": "Schaffhauser Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2230058",
+   "bic": "SHKBCH2S"
+  },
+  "website": "https://www.shkb.ch/",
+  "logo": {
+   "path": "logos/ch/schaffhauser-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Schaffhauser_Kantonalbank_20xx_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-schwyzer-kantonalbank",
+  "name": "Schwyzer Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2257957"
+  },
+  "website": "https://www.szkb.ch/",
+  "logo": {
+   "path": "logos/ch/schwyzer-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Schwyzer_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-solothurner-kantonalbank",
+  "name": "Solothurner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2299323"
+  }
+ },
+ {
+  "id": "ch-spar-und-leihkasse-bucheggberg",
+  "name": "Spar- und Leihkasse Bucheggberg",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2307074"
+  },
+  "website": "http://www.slbucheggberg.ch/",
+  "logo": {
+   "path": "logos/ch/spar-und-leihkasse-bucheggberg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Spar-_und_Leihkasse_Bucheggberg_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-spar-und-leihkasse-thayngen",
+  "name": "Spar- und Leihkasse Thayngen",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1242724"
+  },
+  "website": "http://www.thayngen.clientis.ch/"
+ },
+ {
+  "id": "ch-st-galler-kantonalbank",
+  "name": "St. Galler Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2316809",
+   "bic": "KBSGCH22XXX"
+  },
+  "website": "https://www.sgkb.ch/",
+  "logo": {
+   "path": "logos/ch/st-galler-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_St._Galler_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-the-pictet-group",
+  "name": "The Pictet Group",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q691481"
+  },
+  "website": "https://www.pictet.com"
+ },
+ {
+  "id": "ch-thurgauer-kantonalbank",
+  "name": "Thurgauer Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2430020",
+   "bic": "KBTGCH22"
+  },
+  "website": "https://www.tkb.ch/",
+  "logo": {
+   "path": "logos/ch/thurgauer-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Thurgauer_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-trafina-privatbank",
+  "name": "Trafina Privatbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2447933"
+  },
+  "website": "http://www.trafina.ch/"
+ },
+ {
+  "id": "ch-ubs",
+  "name": "UBS",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q193199",
+   "bic": "UBSBCHZZXXX"
+  },
+  "website": "https://www.ubs.com/",
+  "logo": {
+   "path": "logos/ch/ubs.png",
+   "source": "https://commons.wikimedia.org/wiki/File:UBS_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-urner-kantonalbank",
+  "name": "Urner Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q17051583"
+  },
+  "website": "https://www.ukb.ch/",
+  "logo": {
+   "path": "logos/ch/urner-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Urner_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-valiant",
+  "name": "Valiant",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2509061",
+   "bic": "VABECH22XXX"
+  },
+  "website": "https://www.valiant.ch/fr/",
+  "logo": {
+   "path": "logos/ch/valiant.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Valiant_Logo_Neu.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-zuger-kantonalbank",
+  "name": "Zuger Kantonalbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q228365"
+  },
+  "website": "https://www.zugerkb.ch",
+  "logo": {
+   "path": "logos/ch/zuger-kantonalbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Zuger_Kantonalbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-zurich-cantonal-bank",
+  "name": "Zurich Cantonal Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q248476"
+  },
+  "website": "https://www.zkb.ch/",
+  "logo": {
+   "path": "logos/ch/zurich-cantonal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrcher_Kantonalbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-zurcher-landbank",
+  "name": "Zürcher Landbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q136262"
+  },
+  "website": "http://www.zuercherlandbank.ch/",
+  "logo": {
+   "path": "logos/ch/zurcher-landbank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Z%C3%BCrcher_Landbank_AG.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-credit-suisse",
+  "name": "Credit Suisse",
+  "country": "CH",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q372657"
+  },
+  "website": "https://www.credit-suisse.com/",
+  "logo": {
+   "path": "logos/ch/credit-suisse.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Credit_Suisse_Logo_2022.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ch-mbaer-merchant-bank",
+  "name": "MBaer Merchant Bank",
+  "country": "CH",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q138508459"
+  }
+ },
+ {
+  "id": "ch-schweizerisch-argentinische-hypothekenbank",
+  "name": "Schweizerisch-Argentinische Hypothekenbank",
+  "country": "CH",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111655656"
+  }
+ }
+]

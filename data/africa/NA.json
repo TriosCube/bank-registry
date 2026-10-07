@@ -1,0 +1,18 @@
+[
+ {
+  "id": "na-bank-of-namibia",
+  "name": "Bank of Namibia",
+  "country": "NA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806684"
+  },
+  "website": "https://www.bon.com.na/",
+  "logo": {
+   "path": "logos/na/bank-of-namibia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Bank_von_Namibia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

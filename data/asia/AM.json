@@ -1,0 +1,18 @@
+[
+ {
+  "id": "am-central-bank-of-armenia",
+  "name": "Central Bank of Armenia",
+  "country": "AM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190223"
+  },
+  "website": "https://cba.am",
+  "logo": {
+   "path": "logos/am/central-bank-of-armenia.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Armenia_logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

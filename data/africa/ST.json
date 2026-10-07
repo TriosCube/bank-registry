@@ -1,0 +1,13 @@
+[
+ {
+  "id": "st-central-bank-of-sao-tome-and-principe",
+  "name": "Central Bank of São Tomé and Príncipe",
+  "country": "ST",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2679982"
+  },
+  "website": "http://www.bcstp.st/"
+ }
+]

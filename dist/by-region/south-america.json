@@ -1,0 +1,406 @@
+[
+ {
+  "id": "ar-central-bank-of-argentina",
+  "name": "Central Bank of Argentina",
+  "country": "AR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q642444"
+  },
+  "website": "https://www.bcra.gob.ar/",
+  "logo": {
+   "path": "logos/ar/central-bank-of-argentina.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BCRA_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-banco-de-inversion-y-comercio-exterior",
+  "name": "Banco de Inversión y Comercio Exterior",
+  "country": "AR",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q98124040"
+  },
+  "website": "https://www.bice.com.ar/",
+  "logo": {
+   "path": "logos/ar/banco-de-inversion-y-comercio-exterior.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bice-logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-bank-of-the-argentine-nation",
+  "name": "Bank of the Argentine Nation",
+  "country": "AR",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2883376"
+  },
+  "website": "https://www.bna.com.ar/",
+  "logo": {
+   "path": "logos/ar/bank-of-the-argentine-nation.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Naci%C3%B3n.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ar-mercado-pago",
+  "name": "Mercado Pago",
+  "country": "AR",
+  "region": "south-america",
+  "category": "fintech",
+  "website": "https://www.mercadopago.com"
+ },
+ {
+  "id": "ar-banco-hipotecario",
+  "name": "Banco Hipotecario",
+  "country": "AR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q2882071"
+  },
+  "website": "https://www.hipotecario.com.ar/",
+  "logo": {
+   "path": "logos/ar/banco-hipotecario.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banco_Hipotecario.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "bo-central-bank-of-bolivia",
+  "name": "Central Bank of Bolivia",
+  "country": "BO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806180"
+  },
+  "website": "http://www.bcb.gob.bo",
+  "logo": {
+   "path": "logos/bo/central-bank-of-bolivia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Bolivia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "br-banco-central-do-brasil-fortaleza",
+  "name": "Banco Central do Brasil (Fortaleza)",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q136416763"
+  },
+  "website": "https://www.bcb.gov.br/"
+ },
+ {
+  "id": "br-central-bank-of-brazil",
+  "name": "Central Bank of Brazil",
+  "country": "BR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806186"
+  },
+  "website": "http://www.bcb.gov.br",
+  "logo": {
+   "path": "logos/br/central-bank-of-brazil.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_do_Banco_Central_do_Brasil.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "br-banco-hypothecario-e-agricola-do-estado-de-minas-geraes",
+  "name": "Banco Hypothecario e Agricola do Estado de Minas Geraes",
+  "country": "BR",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118396382"
+  }
+ },
+ {
+  "id": "br-nubank",
+  "name": "Nubank",
+  "country": "BR",
+  "region": "south-america",
+  "category": "neobank",
+  "website": "https://nubank.com.br"
+ },
+ {
+  "id": "cl-central-bank-of-chile",
+  "name": "Central Bank of Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2631674"
+  },
+  "website": "http://www.bcentral.cl/",
+  "logo": {
+   "path": "logos/cl/central-bank-of-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Chile_2021.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cl-state-bank-of-chile",
+  "name": "State Bank of Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5718188"
+  },
+  "website": "https://www.bancoestado.cl/",
+  "logo": {
+   "path": "logos/cl/state-bank-of-chile.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_BancoEstado.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cl-banco-hipotecario-de-chile",
+  "name": "Banco Hipotecario de Chile",
+  "country": "CL",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q56559796"
+  },
+  "logo": {
+   "path": "logos/cl/banco-hipotecario-de-chile.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Hipotecario_de_Chile.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-banco-de-la-republica",
+  "name": "Banco de la República",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q686329"
+  },
+  "website": "https://www.banrep.gov.co",
+  "logo": {
+   "path": "logos/co/banco-de-la-republica.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Colombia_Banrep.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "co-central-bank-of-colombia",
+  "name": "Central Bank of Colombia",
+  "country": "CO",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q104707199"
+  }
+ },
+ {
+  "id": "co-agricultural-mortgage-bank",
+  "name": "Agricultural Mortgage Bank",
+  "country": "CO",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118288066"
+  }
+ },
+ {
+  "id": "ec-central-bank-of-ecuador",
+  "name": "Central Bank of Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1797646"
+  },
+  "website": "https://www.bce.ec",
+  "logo": {
+   "path": "logos/ec/central-bank-of-ecuador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo_del_Banco_Central_del_Ecuador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ec-banco-hipotecario-del-ecuador",
+  "name": "Banco Hipotecario del Ecuador",
+  "country": "EC",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q118289840"
+  }
+ },
+ {
+  "id": "gy-bank-of-guyana",
+  "name": "Bank of Guyana",
+  "country": "GY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1812564"
+  },
+  "website": "http://www.bankofguyana.org.gy/"
+ },
+ {
+  "id": "pe-central-reserve-bank-of-peru",
+  "name": "Central Reserve Bank of Peru",
+  "country": "PE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q932146"
+  },
+  "website": "https://www.bcrp.gob.pe"
+ },
+ {
+  "id": "py-central-bank-of-paraguay",
+  "name": "Central Bank of Paraguay",
+  "country": "PY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504275"
+  },
+  "website": "https://www.bcp.gov.py/"
+ },
+ {
+  "id": "sr-centrale-bank-van-suriname",
+  "name": "Centrale Bank van Suriname",
+  "country": "SR",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2981941"
+  },
+  "website": "https://www.cbvs.sr/",
+  "logo": {
+   "path": "logos/sr/centrale-bank-van-suriname.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Suriname_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uy-central-bank-of-uruguay",
+  "name": "Central Bank of Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504285"
+  },
+  "website": "https://www.bcu.gub.uy",
+  "logo": {
+   "path": "logos/uy/central-bank-of-uruguay.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Uruguay_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "uy-banco-hipotecario-del-uruguay",
+  "name": "Banco Hipotecario del Uruguay",
+  "country": "UY",
+  "region": "south-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q4202998"
+  },
+  "website": "https://www.bhu.net",
+  "logo": {
+   "path": "logos/uy/banco-hipotecario-del-uruguay.png",
+   "source": "https://commons.wikimedia.org/wiki/File:BHU_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-central-bank-of-venezuela",
+  "name": "Central Bank of Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2570775"
+  },
+  "website": "http://www.bcv.org.ve",
+  "logo": {
+   "path": "logos/ve/central-bank-of-venezuela.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Venezuela_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-agricultural-bank-of-venezuela",
+  "name": "Agricultural Bank of Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5717839"
+  },
+  "website": "http://www.bav.com.ve/"
+ },
+ {
+  "id": "ve-bancoro",
+  "name": "Bancoro",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5718203"
+  },
+  "website": "http://www.bancoro.com/"
+ },
+ {
+  "id": "ve-banesco",
+  "name": "Banesco",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4854841"
+  },
+  "website": "http://www.banesco.com",
+  "logo": {
+   "path": "logos/ve/banesco.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banesco_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-banfanb",
+  "name": "BANFANB",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q30281004"
+  },
+  "website": "http://www.banfanb.com.ve"
+ },
+ {
+  "id": "ve-bdv-banco-de-venezuela",
+  "name": "BDV | Banco de Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q517093"
+  },
+  "website": "http://www.bancodevenezuela.com",
+  "logo": {
+   "path": "logos/ve/bdv-banco-de-venezuela.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_de_Venezuela_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

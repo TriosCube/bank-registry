@@ -1,0 +1,13 @@
+[
+ {
+  "id": "cy-central-bank-of-cyprus",
+  "name": "Central Bank of Cyprus",
+  "country": "CY",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q74693"
+  },
+  "website": "http://www.centralbank.cy"
+ }
+]

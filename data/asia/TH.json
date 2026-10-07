@@ -1,0 +1,18 @@
+[
+ {
+  "id": "th-bank-of-thailand",
+  "name": "Bank of Thailand",
+  "country": "TH",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806706"
+  },
+  "website": "http://www.bot.or.th",
+  "logo": {
+   "path": "logos/th/bank-of-thailand.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Thailand_%282012%29.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

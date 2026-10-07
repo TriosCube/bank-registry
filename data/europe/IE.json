@@ -1,0 +1,24 @@
+[
+ {
+  "id": "ie-central-bank-of-ireland",
+  "name": "Central Bank of Ireland",
+  "country": "IE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q283785"
+  },
+  "website": "https://www.centralbank.ie/"
+ },
+ {
+  "id": "ie-depfa-bank",
+  "name": "Depfa Bank",
+  "country": "IE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q490611"
+  },
+  "website": "http://www.depfa.com/"
+ }
+]

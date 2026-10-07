@@ -1,0 +1,72 @@
+[
+ {
+  "id": "pt-banco-de-portugal",
+  "name": "Banco de Portugal",
+  "country": "PT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q378372"
+  },
+  "website": "https://www.bportugal.pt"
+ },
+ {
+  "id": "pt-activobank",
+  "name": "ActivoBank",
+  "country": "PT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q9581725"
+  },
+  "website": "http://www.activobank.pt/",
+  "logo": {
+   "path": "logos/pt/activobank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:ActivoBank_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pt-banco-carregosa",
+  "name": "Banco Carregosa",
+  "country": "PT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q9645118"
+  },
+  "website": "http://www.bancocarregosa.com/"
+ },
+ {
+  "id": "pt-banco-comercial-portugues",
+  "name": "Banco Comercial Português",
+  "country": "PT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q118581"
+  },
+  "website": "http://www.millenniumbcp.pt",
+  "logo": {
+   "path": "logos/pt/banco-comercial-portugues.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Millennium_bcp_2024_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "pt-portuguese-investment-bank",
+  "name": "Portuguese Investment Bank",
+  "country": "PT",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q537886"
+  },
+  "website": "https://www.bancobpi.pt",
+  "logo": {
+   "path": "logos/pt/portuguese-investment-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BPI_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

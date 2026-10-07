@@ -1,0 +1,23 @@
+[
+ {
+  "id": "gr-bank-of-greece",
+  "name": "Bank of Greece",
+  "country": "GR",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806700"
+  },
+  "website": "https://www.bankofgreece.gr"
+ },
+ {
+  "id": "gr-national-mortgage-bank-of-greece",
+  "name": "National Mortgage Bank of Greece",
+  "country": "GR",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q111949666"
+  }
+ }
+]

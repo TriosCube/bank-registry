@@ -1,0 +1,13 @@
+[
+ {
+  "id": "tn-central-bank-of-tunisia",
+  "name": "Central Bank of Tunisia",
+  "country": "TN",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q600137"
+  },
+  "website": "http://www.bct.gov.tn/"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "il-bank-of-israel",
+  "name": "Bank of Israel",
+  "country": "IL",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q244411"
+  },
+  "website": "https://www.boi.org.il/"
+ },
+ {
+  "id": "il-general-mortgage-bank-of-palestine",
+  "name": "General Mortgage Bank of Palestine",
+  "country": "IL",
+  "region": "asia",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q122389351"
+  }
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "id": "ad-andorran-financial-authority",
+  "name": "Andorran Financial Authority",
+  "country": "AD",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q11926724"
+  },
+  "website": "https://www.afa.ad/"
+ },
+ {
+  "id": "ad-andbank",
+  "name": "Andbank",
+  "country": "AD",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q11905472"
+  },
+  "website": "http://www.andbank.com",
+  "logo": {
+   "path": "logos/ad/andbank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:LogoANDBANK-privatebankers_generic.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ad-creand-credit-andorra",
+  "name": "Creand Crèdit Andorrà",
+  "country": "AD",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q132795665",
+   "bic": "CRDAADADXXX"
+  },
+  "website": "https://creand.ad/persones/"
+ }
+]

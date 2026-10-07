@@ -1,0 +1,28 @@
+[
+ {
+  "id": "no-centralbanken-for-norge",
+  "name": "Centralbanken for Norge",
+  "country": "NO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q11963362"
+  }
+ },
+ {
+  "id": "no-norges-bank",
+  "name": "Norges Bank",
+  "country": "NO",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q970769"
+  },
+  "website": "http://www.norges-bank.no/",
+  "logo": {
+   "path": "logos/no/norges-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Norges_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

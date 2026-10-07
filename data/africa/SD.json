@@ -1,0 +1,13 @@
+[
+ {
+  "id": "sd-bank-of-sudan",
+  "name": "Bank of Sudan",
+  "country": "SD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190236"
+  },
+  "website": "http://www.cbos.gov.sd/en"
+ }
+]

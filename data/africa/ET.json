@@ -1,0 +1,18 @@
+[
+ {
+  "id": "et-national-bank-of-ethiopia",
+  "name": "National Bank of Ethiopia",
+  "country": "ET",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1967889"
+  },
+  "website": "https://nbe.gov.et/",
+  "logo": {
+   "path": "logos/et/national-bank-of-ethiopia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Ethiopia_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

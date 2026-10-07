@@ -1,0 +1,14 @@
+[
+ {
+  "id": "mg-central-bank-of-madagascar",
+  "name": "Central Bank of Madagascar",
+  "country": "MG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3433330",
+   "bic": "REPUMGMGRTG"
+  },
+  "website": "http://www.banque-centrale.mg/"
+ }
+]

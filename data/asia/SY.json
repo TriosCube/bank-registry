@@ -1,0 +1,18 @@
+[
+ {
+  "id": "sy-central-bank-of-syria",
+  "name": "Central Bank of Syria",
+  "country": "SY",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806932"
+  },
+  "website": "https://cb.gov.sy/",
+  "logo": {
+   "path": "logos/sy/central-bank-of-syria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Syria_logo_%282025%29.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "id": "vc-eastern-caribbean-central-bank",
+  "name": "Eastern Caribbean Central Bank",
+  "country": "VC",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1210260"
+  },
+  "website": "http://www.eccb-centralbank.org"
+ }
+]

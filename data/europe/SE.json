@@ -1,0 +1,43 @@
+[
+ {
+  "id": "se-sveriges-riksbank",
+  "name": "Sveriges Riksbank",
+  "country": "SE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q564652"
+  },
+  "website": "https://riksbank.se",
+  "logo": {
+   "path": "logos/se/sveriges-riksbank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Riksbanken_skylt.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "se-skandinaviska-enskilda-banken",
+  "name": "Skandinaviska Enskilda Banken",
+  "country": "SE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q975655",
+   "bic": "ESSESESS"
+  },
+  "website": "https://sebgroup.com",
+  "logo": {
+   "path": "logos/se/skandinaviska-enskilda-banken.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:SEB_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "se-klarna",
+  "name": "Klarna",
+  "country": "SE",
+  "region": "europe",
+  "category": "fintech",
+  "website": "https://www.klarna.com"
+ }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "id": "au-reserve-bank-of-australia",
+  "name": "Reserve Bank of Australia",
+  "country": "AU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1506724"
+  },
+  "website": "https://www.rba.gov.au/"
+ },
+ {
+  "id": "au-national-australia-bank",
+  "name": "National Australia Bank",
+  "country": "AU",
+  "region": "oceania",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1430985"
+  },
+  "website": "https://www.nab.com.au/"
+ },
+ {
+  "id": "au-airwallex",
+  "name": "Airwallex",
+  "country": "AU",
+  "region": "oceania",
+  "category": "fintech",
+  "website": "https://www.airwallex.com"
+ },
+ {
+  "id": "fj-reserve-bank-of-fiji",
+  "name": "Reserve Bank of Fiji",
+  "country": "FJ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776552"
+  },
+  "website": "http://www.rbf.gov.fj/"
+ },
+ {
+  "id": "ki-bank-of-kiribati",
+  "name": "Bank of Kiribati",
+  "country": "KI",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q98058686"
+  }
+ },
+ {
+  "id": "nr-bank-of-nauru",
+  "name": "Bank of Nauru",
+  "country": "NR",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806683"
+  }
+ },
+ {
+  "id": "nz-reserve-bank-of-new-zealand",
+  "name": "Reserve Bank of New Zealand",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1494550"
+  },
+  "website": "https://www.rbnz.govt.nz/"
+ },
+ {
+  "id": "nz-new-zealand-green-investment-finance",
+  "name": "New Zealand Green Investment Finance",
+  "country": "NZ",
+  "region": "oceania",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q134464210"
+  }
+ },
+ {
+  "id": "pg-bank-of-papua-new-guinea",
+  "name": "Bank of Papua New Guinea",
+  "country": "PG",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3364697"
+  },
+  "website": "http://www.bankpng.gov.pg/"
+ },
+ {
+  "id": "sb-central-bank-of-solomon-islands",
+  "name": "Central Bank of Solomon Islands",
+  "country": "SB",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1777295"
+  },
+  "website": "http://www.cbsi.com.sb/"
+ },
+ {
+  "id": "to-national-reserve-bank-of-tonga",
+  "name": "National Reserve Bank of Tonga",
+  "country": "TO",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604318",
+   "bic": "NRBTTONU"
+  },
+  "website": "http://www.reservebank.to"
+ },
+ {
+  "id": "tv-national-bank-of-tuvalu",
+  "name": "National Bank of Tuvalu",
+  "country": "TV",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q16740215"
+  }
+ },
+ {
+  "id": "vu-reserve-bank-of-vanuatu",
+  "name": "Reserve Bank of Vanuatu",
+  "country": "VU",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2601309"
+  },
+  "website": "http://www.rbv.gov.vu/"
+ },
+ {
+  "id": "ws-central-bank-of-samoa",
+  "name": "Central Bank of Samoa",
+  "country": "WS",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2632072"
+  },
+  "website": "http://www.cbs.gov.ws"
+ }
+]

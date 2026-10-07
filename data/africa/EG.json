@@ -1,0 +1,27 @@
+[
+ {
+  "id": "eg-central-bank-of-egypt",
+  "name": "Central Bank of Egypt",
+  "country": "EG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q920699",
+   "bic": "CBEGEGCXXXX"
+  },
+  "website": "https://www.cbe.org.eg/",
+  "logo": {
+   "path": "logos/eg/central-bank-of-egypt.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Egypt_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "eg-fawry",
+  "name": "Fawry",
+  "country": "EG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://fawry.com"
+ }
+]

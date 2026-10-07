@@ -1,0 +1,29 @@
+[
+ {
+  "id": "ky-cayman-islands-monetary-authority",
+  "name": "Cayman Islands Monetary Authority",
+  "country": "KY",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774447"
+  },
+  "website": "https://www.cima.ky/"
+ },
+ {
+  "id": "ky-dms-bank-and-trust",
+  "name": "DMS Bank and Trust",
+  "country": "KY",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q110125408"
+  },
+  "website": "https://dmsbank.com",
+  "logo": {
+   "path": "logos/ky/dms-bank-and-trust.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:DMS_Bank_%26_Trust_logo_2021.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

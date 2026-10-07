@@ -1,0 +1,18 @@
+[
+ {
+  "id": "kg-national-bank-of-the-kyrgyz-republic",
+  "name": "National Bank of the Kyrgyz Republic",
+  "country": "KG",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3430475"
+  },
+  "website": "http://www.nbkr.kg",
+  "logo": {
+   "path": "logos/kg/national-bank-of-the-kyrgyz-republic.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_the_Kyrgyz_Republic_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

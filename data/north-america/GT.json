@@ -1,0 +1,18 @@
+[
+ {
+  "id": "gt-bank-of-guatemala",
+  "name": "Bank of Guatemala",
+  "country": "GT",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359424"
+  },
+  "website": "http://www.banguat.gob.gt",
+  "logo": {
+   "path": "logos/gt/bank-of-guatemala.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Autoridades_de_BANGUAT_realizan_reuni%C3%B3n_de_transici%C3%B3n_20231023_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

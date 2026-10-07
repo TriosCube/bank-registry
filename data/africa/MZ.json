@@ -1,0 +1,18 @@
+[
+ {
+  "id": "mz-bank-of-mozambique",
+  "name": "Bank of Mozambique",
+  "country": "MZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3363703"
+  },
+  "website": "http://www.bancomoc.mz/Default_en.aspx",
+  "logo": {
+   "path": "logos/mz/bank-of-mozambique.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo-Banco-de-Mo%C3%A7ambique-01-995x1024.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

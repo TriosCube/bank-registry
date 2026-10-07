@@ -1,0 +1,13 @@
+[
+ {
+  "id": "py-central-bank-of-paraguay",
+  "name": "Central Bank of Paraguay",
+  "country": "PY",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504275"
+  },
+  "website": "https://www.bcp.gov.py/"
+ }
+]

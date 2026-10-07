@@ -1,0 +1,34 @@
+[
+ {
+  "id": "mx-banco-nacional-de-mexico",
+  "name": "Banco Nacional de México",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2646652"
+  },
+  "website": "https://www.banamex.com/",
+  "logo": {
+   "path": "logos/mx/banco-nacional-de-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banamex.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mx-bank-of-mexico",
+  "name": "Bank of Mexico",
+  "country": "MX",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806208"
+  },
+  "website": "http://www.banxico.org.mx/",
+  "logo": {
+   "path": "logos/mx/bank-of-mexico.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logobm.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

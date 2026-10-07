@@ -1,0 +1,61 @@
+[
+ {
+  "id": "cn-agricultural-development-bank-of-china",
+  "name": "Agricultural Development Bank of China",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q4693884"
+  },
+  "website": "https://www.adbc.com.cn",
+  "logo": {
+   "path": "logos/cn/agricultural-development-bank-of-china.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Agricultural_Development_Bank_of_China_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "cn-china-development-bank",
+  "name": "China Development Bank",
+  "country": "CN",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q1064065"
+  },
+  "website": "http://www.cdb.com.cn/",
+  "logo": {
+   "path": "logos/cn/china-development-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:PRC_China_Development_Bank_%28CDB%29_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "jp-development-bank-of-japan",
+  "name": "Development Bank of Japan",
+  "country": "JP",
+  "region": "asia",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q5266677"
+  },
+  "website": "https://www.dbj.jp/",
+  "logo": {
+   "path": "logos/jp/development-bank-of-japan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Dbj_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tr-industrial-development-bank-of-turkey",
+  "name": "Industrial Development Bank of Turkey",
+  "country": "TR",
+  "region": "europe",
+  "category": "development",
+  "codes": {
+   "wikidata": "Q28465260"
+  },
+  "website": "http://www.tskb.com.tr/"
+ }
+]

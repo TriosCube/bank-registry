@@ -1,0 +1,13 @@
+[
+ {
+  "id": "sl-bank-of-sierra-leone",
+  "name": "Bank of Sierra Leone",
+  "country": "SL",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806691"
+  },
+  "website": "http://www.bsl.gov.sl/"
+ }
+]

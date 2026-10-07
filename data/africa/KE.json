@@ -1,0 +1,37 @@
+[
+ {
+  "id": "ke-central-bank-of-kenya",
+  "name": "Central Bank of Kenya",
+  "country": "KE",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2510227"
+  },
+  "website": "https://www.centralbank.go.ke/"
+ },
+ {
+  "id": "ke-m-pesa",
+  "name": "M-Pesa",
+  "country": "KE",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://www.safaricom.co.ke"
+ },
+ {
+  "id": "ke-cellulant",
+  "name": "Cellulant",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://cellulant.io"
+ },
+ {
+  "id": "ke-pesapal",
+  "name": "Pesapal",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.pesapal.com"
+ }
+]

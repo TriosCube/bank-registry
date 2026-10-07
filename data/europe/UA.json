@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ua-national-bank-of-ukraine",
+  "name": "National Bank of Ukraine",
+  "country": "UA",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1070388"
+  },
+  "website": "https://bank.gov.ua/",
+  "logo": {
+   "path": "logos/ua/national-bank-of-ukraine.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:NBU_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

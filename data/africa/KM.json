@@ -1,0 +1,13 @@
+[
+ {
+  "id": "km-central-bank-of-the-comoros",
+  "name": "Central Bank of the Comoros",
+  "country": "KM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604274"
+  },
+  "website": "http://www.banque-comores.km/"
+ }
+]

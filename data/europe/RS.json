@@ -1,0 +1,42 @@
+[
+ {
+  "id": "rs-national-bank-of-serbia",
+  "name": "National Bank of Serbia",
+  "country": "RS",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1194664",
+   "bic": "NBSRRSBGXXX"
+  },
+  "website": "http://www.nbs.rs/"
+ },
+ {
+  "id": "rs-3-bank",
+  "name": "3 Bank",
+  "country": "RS",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q114345230"
+  },
+  "website": "https://www.3bank.rs/",
+  "logo": {
+   "path": "logos/rs/3-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:3_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "rs-eurobank-a-d",
+  "name": "Eurobank a.d.",
+  "country": "RS",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5411684",
+   "bic": "ERBKRSBGXXX"
+  },
+  "website": "https://www.eurobank-direktna.rs"
+ }
+]

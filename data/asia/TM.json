@@ -1,0 +1,14 @@
+[
+ {
+  "id": "tm-central-bank-of-turkmenistan",
+  "name": "Central Bank of Turkmenistan",
+  "country": "TM",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504283",
+   "bic": "CBTUTM2AXXX"
+  },
+  "website": "http://www.cbt.tm"
+ }
+]

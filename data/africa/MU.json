@@ -1,0 +1,13 @@
+[
+ {
+  "id": "mu-bank-of-mauritius",
+  "name": "Bank of Mauritius",
+  "country": "MU",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2743652"
+  },
+  "website": "https://www.bom.mu/"
+ }
+]

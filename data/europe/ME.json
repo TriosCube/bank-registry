@@ -1,0 +1,18 @@
+[
+ {
+  "id": "me-central-bank-of-montenegro",
+  "name": "Central Bank of Montenegro",
+  "country": "ME",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504284"
+  },
+  "website": "http://www.cb-mn.org",
+  "logo": {
+   "path": "logos/me/central-bank-of-montenegro.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Montenegro_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

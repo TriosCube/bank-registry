@@ -1,0 +1,12 @@
+[
+ {
+  "id": "nr-bank-of-nauru",
+  "name": "Bank of Nauru",
+  "country": "NR",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806683"
+  }
+ }
+]

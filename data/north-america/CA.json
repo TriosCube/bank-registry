@@ -1,0 +1,66 @@
+[
+ {
+  "id": "ca-bank-of-canada",
+  "name": "Bank of Canada",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806703"
+  },
+  "website": "https://www.bankofcanada.ca/"
+ },
+ {
+  "id": "ca-bank-of-montreal",
+  "name": "Bank of Montreal",
+  "country": "CA",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806693"
+  },
+  "website": "http://www.bmo.com/",
+  "logo": {
+   "path": "logos/ca/bank-of-montreal.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BMO_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ca-bank-of-canada-q4856070",
+  "name": "Bank of Canada",
+  "country": "CA",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4856070"
+  }
+ },
+ {
+  "id": "ca-tangerine",
+  "name": "Tangerine",
+  "country": "CA",
+  "region": "north-america",
+  "category": "fintech",
+  "codes": {
+   "wikidata": "Q15238797"
+  },
+  "website": "https://www.tangerine.ca/en/",
+  "logo": {
+   "path": "logos/ca/tangerine.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Tangerine_Bank_logo_2026.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ca-windsor-drake",
+  "name": "Windsor Drake",
+  "country": "CA",
+  "region": "north-america",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q140322137"
+  },
+  "website": "https://windsordrake.com"
+ }
+]

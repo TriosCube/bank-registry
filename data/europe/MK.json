@@ -1,0 +1,13 @@
+[
+ {
+  "id": "mk-national-bank-of-north-macedonia",
+  "name": "National Bank of North Macedonia",
+  "country": "MK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2598067"
+  },
+  "website": "http://www.nbrm.mk"
+ }
+]

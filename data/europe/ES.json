@@ -1,0 +1,78 @@
+[
+ {
+  "id": "es-bank-of-spain",
+  "name": "Bank of Spain",
+  "country": "ES",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q789966"
+  },
+  "website": "https://www.bde.es/",
+  "logo": {
+   "path": "logos/es/bank-of-spain.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Banco_de_Espa%C3%B1a.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "es-argentaria",
+  "name": "Argentaria",
+  "country": "ES",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5703620"
+  },
+  "website": "http://www.argentaria.es"
+ },
+ {
+  "id": "es-banco-santander",
+  "name": "Banco Santander",
+  "country": "ES",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q6496310"
+  },
+  "website": "https://www.santander.com/",
+  "logo": {
+   "path": "logos/es/banco-santander.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Santander_Logotipo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "es-creand-wealth-management-spain",
+  "name": "Creand Wealth Management Spain",
+  "country": "ES",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q116480794"
+  },
+  "website": "https://creand.es/"
+ },
+ {
+  "id": "es-official-credit-institute",
+  "name": "Official Credit Institute",
+  "country": "ES",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5918089"
+  },
+  "website": "http://www.ico.es"
+ },
+ {
+  "id": "es-closa-investment-bankers",
+  "name": "Closa Investment Bankers",
+  "country": "ES",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q120562393"
+  },
+  "website": "https://www.closa.com/"
+ }
+]

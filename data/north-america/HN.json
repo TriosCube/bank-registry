@@ -1,0 +1,13 @@
+[
+ {
+  "id": "hn-central-bank-of-honduras",
+  "name": "Central Bank of Honduras",
+  "country": "HN",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2920146"
+  },
+  "website": "http://www.bch.hn/"
+ }
+]

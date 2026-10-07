@@ -1,0 +1,137 @@
+[
+ {
+  "id": "ng-78-finance-company-ltd",
+  "name": "78 Finance Company Ltd",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "40195"
+  },
+  "logo": {
+   "path": "logos/ng/78-finance-company-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-branch-international-finance-company-limited",
+  "name": "Branch International Finance Company Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "FC40163"
+  },
+  "logo": {
+   "path": "logos/ng/branch-international-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-county-finance-limited",
+  "name": "County Finance Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "FC40128"
+  },
+  "logo": {
+   "path": "logos/ng/county-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fewchore-finance-company-limited",
+  "name": "Fewchore Finance Company Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050002"
+  },
+  "logo": {
+   "path": "logos/ng/fewchore-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pfi-finance-company-limited",
+  "name": "PFI FINANCE COMPANY LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050021"
+  },
+  "logo": {
+   "path": "logos/ng/pfi-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-prosperis-finance-limited",
+  "name": "PROSPERIS FINANCE LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050023"
+  },
+  "logo": {
+   "path": "logos/ng/prosperis-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-sage-grey-finance-limited",
+  "name": "SAGE GREY FINANCE LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "40165"
+  },
+  "logo": {
+   "path": "logos/ng/sage-grey-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-vale-finance-limited",
+  "name": "Vale Finance Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050020"
+  },
+  "logo": {
+   "path": "logos/ng/vale-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-whitecrust-finance-company",
+  "name": "Whitecrust Finance Company",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "402001"
+  },
+  "logo": {
+   "path": "logos/ng/whitecrust-finance-company.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ }
+]

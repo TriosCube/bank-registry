@@ -1,0 +1,24 @@
+[
+ {
+  "id": "dk-danmarks-nationalbank",
+  "name": "Danmarks Nationalbank",
+  "country": "DK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q683252"
+  },
+  "website": "https://www.nationalbanken.dk/da"
+ },
+ {
+  "id": "dk-merkur-andelskasse",
+  "name": "Merkur Andelskasse",
+  "country": "DK",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12326678"
+  },
+  "website": "https://merkur.dk/"
+ }
+]

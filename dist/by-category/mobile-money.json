@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ke-m-pesa",
+  "name": "M-Pesa",
+  "country": "KE",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://www.safaricom.co.ke"
+ },
+ {
+  "id": "sn-wave",
+  "name": "Wave",
+  "country": "SN",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://www.wave.com"
+ },
+ {
+  "id": "za-mtn-mobile-money",
+  "name": "MTN Mobile Money",
+  "country": "ZA",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://momo.mtn.com"
+ },
+ {
+  "id": "in-airtel-money",
+  "name": "Airtel Money",
+  "country": "IN",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.airtel.africa/money"
+ },
+ {
+  "id": "ph-gcash",
+  "name": "GCash",
+  "country": "PH",
+  "region": "asia",
+  "category": "mobile-money",
+  "website": "https://www.gcash.com"
+ },
+ {
+  "id": "fr-orange-money",
+  "name": "Orange Money",
+  "country": "FR",
+  "region": "europe",
+  "category": "mobile-money",
+  "website": "https://www.orange.com"
+ }
+]

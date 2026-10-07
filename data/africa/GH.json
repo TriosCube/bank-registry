@@ -1,0 +1,34 @@
+[
+ {
+  "id": "gh-bank-of-ghana",
+  "name": "Bank of Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q669484"
+  },
+  "website": "http://www.bog.gov.gh/"
+ },
+ {
+  "id": "gh-bonzali-rural-bank",
+  "name": "Bonzali Rural Bank",
+  "country": "GH",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q115605092"
+  }
+ },
+ {
+  "id": "gh-republic-bank-ghana-plc",
+  "name": "Republic Bank (Ghana) PLC",
+  "country": "GH",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q140798483"
+  },
+  "website": "https://www.republicghana.com"
+ }
+]

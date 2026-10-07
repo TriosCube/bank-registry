@@ -1,0 +1,18 @@
+[
+ {
+  "id": "ir-central-bank-of-iran",
+  "name": "Central Bank of Iran",
+  "country": "IR",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1261157"
+  },
+  "website": "https://cbi.ir",
+  "logo": {
+   "path": "logos/ir/central-bank-of-iran.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_central_iran_bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

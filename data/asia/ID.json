@@ -1,0 +1,30 @@
+[
+ {
+  "id": "id-bank-indonesia",
+  "name": "Bank Indonesia",
+  "country": "ID",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1906161",
+   "bic": "INDOIDJA"
+  },
+  "website": "http://www.bi.go.id/",
+  "logo": {
+   "path": "logos/id/bank-indonesia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankindonesialogo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "id-bank-syariah-mandiri",
+  "name": "Bank Syariah Mandiri",
+  "country": "ID",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12474533"
+  },
+  "website": "https://www.syariahmandiri.co.id/"
+ }
+]

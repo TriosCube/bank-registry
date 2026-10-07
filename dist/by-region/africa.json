@@ -1,0 +1,4904 @@
+[
+ {
+  "id": "ao-national-bank-of-angola",
+  "name": "National Bank of Angola",
+  "country": "AO",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q31211"
+  },
+  "website": "http://www.bna.ao/"
+ },
+ {
+  "id": "ao-banco-angolano-de-investimentos",
+  "name": "Banco Angolano de Investimentos",
+  "country": "AO",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806172",
+   "bic": "BAIPAOLUXXX"
+  },
+  "website": "http://www.bancobai.ao/"
+ },
+ {
+  "id": "bi-bank-of-the-republic-of-burundi",
+  "name": "Bank of the Republic of Burundi",
+  "country": "BI",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806937"
+  },
+  "website": "http://www.brb.bi/"
+ },
+ {
+  "id": "bw-bank-of-botswana",
+  "name": "Bank of Botswana",
+  "country": "BW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q859830"
+  },
+  "website": "http://www.bankofbotswana.bw/"
+ },
+ {
+  "id": "cd-central-bank-of-congo",
+  "name": "Central Bank of Congo",
+  "country": "CD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2882989"
+  },
+  "website": "http://www.bcc.cd"
+ },
+ {
+  "id": "cm-cca-bank-credit-communautaire-d-afrique",
+  "name": "CCA Bank (Crédit Communautaire d'Afrique)",
+  "country": "CM",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q134727383"
+  },
+  "website": "https://cca-bank.com"
+ },
+ {
+  "id": "cv-bank-of-cape-verde",
+  "name": "Bank of Cape Verde",
+  "country": "CV",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077341"
+  },
+  "website": "http://www.bcv.cv/"
+ },
+ {
+  "id": "dj-central-bank-of-djibouti",
+  "name": "Central Bank of Djibouti",
+  "country": "DJ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504271"
+  },
+  "website": "http://www.banque-centrale.dj"
+ },
+ {
+  "id": "dz-bank-of-algeria",
+  "name": "Bank of Algeria",
+  "country": "DZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774622"
+  },
+  "website": "http://www.bank-of-algeria.dz/",
+  "logo": {
+   "path": "logos/dz/bank-of-algeria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Algeria.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "eg-central-bank-of-egypt",
+  "name": "Central Bank of Egypt",
+  "country": "EG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q920699",
+   "bic": "CBEGEGCXXXX"
+  },
+  "website": "https://www.cbe.org.eg/",
+  "logo": {
+   "path": "logos/eg/central-bank-of-egypt.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Egypt_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "eg-fawry",
+  "name": "Fawry",
+  "country": "EG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://fawry.com"
+ },
+ {
+  "id": "er-bank-of-eritrea",
+  "name": "Bank of Eritrea",
+  "country": "ER",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806163"
+  },
+  "website": "http://www.boe.gov.er/"
+ },
+ {
+  "id": "et-national-bank-of-ethiopia",
+  "name": "National Bank of Ethiopia",
+  "country": "ET",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1967889"
+  },
+  "website": "https://nbe.gov.et/",
+  "logo": {
+   "path": "logos/et/national-bank-of-ethiopia.png",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Ethiopia_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "gh-bank-of-ghana",
+  "name": "Bank of Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q669484"
+  },
+  "website": "http://www.bog.gov.gh/"
+ },
+ {
+  "id": "gh-bonzali-rural-bank",
+  "name": "Bonzali Rural Bank",
+  "country": "GH",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q115605092"
+  }
+ },
+ {
+  "id": "gh-republic-bank-ghana-plc",
+  "name": "Republic Bank (Ghana) PLC",
+  "country": "GH",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q140798483"
+  },
+  "website": "https://www.republicghana.com"
+ },
+ {
+  "id": "gm-central-bank-of-the-gambia",
+  "name": "Central Bank of The Gambia",
+  "country": "GM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q495091"
+  },
+  "website": "http://www.cbg.gm/"
+ },
+ {
+  "id": "gn-central-bank-of-the-republic-of-guinea",
+  "name": "Central Bank of the Republic of Guinea",
+  "country": "GN",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2882980"
+  },
+  "website": "https://www.bcrg-guinee.org/"
+ },
+ {
+  "id": "ke-central-bank-of-kenya",
+  "name": "Central Bank of Kenya",
+  "country": "KE",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2510227"
+  },
+  "website": "https://www.centralbank.go.ke/"
+ },
+ {
+  "id": "ke-m-pesa",
+  "name": "M-Pesa",
+  "country": "KE",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://www.safaricom.co.ke"
+ },
+ {
+  "id": "ke-cellulant",
+  "name": "Cellulant",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://cellulant.io"
+ },
+ {
+  "id": "ke-pesapal",
+  "name": "Pesapal",
+  "country": "KE",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.pesapal.com"
+ },
+ {
+  "id": "km-central-bank-of-the-comoros",
+  "name": "Central Bank of the Comoros",
+  "country": "KM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2604274"
+  },
+  "website": "http://www.banque-comores.km/"
+ },
+ {
+  "id": "lr-central-bank-of-liberia",
+  "name": "Central Bank of Liberia",
+  "country": "LR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2899684"
+  },
+  "website": "http://www.cbl.org.lr/index.php"
+ },
+ {
+  "id": "ls-central-bank-of-lesotho",
+  "name": "Central Bank of Lesotho",
+  "country": "LS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2608033"
+  },
+  "website": "http://www.centralbank.org.ls/"
+ },
+ {
+  "id": "ly-central-bank-of-libya",
+  "name": "Central Bank of Libya",
+  "country": "LY",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q58234"
+  },
+  "website": "http://cbl.gov.ly",
+  "logo": {
+   "path": "logos/ly/central-bank-of-libya.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:LogoCBL.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ma-bank-al-maghrib",
+  "name": "Bank Al-Maghrib",
+  "country": "MA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q328198"
+  },
+  "website": "https://www.bkam.ma/",
+  "logo": {
+   "path": "logos/ma/bank-al-maghrib.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Al-Maghrib_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "mg-central-bank-of-madagascar",
+  "name": "Central Bank of Madagascar",
+  "country": "MG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3433330",
+   "bic": "REPUMGMGRTG"
+  },
+  "website": "http://www.banque-centrale.mg/"
+ },
+ {
+  "id": "mr-central-bank-of-mauritania",
+  "name": "Central Bank of Mauritania",
+  "country": "MR",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2528877"
+  },
+  "website": "https://www.bcm.mr/"
+ },
+ {
+  "id": "mu-bank-of-mauritius",
+  "name": "Bank of Mauritius",
+  "country": "MU",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2743652"
+  },
+  "website": "https://www.bom.mu/"
+ },
+ {
+  "id": "mw-reserve-bank-of-malawi",
+  "name": "Reserve Bank of Malawi",
+  "country": "MW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2397584"
+  },
+  "website": "http://www.rbm.mw/"
+ },
+ {
+  "id": "mz-bank-of-mozambique",
+  "name": "Bank of Mozambique",
+  "country": "MZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3363703"
+  },
+  "website": "http://www.bancomoc.mz/Default_en.aspx",
+  "logo": {
+   "path": "logos/mz/bank-of-mozambique.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logotipo-Banco-de-Mo%C3%A7ambique-01-995x1024.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "na-bank-of-namibia",
+  "name": "Bank of Namibia",
+  "country": "NA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806684"
+  },
+  "website": "https://www.bon.com.na/",
+  "logo": {
+   "path": "logos/na/bank-of-namibia.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_der_Bank_von_Namibia.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ng-access-bank",
+  "name": "Access Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "044"
+  },
+  "ussd": "*901#",
+  "logo": {
+   "path": "logos/ng/access-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-access-bank-diamond",
+  "name": "Access Bank (Diamond)",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "063"
+  },
+  "ussd": "*426#",
+  "logo": {
+   "path": "logos/ng/access-bank-diamond.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-alat-by-wema",
+  "name": "ALAT by WEMA",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "035A"
+  },
+  "ussd": "*945*100#",
+  "logo": {
+   "path": "logos/ng/alat-by-wema.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-alpha-morgan-bank",
+  "name": "Alpha Morgan Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "108"
+  },
+  "logo": {
+   "path": "logos/ng/alpha-morgan-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-alternative-bank",
+  "name": "Alternative bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "000304"
+  },
+  "logo": {
+   "path": "logos/ng/alternative-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bank-of-agriculture",
+  "name": "BANK OF AGRICULTURE",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "90367"
+  },
+  "logo": {
+   "path": "logos/ng/bank-of-agriculture.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-centrum-finance",
+  "name": "Centrum Finance",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "050032"
+  },
+  "logo": {
+   "path": "logos/ng/centrum-finance.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-citibank-nigeria",
+  "name": "Citibank Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "023"
+  },
+  "logo": {
+   "path": "logos/ng/citibank-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-citycode-mortage-bank",
+  "name": "CITYCODE MORTAGE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "070027"
+  },
+  "logo": {
+   "path": "logos/ng/citycode-mortage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-credit-direct-limited",
+  "name": "Credit Direct Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "40119"
+  },
+  "logo": {
+   "path": "logos/ng/credit-direct-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ecobank-nigeria",
+  "name": "Ecobank Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "050"
+  },
+  "ussd": "*326#",
+  "logo": {
+   "path": "logos/ng/ecobank-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-excel-finance-bank",
+  "name": "EXCEL FINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "090678"
+  },
+  "logo": {
+   "path": "logos/ng/excel-finance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fidelity-bank",
+  "name": "Fidelity Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "070"
+  },
+  "ussd": "*770#",
+  "logo": {
+   "path": "logos/ng/fidelity-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-first-bank-of-nigeria",
+  "name": "First Bank of Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "011"
+  },
+  "ussd": "*894#",
+  "logo": {
+   "path": "logos/ng/first-bank-of-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-first-city-monument-bank",
+  "name": "First City Monument Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "214"
+  },
+  "ussd": "*329#",
+  "logo": {
+   "path": "logos/ng/first-city-monument-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-globus-bank",
+  "name": "Globus Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "00103"
+  },
+  "ussd": "*989#",
+  "logo": {
+   "path": "logos/ng/globus-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-guaranty-trust-bank",
+  "name": "Guaranty Trust Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "058"
+  },
+  "ussd": "*737#",
+  "logo": {
+   "path": "logos/ng/guaranty-trust-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-hopepsb",
+  "name": "HopePSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "120002"
+  },
+  "logo": {
+   "path": "logos/ng/hopepsb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-imperial-homes-mortage-bank",
+  "name": "IMPERIAL HOMES MORTAGE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "415"
+  },
+  "logo": {
+   "path": "logos/ng/imperial-homes-mortage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-keystone-bank",
+  "name": "Keystone Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "082"
+  },
+  "ussd": "*7111#",
+  "logo": {
+   "path": "logos/ng/keystone-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-lagos-building-investment-company-plc",
+  "name": "Lagos Building Investment Company Plc.",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "90052"
+  },
+  "logo": {
+   "path": "logos/ng/lagos-building-investment-company-plc.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-lotus-bank",
+  "name": "Lotus Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "303"
+  },
+  "ussd": "*5045#",
+  "logo": {
+   "path": "logos/ng/lotus-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nova-bank",
+  "name": "NOVA BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "561"
+  },
+  "logo": {
+   "path": "logos/ng/nova-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-optimus-bank-limited",
+  "name": "Optimus Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "107"
+  },
+  "logo": {
+   "path": "logos/ng/optimus-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-parallex-bank",
+  "name": "Parallex Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "104"
+  },
+  "ussd": "*322*318*0#",
+  "logo": {
+   "path": "logos/ng/parallex-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-parkway-readycash",
+  "name": "Parkway - ReadyCash",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "311"
+  },
+  "logo": {
+   "path": "logos/ng/parkway-readycash.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-petra-mircofinance-bank-plc",
+  "name": "Petra Mircofinance Bank Plc",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "50746"
+  },
+  "logo": {
+   "path": "logos/ng/petra-mircofinance-bank-plc.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-polaris-bank",
+  "name": "Polaris Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "076"
+  },
+  "ussd": "*833#",
+  "logo": {
+   "path": "logos/ng/polaris-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-premiumtrust-bank",
+  "name": "PremiumTrust Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "105"
+  },
+  "logo": {
+   "path": "logos/ng/premiumtrust-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-providus-bank",
+  "name": "Providus Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "101"
+  },
+  "logo": {
+   "path": "logos/ng/providus-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-signature-bank-ltd",
+  "name": "Signature Bank Ltd",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "106"
+  },
+  "logo": {
+   "path": "logos/ng/signature-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stanbic-ibtc-bank",
+  "name": "Stanbic IBTC Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "221"
+  },
+  "ussd": "*909#",
+  "logo": {
+   "path": "logos/ng/stanbic-ibtc-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-standard-chartered-bank",
+  "name": "Standard Chartered Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "068"
+  },
+  "logo": {
+   "path": "logos/ng/standard-chartered-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-sterling-bank",
+  "name": "Sterling Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "232"
+  },
+  "ussd": "*822#",
+  "logo": {
+   "path": "logos/ng/sterling-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-summit-bank",
+  "name": "Summit Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "00305"
+  },
+  "logo": {
+   "path": "logos/ng/summit-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-suntrust-bank",
+  "name": "Suntrust Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "100"
+  },
+  "ussd": "*5230#",
+  "logo": {
+   "path": "logos/ng/suntrust-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-taj-bank",
+  "name": "TAJ Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "302"
+  },
+  "ussd": "*898#",
+  "logo": {
+   "path": "logos/ng/taj-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-tatum-bank",
+  "name": "Tatum Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "109"
+  },
+  "logo": {
+   "path": "logos/ng/tatum-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-tenn",
+  "name": "TENN",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "51403"
+  },
+  "logo": {
+   "path": "logos/ng/tenn.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-titan-trust-bank",
+  "name": "Titan Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "102"
+  },
+  "ussd": "*922#",
+  "logo": {
+   "path": "logos/ng/titan-trust-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-union-bank-of-nigeria",
+  "name": "Union Bank of Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "032"
+  },
+  "ussd": "*826#",
+  "logo": {
+   "path": "logos/ng/union-bank-of-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-united-bank-for-africa",
+  "name": "United Bank For Africa",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "033"
+  },
+  "ussd": "*919#",
+  "logo": {
+   "path": "logos/ng/united-bank-for-africa.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-unity-bank",
+  "name": "Unity Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "215"
+  },
+  "ussd": "*7799#",
+  "logo": {
+   "path": "logos/ng/unity-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-wema-bank",
+  "name": "Wema Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "035"
+  },
+  "ussd": "*945#",
+  "logo": {
+   "path": "logos/ng/wema-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-xpress-wallet",
+  "name": "Xpress Wallet",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "100040"
+  },
+  "logo": {
+   "path": "logos/ng/xpress-wallet.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-zap",
+  "name": "Zap",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "00zap"
+  },
+  "logo": {
+   "path": "logos/ng/zap.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-zenith-bank",
+  "name": "Zenith Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "nip": "057"
+  },
+  "ussd": "*966#",
+  "logo": {
+   "path": "logos/ng/zenith-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-carbon",
+  "name": "Carbon",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "565"
+  },
+  "logo": {
+   "path": "logos/ng/carbon.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cowrywise",
+  "name": "Cowrywise",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "website": "https://cowrywise.com"
+ },
+ {
+  "id": "ng-eyowo",
+  "name": "Eyowo",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50126"
+  },
+  "logo": {
+   "path": "logos/ng/eyowo.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-flutterwave-mfb",
+  "name": "Flutterwave MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "090567"
+  },
+  "logo": {
+   "path": "logos/ng/flutterwave-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gomoney",
+  "name": "GoMoney",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100022"
+  },
+  "logo": {
+   "path": "logos/ng/gomoney.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kongapay-kongapay-technologies-limited-formerly-zinternet",
+  "name": "KONGAPAY (Kongapay Technologies Limited)(formerly Zinternet)",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100025"
+  },
+  "logo": {
+   "path": "logos/ng/kongapay-kongapay-technologies-limited-formerly-zinternet.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kuda-bank",
+  "name": "Kuda Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50211"
+  },
+  "logo": {
+   "path": "logos/ng/kuda-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-moniepoint-mfb-ng",
+  "name": "Moniepoint MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "50515"
+  },
+  "ussd": "*5573#",
+  "logo": {
+   "path": "logos/ng/moniepoint-mfb-ng.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paycom",
+  "name": "OPay Digital Services Limited (OPay)",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "999992"
+  },
+  "ussd": "*955#",
+  "logo": {
+   "path": "logos/ng/paycom.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paga",
+  "name": "Paga",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100002"
+  },
+  "logo": {
+   "path": "logos/ng/paga.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-palmpay",
+  "name": "PalmPay",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "999991"
+  },
+  "ussd": "*861#",
+  "logo": {
+   "path": "logos/ng/palmpay.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paystack-mfb",
+  "name": "Paystack MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "51457"
+  },
+  "logo": {
+   "path": "logos/ng/paystack-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-paystack-titan",
+  "name": "Paystack-Titan",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "100039"
+  },
+  "logo": {
+   "path": "logos/ng/paystack-titan.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-piggyvest",
+  "name": "PiggyVest",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "website": "https://www.piggyvest.com"
+ },
+ {
+  "id": "ng-pocket-app",
+  "name": "Pocket App",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "00716"
+  },
+  "logo": {
+   "path": "logos/ng/pocket-app.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-tangerine-money",
+  "name": "Tangerine Money",
+  "country": "NG",
+  "region": "africa",
+  "category": "fintech",
+  "codes": {
+   "nip": "51269"
+  },
+  "logo": {
+   "path": "logos/ng/tangerine-money.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-coronation-merchant-bank",
+  "name": "Coronation Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "559"
+  },
+  "logo": {
+   "path": "logos/ng/coronation-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fsdh-merchant-bank-limited",
+  "name": "FSDH Merchant Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "501"
+  },
+  "logo": {
+   "path": "logos/ng/fsdh-merchant-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-greenwich-merchant-bank",
+  "name": "Greenwich Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "562"
+  },
+  "logo": {
+   "path": "logos/ng/greenwich-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rand-merchant-bank",
+  "name": "Rand Merchant Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "investment",
+  "codes": {
+   "nip": "502"
+  },
+  "logo": {
+   "path": "logos/ng/rand-merchant-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-jaiz-bank",
+  "name": "Jaiz Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "islamic",
+  "codes": {
+   "nip": "301"
+  },
+  "ussd": "*389*301#",
+  "logo": {
+   "path": "logos/ng/jaiz-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-5tt-mfb",
+  "name": "5TT MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51455"
+  },
+  "logo": {
+   "path": "logos/ng/5tt-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-9japay-microfinance-bank",
+  "name": "9jaPay Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090629"
+  },
+  "logo": {
+   "path": "logos/ng/9japay-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-above-only-mfb",
+  "name": "Above Only MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51204"
+  },
+  "logo": {
+   "path": "logos/ng/above-only-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-abulesoro-mfb",
+  "name": "Abulesoro MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51312"
+  },
+  "logo": {
+   "path": "logos/ng/abulesoro-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-accion-microfinance-bank",
+  "name": "Accion Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "602"
+  },
+  "logo": {
+   "path": "logos/ng/accion-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-advancly-mfb",
+  "name": "Advancly MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090759"
+  },
+  "logo": {
+   "path": "logos/ng/advancly-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-aella-mfb",
+  "name": "Aella MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50315"
+  },
+  "logo": {
+   "path": "logos/ng/aella-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ahmadu-bello-university-microfinance-bank",
+  "name": "Ahmadu Bello University Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50036"
+  },
+  "logo": {
+   "path": "logos/ng/ahmadu-bello-university-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-aku-microfinance-bank",
+  "name": "AKU Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51336"
+  },
+  "logo": {
+   "path": "logos/ng/aku-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-akuchukwu-microfinance-bank-limited",
+  "name": "Akuchukwu Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090561"
+  },
+  "logo": {
+   "path": "logos/ng/akuchukwu-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-al-barakah-microfinance-bank",
+  "name": "Al-Barakah Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50055"
+  },
+  "logo": {
+   "path": "logos/ng/al-barakah-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-alert-mfb",
+  "name": "Alert MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51074"
+  },
+  "logo": {
+   "path": "logos/ng/alert-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-allworkers-mfb",
+  "name": "ALLWORKERS MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50059"
+  },
+  "logo": {
+   "path": "logos/ng/allworkers-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-amju-unique-mfb",
+  "name": "Amju Unique MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50926"
+  },
+  "logo": {
+   "path": "logos/ng/amju-unique-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-aramoko-mfb",
+  "name": "Aramoko MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50083"
+  },
+  "logo": {
+   "path": "logos/ng/aramoko-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-asset-matrix-mfb",
+  "name": "ASSET MATRIX MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90287"
+  },
+  "logo": {
+   "path": "logos/ng/asset-matrix-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-assets-microfinance-bank",
+  "name": "Assets Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50092"
+  },
+  "logo": {
+   "path": "logos/ng/assets-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-astrapolaris-mfb-ltd",
+  "name": "Astrapolaris MFB LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "MFB50094"
+  },
+  "logo": {
+   "path": "logos/ng/astrapolaris-mfb-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-atbu-mfb",
+  "name": "ATBU MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90451"
+  },
+  "logo": {
+   "path": "logos/ng/atbu-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-avuenegbe-microfinance-bank",
+  "name": "AVUENEGBE MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090478"
+  },
+  "logo": {
+   "path": "logos/ng/avuenegbe-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-awacash-microfinance-bank",
+  "name": "AWACASH MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51351"
+  },
+  "logo": {
+   "path": "logos/ng/awacash-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-aztec-microfinance-bank-limited",
+  "name": "AZTEC MICROFINANCE BANK LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51337"
+  },
+  "logo": {
+   "path": "logos/ng/aztec-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bainescredit-mfb",
+  "name": "Bainescredit MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51229"
+  },
+  "logo": {
+   "path": "logos/ng/bainescredit-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-banc-corp-microfinance-bank",
+  "name": "Banc Corp Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50117"
+  },
+  "logo": {
+   "path": "logos/ng/banc-corp-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bank78-microfinance-bank",
+  "name": "Bank78 Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "11072"
+  },
+  "logo": {
+   "path": "logos/ng/bank78-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bankit-mfb",
+  "name": "BANKIT MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50572"
+  },
+  "logo": {
+   "path": "logos/ng/bankit-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bankit-microfinance-bank-ltd",
+  "name": "BANKIT MICROFINANCE BANK LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50572"
+  },
+  "logo": {
+   "path": "logos/ng/bankit-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bankly-mfb",
+  "name": "BANKLY MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51341"
+  },
+  "logo": {
+   "path": "logos/ng/bankly-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-baobab-microfinance-bank",
+  "name": "Baobab Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "MFB50992"
+  },
+  "logo": {
+   "path": "logos/ng/baobab-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bc-kash-microfinance-bank",
+  "name": "BC Kash Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51212"
+  },
+  "logo": {
+   "path": "logos/ng/bc-kash-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bellbank-microfinance-bank",
+  "name": "BellBank Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51100"
+  },
+  "logo": {
+   "path": "logos/ng/bellbank-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-benysta-microfinance-bank-limited",
+  "name": "Benysta Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51267"
+  },
+  "logo": {
+   "path": "logos/ng/benysta-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-berachah-microfinance-bank-ltd",
+  "name": "Berachah Microfinance Bank Ltd.",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50122"
+  },
+  "logo": {
+   "path": "logos/ng/berachah-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-beststar-microfinance-bank",
+  "name": "Beststar Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50123"
+  },
+  "logo": {
+   "path": "logos/ng/beststar-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bloc-mfb",
+  "name": "BLOC MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51411"
+  },
+  "logo": {
+   "path": "logos/ng/bloc-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bold-mfb",
+  "name": "BOLD MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50725"
+  },
+  "logo": {
+   "path": "logos/ng/bold-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-boost-microfinance-bank",
+  "name": "Boost Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51449"
+  },
+  "logo": {
+   "path": "logos/ng/boost-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bosak-microfinance-bank",
+  "name": "Bosak Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "650"
+  },
+  "logo": {
+   "path": "logos/ng/bosak-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bowen-microfinance-bank",
+  "name": "Bowen Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50931"
+  },
+  "logo": {
+   "path": "logos/ng/bowen-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-buypower-mfb",
+  "name": "BuyPower MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50645"
+  },
+  "logo": {
+   "path": "logos/ng/buypower-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-bway-mfb",
+  "name": "BWAY MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90774"
+  },
+  "logo": {
+   "path": "logos/ng/bway-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cashbridge-microfinance-bank-limited",
+  "name": "Cashbridge Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51353"
+  },
+  "logo": {
+   "path": "logos/ng/cashbridge-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cashconnect-mfb",
+  "name": "CASHCONNECT MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "865"
+  },
+  "logo": {
+   "path": "logos/ng/cashconnect-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cedrus-mfb",
+  "name": "Cedrus MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51437"
+  },
+  "logo": {
+   "path": "logos/ng/cedrus-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cemcs-microfinance-bank",
+  "name": "CEMCS Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50823"
+  },
+  "logo": {
+   "path": "logos/ng/cemcs-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-chams-mobile-mfb",
+  "name": "CHAMS MOBILE MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "100036"
+  },
+  "logo": {
+   "path": "logos/ng/chams-mobile-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-chanelle-microfinance-bank-limited",
+  "name": "Chanelle Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50171"
+  },
+  "logo": {
+   "path": "logos/ng/chanelle-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-chikum-microfinance-bank",
+  "name": "Chikum Microfinance bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "312"
+  },
+  "logo": {
+   "path": "logos/ng/chikum-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-civic-microfinance-bank-limited",
+  "name": "Civic Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50186"
+  },
+  "logo": {
+   "path": "logos/ng/civic-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-consumer-microfinance-bank",
+  "name": "Consumer Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50910"
+  },
+  "logo": {
+   "path": "logos/ng/consumer-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cool-microfinance-bank-limited",
+  "name": "Cool Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51458"
+  },
+  "logo": {
+   "path": "logos/ng/cool-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-corestep-mfb",
+  "name": "Corestep MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50204"
+  },
+  "logo": {
+   "path": "logos/ng/corestep-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-crescent-mfb",
+  "name": "Crescent MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51297"
+  },
+  "logo": {
+   "path": "logos/ng/crescent-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-crust-microfinance-bank",
+  "name": "Crust Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090560"
+  },
+  "logo": {
+   "path": "logos/ng/crust-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-crutech-microfinance-bank-ltd",
+  "name": "CRUTECH MICROFINANCE BANK LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50216"
+  },
+  "logo": {
+   "path": "logos/ng/crutech-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-dash-microfinance-bank",
+  "name": "Dash Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51368"
+  },
+  "logo": {
+   "path": "logos/ng/dash-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-davenport-microfinance-bank",
+  "name": "Davenport MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51334"
+  },
+  "logo": {
+   "path": "logos/ng/davenport-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-dillon-microfinance-bank",
+  "name": "Dillon Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51450"
+  },
+  "logo": {
+   "path": "logos/ng/dillon-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-dot-microfinance-bank",
+  "name": "Dot Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50162"
+  },
+  "logo": {
+   "path": "logos/ng/dot-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ebsu-microfinance-bank",
+  "name": "EBSU Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50922"
+  },
+  "logo": {
+   "path": "logos/ng/ebsu-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ekimogun-mfb",
+  "name": "Ekimogun MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50263"
+  },
+  "logo": {
+   "path": "logos/ng/ekimogun-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ekondo-microfinance-bank",
+  "name": "Ekondo Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "098"
+  },
+  "ussd": "*540*178#",
+  "logo": {
+   "path": "logos/ng/ekondo-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-eso-e-microfinance-bank-limited",
+  "name": "ESO-E MICROFINANCE BANK LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50280"
+  },
+  "logo": {
+   "path": "logos/ng/eso-e-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ethica-mfb",
+  "name": "Ethica MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51475"
+  },
+  "logo": {
+   "path": "logos/ng/ethica-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fairmoney-microfinance-bank",
+  "name": "Fairmoney Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51318"
+  },
+  "logo": {
+   "path": "logos/ng/fairmoney-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fcmb-mfb",
+  "name": "FCMB MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51241"
+  },
+  "logo": {
+   "path": "logos/ng/fcmb-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fedeth-mfb",
+  "name": "Fedeth MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50298"
+  },
+  "logo": {
+   "path": "logos/ng/fedeth-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ffs-microfinance-bank",
+  "name": "FFS Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51110"
+  },
+  "logo": {
+   "path": "logos/ng/ffs-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-firmus-mfb",
+  "name": "Firmus MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51314"
+  },
+  "logo": {
+   "path": "logos/ng/firmus-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-first-option-mfb",
+  "name": "First Option MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50934"
+  },
+  "logo": {
+   "path": "logos/ng/first-option-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-first-royal-microfinance-bank",
+  "name": "FIRST ROYAL MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090164"
+  },
+  "logo": {
+   "path": "logos/ng/first-royal-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-firstmidas-mfb",
+  "name": "FIRSTMIDAS MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51333"
+  },
+  "logo": {
+   "path": "logos/ng/firstmidas-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fortress-mfb",
+  "name": "Fortress MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "D53"
+  },
+  "logo": {
+   "path": "logos/ng/fortress-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-futminna-microfinance-bank",
+  "name": "FUTMINNA MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "832"
+  }
+ },
+ {
+  "id": "ng-garun-mallam-mfb",
+  "name": "Garun Mallam MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "MFB51093"
+  }
+ },
+ {
+  "id": "ng-glory-mfb",
+  "name": "GLORY MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90278"
+  },
+  "logo": {
+   "path": "logos/ng/glory-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-goldman-mfb",
+  "name": "Goldman MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090574"
+  },
+  "logo": {
+   "path": "logos/ng/goldman-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gombe-mfb",
+  "name": "GOMBE MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90586"
+  },
+  "logo": {
+   "path": "logos/ng/gombe-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-good-shepherd-microfinance-bank",
+  "name": "GOOD SHEPHERD MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090664"
+  },
+  "logo": {
+   "path": "logos/ng/good-shepherd-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-goodnews-microfinance-bank",
+  "name": "Goodnews Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50739"
+  }
+ },
+ {
+  "id": "ng-grants-mfb",
+  "name": "GRANTS MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90335"
+  },
+  "logo": {
+   "path": "logos/ng/grants-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-grooming-microfinance-bank",
+  "name": "GROOMING MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51276"
+  },
+  "logo": {
+   "path": "logos/ng/grooming-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gti-mfb",
+  "name": "GTI MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50368"
+  },
+  "logo": {
+   "path": "logos/ng/gti-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-hackman-microfinance-bank",
+  "name": "Hackman Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51251"
+  },
+  "logo": {
+   "path": "logos/ng/hackman-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-hasal-microfinance-bank",
+  "name": "Hasal Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50383"
+  },
+  "ussd": "*322*127#",
+  "logo": {
+   "path": "logos/ng/hasal-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-hayat-trust-mfb",
+  "name": "Hayat Trust MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51364"
+  },
+  "logo": {
+   "path": "logos/ng/hayat-trust-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ibank-microfinance-bank",
+  "name": "IBANK Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51211"
+  }
+ },
+ {
+  "id": "ng-ibbu-mfb",
+  "name": "IBBU MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51279"
+  },
+  "logo": {
+   "path": "logos/ng/ibbu-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ibile-microfinance-bank",
+  "name": "Ibile Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51244"
+  },
+  "logo": {
+   "path": "logos/ng/ibile-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ikoyi-osun-mfb",
+  "name": "Ikoyi Osun MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50439"
+  },
+  "logo": {
+   "path": "logos/ng/ikoyi-osun-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ilaro-poly-microfinance-bank",
+  "name": "Ilaro Poly Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50442"
+  },
+  "logo": {
+   "path": "logos/ng/ilaro-poly-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-imowo-mfb",
+  "name": "Imowo MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50453"
+  },
+  "logo": {
+   "path": "logos/ng/imowo-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ineba-gogo-mfb",
+  "name": "INEBA GOGO MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51462"
+  },
+  "logo": {
+   "path": "logos/ng/ineba-gogo-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-infinity-mfb",
+  "name": "Infinity MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50457"
+  },
+  "logo": {
+   "path": "logos/ng/infinity-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-isua-mfb",
+  "name": "ISUA MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090701"
+  }
+ },
+ {
+  "id": "ng-kadpoly-mfb",
+  "name": "Kadpoly MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50502"
+  },
+  "logo": {
+   "path": "logos/ng/kadpoly-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kanopoly-mfb",
+  "name": "KANOPOLY MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51308"
+  },
+  "logo": {
+   "path": "logos/ng/kanopoly-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kayi-mfb",
+  "name": "KAYI MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90667"
+  },
+  "logo": {
+   "path": "logos/ng/kayi-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kayvee-microfinance-bank",
+  "name": "Kayvee Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "5129"
+  },
+  "logo": {
+   "path": "logos/ng/kayvee-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kolomoni-mfb",
+  "name": "Kolomoni MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "899"
+  },
+  "logo": {
+   "path": "logos/ng/kolomoni-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kolomoni-microfinance-bank",
+  "name": "Kolomoni Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "100025"
+  },
+  "logo": {
+   "path": "logos/ng/kolomoni-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kredi-money-mfb-ltd",
+  "name": "Kredi Money MFB LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50200"
+  },
+  "logo": {
+   "path": "logos/ng/kredi-money-mfb-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-lemmy-mfb",
+  "name": "Lemmy MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "091003"
+  },
+  "logo": {
+   "path": "logos/ng/lemmy-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-letshego-microfinance-bank",
+  "name": "Letshego Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090420"
+  },
+  "logo": {
+   "path": "logos/ng/letshego-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-links-mfb",
+  "name": "Links MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50549"
+  },
+  "logo": {
+   "path": "logos/ng/links-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-loma-mfb",
+  "name": "LOMA MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50491"
+  },
+  "logo": {
+   "path": "logos/ng/loma-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-maal-mfb",
+  "name": "Maal MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51444"
+  },
+  "logo": {
+   "path": "logos/ng/maal-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mahfuz-mfb",
+  "name": "MAHFUZ MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90825"
+  },
+  "logo": {
+   "path": "logos/ng/mahfuz-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mainstreet-microfinance-bank",
+  "name": "MAINSTREET MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090171"
+  },
+  "logo": {
+   "path": "logos/ng/mainstreet-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mayden-microfinance-bank",
+  "name": "Mayden Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51474"
+  },
+  "logo": {
+   "path": "logos/ng/mayden-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mayfair-mfb",
+  "name": "Mayfair MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50563"
+  },
+  "logo": {
+   "path": "logos/ng/mayfair-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mega-microfinance-bank",
+  "name": "Mega Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50570"
+  },
+  "logo": {
+   "path": "logos/ng/mega-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-michael-okpara-uniagric-microfinance-bank",
+  "name": "Michael Okpara UniAgric Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "MFB51116M"
+  },
+  "logo": {
+   "path": "logos/ng/michael-okpara-uniagric-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mint-mfb",
+  "name": "Mint MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50304"
+  },
+  "logo": {
+   "path": "logos/ng/mint-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mint-finex-mfb",
+  "name": "MINT-FINEX MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "09"
+  }
+ },
+ {
+  "id": "ng-movasco-mfb",
+  "name": "MOVASCO MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90979"
+  }
+ },
+ {
+  "id": "ng-mutual-benefits-microfinance-bank",
+  "name": "MUTUAL BENEFITS MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090190"
+  },
+  "logo": {
+   "path": "logos/ng/mutual-benefits-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ndcc-microfinance-bank",
+  "name": "NDCC MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090679"
+  }
+ },
+ {
+  "id": "ng-net-microfinance-bank",
+  "name": "NET MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51361"
+  },
+  "logo": {
+   "path": "logos/ng/net-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nigerian-navy-microfinance-bank-limited",
+  "name": "Nigerian Navy Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51142"
+  },
+  "logo": {
+   "path": "logos/ng/nigerian-navy-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nirsal-microfinance",
+  "name": "NIRSAL MICROFINANCE",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51304"
+  },
+  "logo": {
+   "path": "logos/ng/nirsal-microfinance.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nombank-mfb",
+  "name": "Nombank MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50072"
+  },
+  "logo": {
+   "path": "logos/ng/nombank-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-novus-mfb",
+  "name": "Novus MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51371"
+  },
+  "logo": {
+   "path": "logos/ng/novus-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-npf-microfinance-bank",
+  "name": "NPF MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50629"
+  },
+  "logo": {
+   "path": "logos/ng/npf-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nsuk-microfinanace-bank",
+  "name": "NSUK MICROFINANACE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51261"
+  },
+  "logo": {
+   "path": "logos/ng/nsuk-microfinanace-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-nuvion-mfb",
+  "name": "NUVION MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51392"
+  }
+ },
+ {
+  "id": "ng-olabisi-onabanjo-university-microfinance-bank",
+  "name": "Olabisi Onabanjo University Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50689"
+  },
+  "logo": {
+   "path": "logos/ng/olabisi-onabanjo-university-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-oluchukwu-microfinance-bank-ltd",
+  "name": "OLUCHUKWU MICROFINANCE BANK LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50697"
+  },
+  "logo": {
+   "path": "logos/ng/oluchukwu-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pact-microfinance-bank",
+  "name": "Pact Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51477"
+  },
+  "logo": {
+   "path": "logos/ng/pact-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pathfinder-microfinance-bank-limited",
+  "name": "PATHFINDER MICROFINANCE BANK LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090680"
+  },
+  "logo": {
+   "path": "logos/ng/pathfinder-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-patrickgold-mfb",
+  "name": "PATRICKGOLD MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90317"
+  },
+  "logo": {
+   "path": "logos/ng/patrickgold-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-peace-microfinance-bank",
+  "name": "Peace Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50743"
+  },
+  "logo": {
+   "path": "logos/ng/peace-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pecantrust-microfinance-bank-limited",
+  "name": "PECANTRUST MICROFINANCE BANK LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51226"
+  },
+  "logo": {
+   "path": "logos/ng/pecantrust-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-personal-trust-mfb",
+  "name": "Personal Trust MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51146"
+  },
+  "logo": {
+   "path": "logos/ng/personal-trust-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pettysave-mfb",
+  "name": "Pettysave MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "MFB51452"
+  },
+  "logo": {
+   "path": "logos/ng/pettysave-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-polyunwana-mfb",
+  "name": "Polyunwana MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50864"
+  },
+  "logo": {
+   "path": "logos/ng/polyunwana-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-prospa-capital-microfinance-bank",
+  "name": "Prospa Capital Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "100052"
+  },
+  "logo": {
+   "path": "logos/ng/prospa-capital-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-quickfund-mfb",
+  "name": "QuickFund MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51293"
+  },
+  "logo": {
+   "path": "logos/ng/quickfund-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-randalpha-microfinance-bank",
+  "name": "RANDALPHA MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090496"
+  }
+ },
+ {
+  "id": "ng-rank-mfb",
+  "name": "Rank MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50130"
+  },
+  "logo": {
+   "path": "logos/ng/rank-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rehoboth-microfinance-bank",
+  "name": "REHOBOTH MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50761"
+  },
+  "logo": {
+   "path": "logos/ng/rehoboth-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rephidim-microfinance-bank",
+  "name": "Rephidim Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50994"
+  },
+  "logo": {
+   "path": "logos/ng/rephidim-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-retrust-mfb",
+  "name": "Retrust Mfb",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51375"
+  },
+  "logo": {
+   "path": "logos/ng/retrust-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rex-microfinance-bank",
+  "name": "Rex Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51108"
+  },
+  "logo": {
+   "path": "logos/ng/rex-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rigo-microfinance-bank-limited",
+  "name": "Rigo Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51286"
+  },
+  "logo": {
+   "path": "logos/ng/rigo-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rockshield-microfinance-bank",
+  "name": "ROCKSHIELD MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50767"
+  },
+  "logo": {
+   "path": "logos/ng/rockshield-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rsu-microfinance-bank",
+  "name": "RSU MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50622"
+  },
+  "logo": {
+   "path": "logos/ng/rsu-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-rubies-mfb",
+  "name": "Rubies MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "125"
+  },
+  "ussd": "*7797#",
+  "logo": {
+   "path": "logos/ng/rubies-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-safe-haven-mfb",
+  "name": "Safe Haven MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51113"
+  },
+  "logo": {
+   "path": "logos/ng/safe-haven-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-shield-mfb",
+  "name": "Shield MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50582"
+  },
+  "logo": {
+   "path": "logos/ng/shield-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-solid-allianze-mfb",
+  "name": "Solid Allianze MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51062"
+  },
+  "logo": {
+   "path": "logos/ng/solid-allianze-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-solid-rock-mfb",
+  "name": "Solid Rock MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50800"
+  },
+  "logo": {
+   "path": "logos/ng/solid-rock-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-source-mfb",
+  "name": "SOURCE MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90641"
+  },
+  "logo": {
+   "path": "logos/ng/source-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-sparkle-microfinance-bank",
+  "name": "Sparkle Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51310"
+  },
+  "logo": {
+   "path": "logos/ng/sparkle-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-spectrum-mfb-ltd",
+  "name": "SPECTRUM MFB LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50756"
+  },
+  "logo": {
+   "path": "logos/ng/spectrum-mfb-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-springfield-microfinance-bank",
+  "name": "Springfield Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51429"
+  },
+  "logo": {
+   "path": "logos/ng/springfield-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stanford-microfinance-bank",
+  "name": "STANFORD MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090162"
+  },
+  "logo": {
+   "path": "logos/ng/stanford-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stateside-microfinance-bank",
+  "name": "STATESIDE MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50809"
+  },
+  "logo": {
+   "path": "logos/ng/stateside-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stellas-mfb",
+  "name": "Stellas MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51253"
+  },
+  "logo": {
+   "path": "logos/ng/stellas-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-supreme-mfb",
+  "name": "Supreme MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50968"
+  },
+  "logo": {
+   "path": "logos/ng/supreme-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-sycamore-microfinance-bank",
+  "name": "Sycamore Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51056"
+  },
+  "logo": {
+   "path": "logos/ng/sycamore-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-think-finance-microfinance-bank",
+  "name": "Think Finance Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "677"
+  },
+  "logo": {
+   "path": "logos/ng/think-finance-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-toprate-mfb",
+  "name": "TOPRATE MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90801"
+  },
+  "logo": {
+   "path": "logos/ng/toprate-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-transpay-mfb",
+  "name": "TransPay MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090708"
+  },
+  "logo": {
+   "path": "logos/ng/transpay-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-trustbanc-j6-microfinance-bank",
+  "name": "TRUSTBANC J6 MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51118"
+  }
+ },
+ {
+  "id": "ng-u-and-c-mfb",
+  "name": "U and C MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50840"
+  },
+  "logo": {
+   "path": "logos/ng/u-and-c-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-u-c-microfinance-bank-ltd-u-and-c-mfb",
+  "name": "U&C Microfinance Bank Ltd (U AND C MFB)",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50840"
+  },
+  "logo": {
+   "path": "logos/ng/u-c-microfinance-bank-ltd-u-and-c-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ubj-microfinance-bank-limited",
+  "name": "UBJ Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51396"
+  },
+  "logo": {
+   "path": "logos/ng/ubj-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ucee-mfb",
+  "name": "UCEE MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "090706"
+  }
+ },
+ {
+  "id": "ng-uhuru-mfb",
+  "name": "Uhuru MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51322"
+  },
+  "logo": {
+   "path": "logos/ng/uhuru-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ultraviolet-microfinance-bank",
+  "name": "Ultraviolet Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51080"
+  },
+  "logo": {
+   "path": "logos/ng/ultraviolet-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-umunnachi-microfinance-bank-ltd",
+  "name": "Umunnachi Microfinance Bank Ltd",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51097"
+  },
+  "logo": {
+   "path": "logos/ng/umunnachi-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-unaab-microfinance-bank-limited",
+  "name": "Unaab Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50870"
+  },
+  "logo": {
+   "path": "logos/ng/unaab-microfinance-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-uniabuja-mfb",
+  "name": "UNIABUJA MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51447"
+  },
+  "logo": {
+   "path": "logos/ng/uniabuja-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-unical-mfb",
+  "name": "Unical MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50871"
+  },
+  "logo": {
+   "path": "logos/ng/unical-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-unilag-microfinance-bank",
+  "name": "Unilag Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51316"
+  },
+  "logo": {
+   "path": "logos/ng/unilag-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-unimaid-microfinance-bank",
+  "name": "UNIMAID MICROFINANCE BANK",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50875"
+  },
+  "logo": {
+   "path": "logos/ng/unimaid-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-uniuyo-microfinance-bank-ltd",
+  "name": "UNIUYO Microfinance Bank Ltd",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50880"
+  },
+  "logo": {
+   "path": "logos/ng/uniuyo-microfinance-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-uzondu-microfinance-bank-awka-anambra-state",
+  "name": "Uzondu Microfinance Bank Awka Anambra State",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "50894"
+  },
+  "logo": {
+   "path": "logos/ng/uzondu-microfinance-bank-awka-anambra-state.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-vfd",
+  "name": "VFD Microfinance Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "566"
+  },
+  "logo": {
+   "path": "logos/ng/vfd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-victory-mfb",
+  "name": "Victory MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51085"
+  },
+  "logo": {
+   "path": "logos/ng/victory-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-vista-mfb",
+  "name": "VISTA MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "90787"
+  },
+  "logo": {
+   "path": "logos/ng/vista-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-waya-microfinance-bank",
+  "name": "Waya Microfinance Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51355"
+  },
+  "logo": {
+   "path": "logos/ng/waya-microfinance-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-weston-charis-mfb",
+  "name": "Weston Charis MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51386"
+  },
+  "logo": {
+   "path": "logos/ng/weston-charis-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-yct-mfb",
+  "name": "YCT MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51253"
+  }
+ },
+ {
+  "id": "ng-yes-mfb",
+  "name": "Yes MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "594"
+  },
+  "logo": {
+   "path": "logos/ng/yes-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-zitra-mfb",
+  "name": "Zitra MFB",
+  "country": "NG",
+  "region": "africa",
+  "category": "microfinance",
+  "codes": {
+   "nip": "51373"
+  },
+  "logo": {
+   "path": "logos/ng/zitra-mfb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-abbey-mortgage-bank",
+  "name": "Abbey Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "404"
+  },
+  "logo": {
+   "path": "logos/ng/abbey-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-adamawa-mortgage-bank-limited",
+  "name": "Adamawa Mortgage Bank Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90102"
+  },
+  "logo": {
+   "path": "logos/ng/adamawa-mortgage-bank-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ag-mortgage-bank",
+  "name": "AG Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90077"
+  },
+  "logo": {
+   "path": "logos/ng/ag-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-brent-mortgage-bank",
+  "name": "Brent Mortgage bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90070"
+  },
+  "logo": {
+   "path": "logos/ng/brent-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-cooperative-mortgage-bank",
+  "name": "Cooperative Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90089"
+  },
+  "logo": {
+   "path": "logos/ng/cooperative-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-firsttrust-mortgage-bank-nigeria",
+  "name": "FirstTrust Mortgage Bank Nigeria",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "413"
+  },
+  "logo": {
+   "path": "logos/ng/firsttrust-mortgage-bank-nigeria.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-gateway-mortgage-bank-ltd",
+  "name": "Gateway Mortgage Bank LTD",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "812"
+  },
+  "logo": {
+   "path": "logos/ng/gateway-mortgage-bank-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-haggai-mortgage-bank",
+  "name": "Haggai Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90065"
+  },
+  "logo": {
+   "path": "logos/ng/haggai-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-ibom-mortgage-bank",
+  "name": "Ibom Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90012"
+  },
+  "logo": {
+   "path": "logos/ng/ibom-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-infinity-trust-mortgage-bank",
+  "name": "Infinity trust  Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "070016"
+  },
+  "logo": {
+   "path": "logos/ng/infinity-trust-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-jubilee-life-mortgage-bank",
+  "name": "Jubilee Life Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "402"
+  },
+  "logo": {
+   "path": "logos/ng/jubilee-life-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-living-trust-mortgage-bank",
+  "name": "Living Trust Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "031"
+  },
+  "logo": {
+   "path": "logos/ng/living-trust-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mayfresh-mortgage-bank",
+  "name": "Mayfresh Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90003"
+  },
+  "logo": {
+   "path": "logos/ng/mayfresh-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-platinum-mortgage-bank",
+  "name": "Platinum Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "268"
+  },
+  "logo": {
+   "path": "logos/ng/platinum-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-refuge-mortgage-bank",
+  "name": "Refuge Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "90067"
+  },
+  "logo": {
+   "path": "logos/ng/refuge-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-stb-mortgage-bank",
+  "name": "STB Mortgage Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "mortgage",
+  "codes": {
+   "nip": "070022"
+  },
+  "logo": {
+   "path": "logos/ng/stb-mortgage-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-78-finance-company-ltd",
+  "name": "78 Finance Company Ltd",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "40195"
+  },
+  "logo": {
+   "path": "logos/ng/78-finance-company-ltd.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-branch-international-finance-company-limited",
+  "name": "Branch International Finance Company Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "FC40163"
+  },
+  "logo": {
+   "path": "logos/ng/branch-international-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-county-finance-limited",
+  "name": "County Finance Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "FC40128"
+  },
+  "logo": {
+   "path": "logos/ng/county-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fewchore-finance-company-limited",
+  "name": "Fewchore Finance Company Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050002"
+  },
+  "logo": {
+   "path": "logos/ng/fewchore-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-pfi-finance-company-limited",
+  "name": "PFI FINANCE COMPANY LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050021"
+  },
+  "logo": {
+   "path": "logos/ng/pfi-finance-company-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-prosperis-finance-limited",
+  "name": "PROSPERIS FINANCE LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050023"
+  },
+  "logo": {
+   "path": "logos/ng/prosperis-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-sage-grey-finance-limited",
+  "name": "SAGE GREY FINANCE LIMITED",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "40165"
+  },
+  "logo": {
+   "path": "logos/ng/sage-grey-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-vale-finance-limited",
+  "name": "Vale Finance Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "050020"
+  },
+  "logo": {
+   "path": "logos/ng/vale-finance-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-whitecrust-finance-company",
+  "name": "Whitecrust Finance Company",
+  "country": "NG",
+  "region": "africa",
+  "category": "other",
+  "codes": {
+   "nip": "402001"
+  },
+  "logo": {
+   "path": "logos/ng/whitecrust-finance-company.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-9mobile-9payment-service-bank",
+  "name": "9mobile 9Payment Service Bank",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120001"
+  },
+  "logo": {
+   "path": "logos/ng/9mobile-9payment-service-bank.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-airtel-smartcash-psb",
+  "name": "Airtel Smartcash PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120004"
+  },
+  "logo": {
+   "path": "logos/ng/airtel-smartcash-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-fincra",
+  "name": "Fincra",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://fincra.com"
+ },
+ {
+  "id": "ng-interswitch",
+  "name": "Interswitch",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.interswitchgroup.com"
+ },
+ {
+  "id": "ng-money-master-psb",
+  "name": "Money Master PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "946"
+  },
+  "logo": {
+   "path": "logos/ng/money-master-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-mtn-momo-psb",
+  "name": "MTN Momo PSB",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "codes": {
+   "nip": "120003"
+  },
+  "logo": {
+   "path": "logos/ng/mtn-momo-psb.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-remita",
+  "name": "Remita",
+  "country": "NG",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://remita.net"
+ },
+ {
+  "id": "ng-asosavings",
+  "name": "ASO Savings and Loans",
+  "country": "NG",
+  "region": "africa",
+  "category": "savings",
+  "codes": {
+   "nip": "401"
+  },
+  "logo": {
+   "path": "logos/ng/asosavings.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "ng-kebbi-homes-savings-and-loans-limited",
+  "name": "Kebbi Homes Savings and Loans Limited",
+  "country": "NG",
+  "region": "africa",
+  "category": "savings",
+  "codes": {
+   "nip": "90028"
+  },
+  "logo": {
+   "path": "logos/ng/kebbi-homes-savings-and-loans-limited.png",
+   "source": "https://github.com/ichtrojan/nigerian-banks",
+   "license": "MIT (upstream collection); logo remains property of its owner"
+  }
+ },
+ {
+  "id": "rw-national-bank-of-rwanda",
+  "name": "National Bank of Rwanda",
+  "country": "RW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4314980"
+  },
+  "website": "http://www.bnr.rw/"
+ },
+ {
+  "id": "sc-central-bank-of-seychelles",
+  "name": "Central Bank of Seychelles",
+  "country": "SC",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504280"
+  },
+  "website": "http://www.cbs.sc/",
+  "logo": {
+   "path": "logos/sc/central-bank-of-seychelles.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Seychelles_logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sd-bank-of-sudan",
+  "name": "Bank of Sudan",
+  "country": "SD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190236"
+  },
+  "website": "http://www.cbos.gov.sd/en"
+ },
+ {
+  "id": "sl-bank-of-sierra-leone",
+  "name": "Bank of Sierra Leone",
+  "country": "SL",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806691"
+  },
+  "website": "http://www.bsl.gov.sl/"
+ },
+ {
+  "id": "sn-wave",
+  "name": "Wave",
+  "country": "SN",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://www.wave.com"
+ },
+ {
+  "id": "so-central-bank-of-somalia",
+  "name": "Central Bank of Somalia",
+  "country": "SO",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2299534"
+  },
+  "website": "https://centralbank.gov.so/"
+ },
+ {
+  "id": "ss-bank-of-south-sudan",
+  "name": "Bank of South Sudan",
+  "country": "SS",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3359554"
+  },
+  "website": "https://boss.gov.ss"
+ },
+ {
+  "id": "st-central-bank-of-sao-tome-and-principe",
+  "name": "Central Bank of São Tomé and Príncipe",
+  "country": "ST",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2679982"
+  },
+  "website": "http://www.bcstp.st/"
+ },
+ {
+  "id": "sz-central-bank-of-eswatini",
+  "name": "Central Bank of Eswatini",
+  "country": "SZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q3430466"
+  },
+  "website": "http://www.centralbank.org.sz"
+ },
+ {
+  "id": "td-bank-of-central-african-states",
+  "name": "Bank of Central African States",
+  "country": "TD",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q189972"
+  },
+  "website": "https://www.beac.int"
+ },
+ {
+  "id": "tg-central-bank-of-west-african-states",
+  "name": "Central Bank of West African States",
+  "country": "TG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q620942"
+  },
+  "website": "http://www.bceao.int/",
+  "logo": {
+   "path": "logos/tg/central-bank-of-west-african-states.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_West_African_States_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "tn-central-bank-of-tunisia",
+  "name": "Central Bank of Tunisia",
+  "country": "TN",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q600137"
+  },
+  "website": "http://www.bct.gov.tn/"
+ },
+ {
+  "id": "tz-bank-of-tanzania",
+  "name": "Bank of Tanzania",
+  "country": "TZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2670842"
+  },
+  "website": "http://www.bot-tz.org/"
+ },
+ {
+  "id": "ug-bank-of-uganda",
+  "name": "Bank of Uganda",
+  "country": "UG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q487300"
+  },
+  "website": "http://www.bou.or.ug/"
+ },
+ {
+  "id": "za-south-african-reserve-bank",
+  "name": "South African Reserve Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q912920"
+  },
+  "website": "http://www.reservebank.co.za/"
+ },
+ {
+  "id": "za-mtn-mobile-money",
+  "name": "MTN Mobile Money",
+  "country": "ZA",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://momo.mtn.com"
+ },
+ {
+  "id": "za-discovery-bank",
+  "name": "Discovery Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "codes": {
+   "wikidata": "Q136469268"
+  }
+ },
+ {
+  "id": "za-tymebank",
+  "name": "TymeBank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "website": "https://www.tymebank.co.za"
+ },
+ {
+  "id": "za-ozow",
+  "name": "Ozow",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://ozow.com"
+ },
+ {
+  "id": "za-stitch",
+  "name": "Stitch",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://stitch.money"
+ },
+ {
+  "id": "za-yoco",
+  "name": "Yoco",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.yoco.com"
+ },
+ {
+  "id": "zm-bank-of-zambia",
+  "name": "Bank of Zambia",
+  "country": "ZM",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q806694"
+  },
+  "website": "http://www.boz.zm/"
+ },
+ {
+  "id": "zw-reserve-bank-of-zimbabwe",
+  "name": "Reserve Bank of Zimbabwe",
+  "country": "ZW",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1025119"
+  },
+  "website": "https://www.rbz.co.zw/",
+  "logo": {
+   "path": "logos/zw/reserve-bank-of-zimbabwe.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Zimbabwe_%2425m_2008_Obverse_%28cropped%29.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

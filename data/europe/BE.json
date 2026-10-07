@@ -1,0 +1,48 @@
+[
+ {
+  "id": "be-banque-du-congo-belge",
+  "name": "Banque du Congo Belge",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q107359743"
+  }
+ },
+ {
+  "id": "be-emissiebank",
+  "name": "Emissiebank",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q105968386"
+  }
+ },
+ {
+  "id": "be-national-bank-of-belgium",
+  "name": "National Bank of Belgium",
+  "country": "BE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q685918"
+  },
+  "website": "https://www.nbb.be",
+  "logo": {
+   "path": "logos/be/national-bank-of-belgium.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Bank_of_Belgium_EN_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "be-bank-lambert",
+  "name": "Bank Lambert",
+  "country": "BE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2583833"
+  }
+ }
+]

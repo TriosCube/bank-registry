@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "de-european-central-bank",
+  "name": "European Central Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q8901"
+  },
+  "website": "https://www.ecb.europa.eu",
+  "logo": {
+   "path": "logos/de/european-central-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_European_Central_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-german-federal-bank",
+  "name": "German Federal Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q162222",
+   "bic": "MARKDEFFXXX"
+  },
+  "website": "https://www.bundesbank.de/",
+  "logo": {
+   "path": "logos/de/german-federal-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bundesbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-1822direkt",
+  "name": "1822direkt",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q200932"
+  },
+  "website": "https://www.1822direkt.de/",
+  "logo": {
+   "path": "logos/de/1822direkt.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:1822direkt_2020_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-aktivbank",
+  "name": "Aktivbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q422829",
+   "bic": "AKBADES1XXX"
+  },
+  "website": "https://www.aktivbank-factoring.de/",
+  "logo": {
+   "path": "logos/de/aktivbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Aktivbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-augsburger-aktienbank",
+  "name": "Augsburger Aktienbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q760523",
+   "bic": "AUGBDE77XXX"
+  },
+  "website": "http://www.aab.de/",
+  "logo": {
+   "path": "logos/de/augsburger-aktienbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Augsburger_Aktienbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-baden-wurttemberg-bank",
+  "name": "Baden-Württemberg Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q798891"
+  },
+  "website": "https://www.bw-bank.de",
+  "logo": {
+   "path": "logos/de/baden-wurttemberg-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Baden-W%C3%BCrttembergische_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bag-bankaktiengesellschaft",
+  "name": "BAG Bankaktiengesellschaft",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q795385",
+   "bic": "GENODEM1BAG"
+  },
+  "website": "https://www.bag-bank.de/",
+  "logo": {
+   "path": "logos/de/bag-bankaktiengesellschaft.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BAG_Bankaktiengesellschaft_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bank-companie-nord",
+  "name": "Bank Companie Nord",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q38967449"
+  }
+ },
+ {
+  "id": "de-bank-deutsches-kraftfahrzeuggewerbe",
+  "name": "Bank Deutsches Kraftfahrzeuggewerbe",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15107359",
+   "bic": "DEUTDEHHXXX"
+  },
+  "website": "https://www.bdk-bank.de/",
+  "logo": {
+   "path": "logos/de/bank-deutsches-kraftfahrzeuggewerbe.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Bank_Deutsches_Kraftfahrzeuggewerbe_GmbH.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bank-j-h-stein",
+  "name": "Bank J. H. Stein",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806763"
+  }
+ },
+ {
+  "id": "de-bank11",
+  "name": "Bank11",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15905627",
+   "bic": "WEFZDED1XXX"
+  },
+  "website": "http://www.bank11.de/",
+  "logo": {
+   "path": "logos/de/bank11.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank11_Logo_2019.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bankhaus-bauer",
+  "name": "Bankhaus Bauer",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2658557",
+   "bic": "BHBADES1XXX"
+  },
+  "website": "http://www.bankhausbauer.de/",
+  "logo": {
+   "path": "logos/de/bankhaus-bauer.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankhaus_Bauer_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bankhaus-carl-f-plump-co",
+  "name": "Bankhaus Carl F. Plump & CO",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806756",
+   "bic": "PLUMDE29XXX"
+  },
+  "website": "http://www.bankhaus-plump.de/",
+  "logo": {
+   "path": "logos/de/bankhaus-carl-f-plump-co.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:MMW_Plump_Logo_rgb.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bankhaus-ellwanger-geiger",
+  "name": "Bankhaus Ellwanger & Geiger",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1332580",
+   "bic": "ELGEDES1XXX"
+  },
+  "website": "http://www.ellwanger-geiger.de/",
+  "logo": {
+   "path": "logos/de/bankhaus-ellwanger-geiger.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Ellwanger.Geiger_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bankhaus-lampe",
+  "name": "Bankhaus Lampe",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806772",
+   "bic": "LAMPDEDDXXX"
+  },
+  "website": "https://www.bankhaus-lampe.de/",
+  "logo": {
+   "path": "logos/de/bankhaus-lampe.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankhaus_Lampe_201x_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bankhaus-ludwig-sperrer",
+  "name": "Bankhaus Ludwig Sperrer",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806769",
+   "bic": "BHLSDEM1XXX"
+  },
+  "website": "http://www.sperrer.de/"
+ },
+ {
+  "id": "de-bankhaus-meyer-co",
+  "name": "Bankhaus Meyer & Co.",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806776"
+  }
+ },
+ {
+  "id": "de-bankhaus-rautenschlein",
+  "name": "Bankhaus Rautenschlein",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q106441139"
+  },
+  "website": "https://www.rautenschleinbank.de/"
+ },
+ {
+  "id": "de-bankhaus-seeliger",
+  "name": "Bankhaus Seeliger",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806754",
+   "bic": "BCLSDE21XXX"
+  },
+  "website": "http://www.seeligerbank.de/",
+  "logo": {
+   "path": "logos/de/bankhaus-seeliger.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bankhaus_Seeliger_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-berenberg-bank",
+  "name": "Berenberg Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q670792",
+   "bic": "BEGODEHHXXX"
+  },
+  "website": "http://www.berenberg.de/",
+  "logo": {
+   "path": "logos/de/berenberg-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Berenberg_Bank_Logo_english.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bethmann-bank",
+  "name": "Bethmann Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1184020",
+   "bic": "DELBDE33XXX"
+  },
+  "website": "https://www.bethmannbank.de/",
+  "logo": {
+   "path": "logos/de/bethmann-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bethmann-Bank-Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-bmw-bank-gmbh",
+  "name": "BMW Bank GmbH",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q796419",
+   "bic": "BMWBDEMUXXX"
+  },
+  "website": "https://www.bmwbank.de/",
+  "logo": {
+   "path": "logos/de/bmw-bank-gmbh.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BMW_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-c24-bank",
+  "name": "C24 Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q131727312"
+  },
+  "website": "https://www.c24.de/",
+  "logo": {
+   "path": "logos/de/c24-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:C24_Bank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-consors-finanz",
+  "name": "Consors Finanz",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1115414",
+   "bic": "WKVBDEM1XXX"
+  },
+  "website": "https://www.consorsfinanz.de/"
+ },
+ {
+  "id": "de-consorsbank",
+  "name": "Consorsbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q30085423",
+   "bic": "CSDBDE71XXX"
+  },
+  "website": "http://www.consorsbank.de/",
+  "logo": {
+   "path": "logos/de/consorsbank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Consorsbank.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-creditplus-bank",
+  "name": "Creditplus Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1139427",
+   "bic": "CPLUDES1XXX"
+  },
+  "website": "http://www.creditplus.de",
+  "logo": {
+   "path": "logos/de/creditplus-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Creditplus_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-cronbank",
+  "name": "Cronbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1140900",
+   "bic": "GENODE51CRO"
+  },
+  "website": "http://www.cronbank.de/"
+ },
+ {
+  "id": "de-d-peretz",
+  "name": "D. Peretz",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q89518832"
+  }
+ },
+ {
+  "id": "de-db-privat-und-firmenkundenbank",
+  "name": "DB Privat- und Firmenkundenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1202176",
+   "bic": "DEUTDEDBFRA"
+  },
+  "website": "http://www.deutsche-bank.de/pbc",
+  "logo": {
+   "path": "logos/de/db-privat-und-firmenkundenbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bank_logo_without_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-dekabank-deutsche-girozentrale",
+  "name": "Dekabank Deutsche Girozentrale",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1183542",
+   "bic": "DGZFDEFFXXX"
+  },
+  "website": "https://www.deka.de",
+  "logo": {
+   "path": "logos/de/dekabank-deutsche-girozentrale.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:DekaBank_Deutsche_Girozentrale_201x_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-deutsche-bank",
+  "name": "Deutsche Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q66048",
+   "bic": "DEUTDEFF"
+  },
+  "website": "https://www.db.com",
+  "logo": {
+   "path": "logos/de/deutsche-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bank_logo_without_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-deutsche-kreditbank",
+  "name": "Deutsche Kreditbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1203255",
+   "bic": "BYLADEM1001"
+  },
+  "website": "https://www.dkb.de",
+  "logo": {
+   "path": "logos/de/deutsche-kreditbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Kreditbank_AG_Logo_2016.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-deutsche-pfandbriefbank",
+  "name": "Deutsche Pfandbriefbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15857244",
+   "bic": "REBMDEMMXXX"
+  },
+  "website": "https://www.pfandbriefbank.com",
+  "logo": {
+   "path": "logos/de/deutsche-pfandbriefbank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Pbb_Deutsche_Pfandbriefbank_Logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-deutsche-wertpapierservice-bank",
+  "name": "Deutsche WertpapierService Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1204498",
+   "bic": "DWPBDEFFXXX"
+  },
+  "website": "http://www.dwpbank.de/",
+  "logo": {
+   "path": "logos/de/deutsche-wertpapierservice-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_WertpapierService_Bank_Logo-2.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-donner-reuschel",
+  "name": "Donner & Reuschel",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1241846",
+   "bic": "CHDBDEHHXXX"
+  },
+  "website": "https://www.donner-reuschel.de/"
+ },
+ {
+  "id": "de-dsl-bank",
+  "name": "DSL Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1155706",
+   "bic": "DEUTDEDKP38"
+  },
+  "website": "https://www.dslbank.de/",
+  "logo": {
+   "path": "logos/de/dsl-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:DSL_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-edekabank",
+  "name": "Edekabank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1283192",
+   "bic": "EDEKDEHHXXX"
+  },
+  "website": "http://www.edekabank.de",
+  "logo": {
+   "path": "logos/de/edekabank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Edekabank_2017_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-eisenbahn-renten-bank",
+  "name": "Eisenbahn-Renten-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q66125156"
+  }
+ },
+ {
+  "id": "de-eurocity-bank",
+  "name": "Eurocity Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1374851",
+   "bic": "DLGHDEB1XXX"
+  },
+  "website": "http://www.eurocitybank.de/",
+  "logo": {
+   "path": "logos/de/eurocity-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Eurocity_Bank_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-evenord-bank",
+  "name": "Evenord-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q26898315",
+   "bic": "GENODEF1N03"
+  },
+  "website": "https://www.evenordbank.de/",
+  "logo": {
+   "path": "logos/de/evenord-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Evenordbank_Leistung_h%C3%B6chstpers%C3%B6nlich_01.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-fidor-bank",
+  "name": "Fidor Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1411372",
+   "bic": "FDDODEMMXXX"
+  },
+  "website": "https://www.fidor.de",
+  "logo": {
+   "path": "logos/de/fidor-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Fidor_Bank_201x_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-fintech-group-bank",
+  "name": "FinTech Group Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15107731",
+   "bic": "BIWBDE33XXX"
+  },
+  "website": "http://www.biw-bank.de/",
+  "logo": {
+   "path": "logos/de/fintech-group-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:FlatexDEGIRO_Bank_AG.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-fnz-bank",
+  "name": "FNZ Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15110487",
+   "bic": "EBSGDEMXXXX"
+  },
+  "website": "https://fnz.de/",
+  "logo": {
+   "path": "logos/de/fnz-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:FNZ_Bank_SE_Logo_2023.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-fondsdepot-bank",
+  "name": "Fondsdepot Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q14078947",
+   "bic": "FODBDE77XXX"
+  },
+  "website": "https://www.deutsches-haftungsdach.de/",
+  "logo": {
+   "path": "logos/de/fondsdepot-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Fondsdepot_Bank_Logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-furst-fugger-privatbank",
+  "name": "Fürst Fugger Privatbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1482859",
+   "bic": "FUBKDE71XXX"
+  },
+  "website": "http://www.fuggerbank.de/"
+ },
+ {
+  "id": "de-furstlich-castell-sche-bank",
+  "name": "Fürstlich Castell'sche Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1483574",
+   "bic": "FUCEDE77XXX"
+  },
+  "website": "https://www.castell-bank.de/",
+  "logo": {
+   "path": "logos/de/furstlich-castell-sche-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Fuerstlich_Castellsche_Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-gefa-bank",
+  "name": "GEFA Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1485129",
+   "bic": "GGABDE31XXX"
+  },
+  "website": "http://www.GEFA.de/"
+ },
+ {
+  "id": "de-greensill-bank",
+  "name": "Greensill Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1997946",
+   "bic": "NFHBDE21XXX"
+  },
+  "website": "https://www.greensill-bank.com/",
+  "logo": {
+   "path": "logos/de/greensill-bank.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:GB_2018_Logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-hanseatic-bank",
+  "name": "Hanseatic Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1583701",
+   "bic": "HSTBDEHHXXX"
+  },
+  "website": "https://www.hanseaticbank.de/",
+  "logo": {
+   "path": "logos/de/hanseatic-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hanseatic_Bank_Logo_2019.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-hauck-aufhauser",
+  "name": "Hauck & Aufhäuser",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1589170",
+   "bic": "HAUKDEFFXXX"
+  },
+  "website": "https://www.hauck-aufhaeuser.de/",
+  "logo": {
+   "path": "logos/de/hauck-aufhauser.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Hauck_%26_Aufh%C3%A4user_Logo_11.2020.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-hellmann-loebenstein",
+  "name": "Hellmann & Loebenstein",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q108855267"
+  }
+ },
+ {
+  "id": "de-hkb-bank",
+  "name": "HKB Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q22337560",
+   "bic": "HKBBDEF1FRA"
+  },
+  "website": "http://www.hkb.de",
+  "logo": {
+   "path": "logos/de/hkb-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:HKB_Bank_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-hoerner-bank",
+  "name": "Hoerner Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1622835",
+   "bic": "HOEBDE61XXX"
+  },
+  "website": "http://www.hoernerbank.de/"
+ },
+ {
+  "id": "de-honda-bank",
+  "name": "Honda Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15115166",
+   "bic": "HONDDEF1XXX"
+  },
+  "website": "http://www.hondabank.de/",
+  "logo": {
+   "path": "logos/de/honda-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Honda_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-hsbc-transaction-services",
+  "name": "HSBC Transaction Services",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1565916"
+  },
+  "website": "http://www.hsbc-transactionservices.de/",
+  "logo": {
+   "path": "logos/de/hsbc-transaction-services.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:HSBC_Trinkaus_MS_Office.JPG",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-ing-diba",
+  "name": "ING-DiBa",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q133823758",
+   "bic": "INGDDEFFXXX"
+  },
+  "website": "https://www.ing.de/"
+ },
+ {
+  "id": "de-internationales-bankhaus-bodensee",
+  "name": "Internationales Bankhaus Bodensee",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1498278",
+   "bic": "IBBFDE81XXX"
+  },
+  "website": "http://www.ibb-ag.de/",
+  "logo": {
+   "path": "logos/de/internationales-bankhaus-bodensee.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Internationales_Bankhaus_Bodensee_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-iranian-european-bank",
+  "name": "Iranian-European Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1377146",
+   "bic": "EIHBDEHHXXX"
+  },
+  "website": "http://www.eihbank.de",
+  "logo": {
+   "path": "logos/de/iranian-european-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Europaeisch-Iranische_Handelsbank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-isbank",
+  "name": "İşbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2607251",
+   "bic": "ISBKDEFXXXX"
+  },
+  "website": "https://www.isbank.de",
+  "logo": {
+   "path": "logos/de/isbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Isbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-kfw-ipex-bank",
+  "name": "KfW IPEX-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1740379",
+   "bic": "IPEXDEFFXXX"
+  },
+  "website": "https://www.kfw-ipex-bank.de/",
+  "logo": {
+   "path": "logos/de/kfw-ipex-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:KfW_IPEX-Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-landesbank-baden-wurttemberg",
+  "name": "Landesbank Baden-Württemberg",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q451814",
+   "bic": "SOLADEST600"
+  },
+  "website": "https://www.lbbw.de",
+  "logo": {
+   "path": "logos/de/landesbank-baden-wurttemberg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Landesbank_Baden-W%C3%BCrttemberg_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-landesbank-berlin-holding",
+  "name": "Landesbank Berlin Holding",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q319888",
+   "bic": "BELADEBEXXX"
+  },
+  "website": "https://www.lbb.de",
+  "logo": {
+   "path": "logos/de/landesbank-berlin-holding.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:LBB-Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-m-m-warburg-co",
+  "name": "M. M. Warburg & Co.",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q457241",
+   "bic": "WBWCDEHHXXX"
+  },
+  "website": "http://www.mmwarburg.com/",
+  "logo": {
+   "path": "logos/de/m-m-warburg-co.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:M.M.Warburg_%26_CO_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-mercedes-benz-bank-ag",
+  "name": "Mercedes-Benz Bank AG",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q872078",
+   "bic": "MEBEDE6SDCB"
+  },
+  "website": "https://www.mercedes-benz-bank.de",
+  "logo": {
+   "path": "logos/de/mercedes-benz-bank-ag.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Bank_2022.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-merck-finck",
+  "name": "Merck Finck",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1921466",
+   "bic": "MEFIDEMMXXX"
+  },
+  "website": "http://www.merckfinck.de/",
+  "logo": {
+   "path": "logos/de/merck-finck.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Merck_Finck_Logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-merkur-bank",
+  "name": "Merkur Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1921855",
+   "bic": "GENODEF1M06"
+  },
+  "website": "http://www.merkur-bank.de/"
+ },
+ {
+  "id": "de-mmv-bank",
+  "name": "MMV Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1881567",
+   "bic": "MKBKDE51XXX"
+  },
+  "website": "http://www.mkb-bank.de/",
+  "logo": {
+   "path": "logos/de/mmv-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:MKB_Mittelrheinische_Bank_201x_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-n26",
+  "name": "N26",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q27479372",
+   "bic": "NTSBDEB1"
+  },
+  "website": "https://n26.com/de-de",
+  "logo": {
+   "path": "logos/de/n26.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:N26_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-national-bank",
+  "name": "National-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1966870",
+   "bic": "NBAGDE3EXXX"
+  },
+  "website": "http://www.national-bank.de/",
+  "logo": {
+   "path": "logos/de/national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_National-Bank_neu.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-norisbank",
+  "name": "Norisbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1999153",
+   "bic": "NORSDE51XXX"
+  },
+  "website": "http://www.norisbank.de/",
+  "logo": {
+   "path": "logos/de/norisbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Norisbank_Logo_2026.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-oldenburgische-landesbank",
+  "name": "Oldenburgische Landesbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q879591",
+   "bic": "OLBODEH2XXX"
+  },
+  "website": "https://www.olb.de/",
+  "logo": {
+   "path": "logos/de/oldenburgische-landesbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Oldenburgische_Landesbank_ab_27.11.2024.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-psd-bank-berlin-brandenburg",
+  "name": "PSD Bank Berlin-Brandenburg",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2044645",
+   "bic": "GENODEF1P01"
+  },
+  "website": "https://www.psd-berlin-brandenburg.de/"
+ },
+ {
+  "id": "de-psd-bank-karlsruhe-neustadt",
+  "name": "PSD Bank Karlsruhe-Neustadt",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1749632",
+   "bic": "GENODEF1P10"
+  },
+  "website": "https://www.psd-karlsruhe-neustadt.de/"
+ },
+ {
+  "id": "de-psd-bank-koblenz",
+  "name": "PSD Bank Koblenz",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2044647",
+   "bic": "GENODEF1P12"
+  },
+  "website": "https://www.psd-koblenz.de/"
+ },
+ {
+  "id": "de-psd-bank-nurnberg",
+  "name": "PSD Bank Nürnberg",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2044653",
+   "bic": "GENODEF1P17"
+  },
+  "website": "https://www.psd-nuernberg.de/"
+ },
+ {
+  "id": "de-psd-bank-rhein-ruhr",
+  "name": "PSD Bank Rhein-Ruhr",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1499502",
+   "bic": "GENODEF1P05"
+  },
+  "website": "https://www.psd-rhein-ruhr.de/",
+  "logo": {
+   "path": "logos/de/psd-bank-rhein-ruhr.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:141117_PSD_Bank_Logo_RGB.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-psd-bank-west",
+  "name": "PSD Bank West",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1425085",
+   "bic": "GENODEF1P13"
+  },
+  "website": "https://www.psd-west.de/"
+ },
+ {
+  "id": "de-raisin-bank",
+  "name": "Raisin Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q18628887",
+   "bic": "MHBFDEFFXXX"
+  },
+  "website": "http://www.mhb-bank.de"
+ },
+ {
+  "id": "de-reisebank",
+  "name": "Reisebank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1421107",
+   "bic": "RBAGDEF1XXX"
+  },
+  "website": "https://www.reisebank.de",
+  "logo": {
+   "path": "logos/de/reisebank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Reisebank_Logo_02.2023.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-s-broker-ag-co-kg",
+  "name": "S Broker AG & Co. KG",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1340236",
+   "bic": "PULSDEDDXXX"
+  },
+  "website": "https://www.sbroker.de/"
+ },
+ {
+  "id": "de-s-kreditpartner",
+  "name": "S-Kreditpartner",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2204437",
+   "bic": "SKPADEB1XXX"
+  },
+  "website": "http://www.s-kreditpartner.de/"
+ },
+ {
+  "id": "de-sozialbank",
+  "name": "SozialBank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806660",
+   "bic": "BFSWDE33XXX"
+  },
+  "website": "https://www.sozialbank.de",
+  "logo": {
+   "path": "logos/de/sozialbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo-sozialbank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-sparkasse-nurnberg",
+  "name": "Sparkasse Nürnberg",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2307586",
+   "bic": "SSKNDE77XXX"
+  },
+  "website": "http://www.sparkasse-nuernberg.de",
+  "logo": {
+   "path": "logos/de/sparkasse-nurnberg.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Sparkasse_N%C3%BCrnberg.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-steyler-bank",
+  "name": "Steyler Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2347964",
+   "bic": "GENODED1STB"
+  },
+  "website": "https://www.steyler-bank.de",
+  "logo": {
+   "path": "logos/de/steyler-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Steyler_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-sutor-bank",
+  "name": "Sutor Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15607010"
+  },
+  "website": "http://www.sutorbank.de",
+  "logo": {
+   "path": "logos/de/sutor-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Sutor_Logo_RGB.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-swk-bank",
+  "name": "SWK Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2208765",
+   "bic": "SUFGDE51XXX"
+  },
+  "website": "http://www.swkbank.de/",
+  "logo": {
+   "path": "logos/de/swk-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:SWK_Bank_2020_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-sudwestbank",
+  "name": "Südwestbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1232815",
+   "bic": "SWBSDESSXXX"
+  },
+  "website": "http://www.suedwestbank.de/",
+  "logo": {
+   "path": "logos/de/sudwestbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:S%C3%BCdwestbank_2011_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-targo-commercial-finance",
+  "name": "Targo Commercial Finance",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1485270",
+   "bic": "CPLADE55XXX"
+  },
+  "website": "http://www.targobank.de/firmenkunden/"
+ },
+ {
+  "id": "de-targobank",
+  "name": "Targobank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1455437",
+   "bic": "CMCIDEDDXXX"
+  },
+  "website": "https://www.targobank.de",
+  "logo": {
+   "path": "logos/de/targobank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Targobank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-teambank",
+  "name": "Teambank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2398661",
+   "bic": "TEAMDE71XXX"
+  },
+  "website": "https://www.teambank.de/",
+  "logo": {
+   "path": "logos/de/teambank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:TeamBank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-umweltbank",
+  "name": "Umweltbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1532941"
+  },
+  "website": "http://www.umweltbank.de/",
+  "logo": {
+   "path": "logos/de/umweltbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Umweltbank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-union-bank",
+  "name": "Union-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2494468",
+   "bic": "UNBNDE21XXX"
+  },
+  "website": "http://www.unionbank.de",
+  "logo": {
+   "path": "logos/de/union-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Union-Bank_Flensburg_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-v-bank",
+  "name": "V-Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15852311",
+   "bic": "VBANDEMMXXX"
+  },
+  "website": "https://www.v-bank.com/",
+  "logo": {
+   "path": "logos/de/v-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_V-Bank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-volksbank-dusseldorf-neuss",
+  "name": "Volksbank Düsseldorf Neuss",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2531689",
+   "bic": "GENODED1DNE"
+  },
+  "website": "https://www.deine-volksbank.de/"
+ },
+ {
+  "id": "de-volksbank-worpswede",
+  "name": "Volksbank Worpswede",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q98305139",
+   "bic": "GENODEF1WOP"
+  },
+  "website": "https://www.voba-worpswede.de/"
+ },
+ {
+  "id": "de-volkswagen-bank",
+  "name": "Volkswagen Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2532284",
+   "bic": "VOWADE2BXXX"
+  },
+  "website": "https://www.volkswagenbank.de/",
+  "logo": {
+   "path": "logos/de/volkswagen-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-von-essen-bank",
+  "name": "Von Essen Bank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15853173",
+   "bic": "VONEDE33XXX"
+  },
+  "website": "https://www.consorsfinanz.de/vonessenbank/",
+  "logo": {
+   "path": "logos/de/von-essen-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:VON_ESSEN_Bank_GmbH.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-weberbank",
+  "name": "Weberbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2553457",
+   "bic": "WELADED1WBB"
+  },
+  "website": "http://www.weberbank.de",
+  "logo": {
+   "path": "logos/de/weberbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Weberbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-westdeutsche-immobilien-servicing",
+  "name": "Westdeutsche Immobilien Servicing",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2564520",
+   "bic": "AARBDE5WDOM"
+  },
+  "website": "http://www.westimmo.com/",
+  "logo": {
+   "path": "logos/de/westdeutsche-immobilien-servicing.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:WestImmo-Logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-ziraat-bank-international",
+  "name": "Ziraat Bank International",
+  "country": "DE",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q205553",
+   "bic": "TCZBDEFFXXX"
+  },
+  "website": "https://www.ziraatbank.de/",
+  "logo": {
+   "path": "logos/de/ziraat-bank-international.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:TC_ZiraatBank.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-varengold-wertpapierhandelsbank",
+  "name": "Varengold Wertpapierhandelsbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "investment",
+  "codes": {
+   "wikidata": "Q481206",
+   "bic": "VGAGDEHHXXX"
+  },
+  "website": "https://www.varengold.de/",
+  "logo": {
+   "path": "logos/de/varengold-wertpapierhandelsbank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Varengold_Bank_AG_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-berlin-hyp",
+  "name": "Berlin Hyp",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q821289",
+   "bic": "BHYPDEB2XXX"
+  },
+  "website": "https://www.berlinhyp.de/",
+  "logo": {
+   "path": "logos/de/berlin-hyp.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BerlinHyp2013.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-berliner-hypotheken-und-pfandbriefbank-ag",
+  "name": "Berliner Hypotheken- und Pfandbriefbank AG",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q57173003"
+  }
+ },
+ {
+  "id": "de-braunschweig-hannoversche-hypothekenbank",
+  "name": "Braunschweig-Hannoversche Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q27479410"
+  }
+ },
+ {
+  "id": "de-deutsche-hypothekenbank",
+  "name": "Deutsche Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1203131",
+   "bic": "DEHYDE2HXXX"
+  },
+  "website": "http://www.deutsche-hypo.de/"
+ },
+ {
+  "id": "de-deutsche-hypothekenbank-meiningen",
+  "name": "Deutsche Hypothekenbank Meiningen",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1203134"
+  }
+ },
+ {
+  "id": "de-dusseldorfer-hypothekenbank",
+  "name": "Düsseldorfer Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q15806956",
+   "bic": "DHYPDEDDXXX"
+  },
+  "website": "http://www.duesshyp.de/",
+  "logo": {
+   "path": "logos/de/dusseldorfer-hypothekenbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:D%C3%BCsseldorfer_Hypothekenbank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "de-former-landeshypothekenbank",
+  "name": "Former Landeshypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q66605878"
+  }
+ },
+ {
+  "id": "de-hessische-landes-hypothekenbank",
+  "name": "Hessische Landes-Hypothekenbank",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q63397934"
+  }
+ },
+ {
+  "id": "de-hypothekenbank-in-hamburg",
+  "name": "Hypothekenbank in Hamburg",
+  "country": "DE",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q56481420"
+  }
+ }
+]

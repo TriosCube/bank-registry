@@ -1,0 +1,13 @@
+[
+ {
+  "id": "fj-reserve-bank-of-fiji",
+  "name": "Reserve Bank of Fiji",
+  "country": "FJ",
+  "region": "oceania",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1776552"
+  },
+  "website": "http://www.rbf.gov.fj/"
+ }
+]

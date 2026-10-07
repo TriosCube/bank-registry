@@ -1,0 +1,18 @@
+[
+ {
+  "id": "tg-central-bank-of-west-african-states",
+  "name": "Central Bank of West African States",
+  "country": "TG",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q620942"
+  },
+  "website": "http://www.bceao.int/",
+  "logo": {
+   "path": "logos/tg/central-bank-of-west-african-states.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_West_African_States_wordmark.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

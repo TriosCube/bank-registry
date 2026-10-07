@@ -1,0 +1,83 @@
+[
+ {
+  "id": "ve-central-bank-of-venezuela",
+  "name": "Central Bank of Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q2570775"
+  },
+  "website": "http://www.bcv.org.ve",
+  "logo": {
+   "path": "logos/ve/central-bank-of-venezuela.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_Venezuela_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-agricultural-bank-of-venezuela",
+  "name": "Agricultural Bank of Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5717839"
+  },
+  "website": "http://www.bav.com.ve/"
+ },
+ {
+  "id": "ve-bancoro",
+  "name": "Bancoro",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q5718203"
+  },
+  "website": "http://www.bancoro.com/"
+ },
+ {
+  "id": "ve-banesco",
+  "name": "Banesco",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q4854841"
+  },
+  "website": "http://www.banesco.com",
+  "logo": {
+   "path": "logos/ve/banesco.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banesco_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "ve-banfanb",
+  "name": "BANFANB",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q30281004"
+  },
+  "website": "http://www.banfanb.com.ve"
+ },
+ {
+  "id": "ve-bdv-banco-de-venezuela",
+  "name": "BDV | Banco de Venezuela",
+  "country": "VE",
+  "region": "south-america",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q517093"
+  },
+  "website": "http://www.bancodevenezuela.com",
+  "logo": {
+   "path": "logos/ve/bdv-banco-de-venezuela.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Banco_de_Venezuela_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,412 @@
+[
+ {
+  "id": "at-austrian-national-bank",
+  "name": "Austrian National Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q670723"
+  },
+  "website": "https://www.oenb.at/",
+  "logo": {
+   "path": "logos/at/austrian-national-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Oesterreichische_Nationalbank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-alpenbank",
+  "name": "AlpenBank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q19971145",
+   "bic": "ALPEAT22XXX"
+  },
+  "website": "http://www.alpenbank.com",
+  "logo": {
+   "path": "logos/at/alpenbank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Alpenbank%281%29.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-bank-austria",
+  "name": "Bank Austria",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q697619"
+  },
+  "website": "https://www.bankaustria.at",
+  "logo": {
+   "path": "logos/at/bank-austria.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Austria_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-bank-burgenland",
+  "name": "Bank Burgenland",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806619"
+  },
+  "website": "http://www.bank-bgld.at/",
+  "logo": {
+   "path": "logos/at/bank-burgenland.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_Burgenland_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-bankhaus-denzel",
+  "name": "Bankhaus Denzel",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q15785458"
+  },
+  "website": "https://www.denzelbank.at/"
+ },
+ {
+  "id": "at-bankhaus-schelhammer-schattera",
+  "name": "Bankhaus Schelhammer & Schattera",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806782"
+  },
+  "website": "http://www.schelhammer.at/"
+ },
+ {
+  "id": "at-bankhaus-spangler",
+  "name": "Bankhaus Spängler",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q806783"
+  },
+  "website": "http://www.spaengler.at"
+ },
+ {
+  "id": "at-bawag",
+  "name": "BAWAG",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q379938",
+   "bic": "BAWAATWWXXX"
+  },
+  "website": "https://www.bawag.at/bawag/privatkunden",
+  "logo": {
+   "path": "logos/at/bawag.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BAWAG_P.S.K._logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-bks-bank",
+  "name": "BKS Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q796136",
+   "bic": "BFKKAT2KXXX"
+  },
+  "website": "http://www.bks.at",
+  "logo": {
+   "path": "logos/at/bks-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:BKS-Bank-Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-hello-bank",
+  "name": "Hello Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1227544"
+  },
+  "logo": {
+   "path": "logos/at/hello-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Hello_bank%21_Logo.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-hypo-noe-landesbank",
+  "name": "Hypo Noe Landesbank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1641280"
+  },
+  "website": "http://www.hyponoe.at/"
+ },
+ {
+  "id": "at-hypo-oberosterreich",
+  "name": "HYPO Oberösterreich",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1566184"
+  },
+  "website": "http://www.hypo.at/",
+  "logo": {
+   "path": "logos/at/hypo-oberosterreich.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_HYPO.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-hypo-steiermark",
+  "name": "HYPO Steiermark",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1670775"
+  },
+  "website": "http://www.hypobank.at"
+ },
+ {
+  "id": "at-hypo-vorarlberg-bank",
+  "name": "Hypo Vorarlberg Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2533489"
+  },
+  "website": "https://www.hypovbg.at/",
+  "logo": {
+   "path": "logos/at/hypo-vorarlberg-bank.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Hypo_Vorarlberg.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-kommunalkredit-austria",
+  "name": "Kommunalkredit Austria",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q151415"
+  },
+  "website": "http://www.kommunalkredit.at/",
+  "logo": {
+   "path": "logos/at/kommunalkredit-austria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Company_Logo_Kommunalkredit_Austria_AG_2017.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-kremser-bank",
+  "name": "Kremser Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1399053"
+  },
+  "website": "http://www.kremserbank.at/"
+ },
+ {
+  "id": "at-karntnerische-landes-hypothekenanstalt",
+  "name": "Kärntnerische Landes-Hypothekenanstalt",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q122073784"
+  }
+ },
+ {
+  "id": "at-oberbank",
+  "name": "Oberbank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2009139",
+   "bic": "OBKLAT2LXXX"
+  },
+  "website": "https://www.oberbank.at",
+  "logo": {
+   "path": "logos/at/oberbank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Oberbank_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-oesterreichische-kontrollbank",
+  "name": "Oesterreichische Kontrollbank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2015260"
+  },
+  "website": "http://www.oekb.at"
+ },
+ {
+  "id": "at-raiffeisen-landesbank-tirol",
+  "name": "Raiffeisen-Landesbank Tirol",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q24962354"
+  },
+  "website": "https://www.raiffeisen.at/tirol/rlb"
+ },
+ {
+  "id": "at-raiffeisenlandesbank-niederosterreich-wien",
+  "name": "Raiffeisenlandesbank Niederösterreich-Wien",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2127615"
+  },
+  "website": "https://www.raiffeisen.at/noew/rlb/de/privatkunden.html/"
+ },
+ {
+  "id": "at-salzburger-landes-hypothekenbank-ag",
+  "name": "Salzburger Landes-Hypothekenbank AG",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1706781"
+  },
+  "website": "http://www.hyposalzburg.at"
+ },
+ {
+  "id": "at-schoellerbank",
+  "name": "Schoellerbank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q1807014"
+  },
+  "website": "http://www.schoellerbank.at/"
+ },
+ {
+  "id": "at-vkb-bank",
+  "name": "VKB-Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2506202"
+  },
+  "website": "http://www.vkb-bank.at/",
+  "logo": {
+   "path": "logos/at/vkb-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:VKB_Bank_logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-walser-privatbank",
+  "name": "Walser Privatbank",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q2543259"
+  },
+  "website": "http://www.walserprivatbank.com"
+ },
+ {
+  "id": "at-zuno-bank-ag",
+  "name": "ZUNO Bank AG",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q8063299"
+  },
+  "website": "http://www.zuno.eu",
+  "logo": {
+   "path": "logos/at/zuno-bank-ag.jpg",
+   "source": "https://commons.wikimedia.org/wiki/File:ZUNO_Bank_logo.jpg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-zurcher-kantonalbank-osterreich",
+  "name": "Zürcher Kantonalbank Österreich",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q248470"
+  },
+  "website": "http://www.zkb-oe.at/"
+ },
+ {
+  "id": "at-osterreichische-investitionskredit-ag",
+  "name": "Österreichische Investitionskredit AG",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q122168077"
+  }
+ },
+ {
+  "id": "at-osterreichischer-exportfonds",
+  "name": "Österreichischer Exportfonds",
+  "country": "AT",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q122158959"
+  }
+ },
+ {
+  "id": "at-hypo-tirol-bank",
+  "name": "Hypo Tirol Bank",
+  "country": "AT",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q1641284"
+  },
+  "website": "http://www.hypotirol.com",
+  "logo": {
+   "path": "logos/at/hypo-tirol-bank.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Hypo_Tirol_Bank_Stand_2020.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "at-landes-hypothekenanstalt-fur-niederosterreich",
+  "name": "Landes-Hypothekenanstalt für Niederösterreich",
+  "country": "AT",
+  "region": "europe",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q122081251"
+  }
+ }
+]

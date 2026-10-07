@@ -1,0 +1,23 @@
+[
+ {
+  "id": "sk-national-bank-of-slovakia",
+  "name": "National Bank of Slovakia",
+  "country": "SK",
+  "region": "europe",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1481791"
+  },
+  "website": "http://www.nbs.sk"
+ },
+ {
+  "id": "sk-national-bank-of-slovakia-in-kosice",
+  "name": "National Bank of Slovakia in Košice",
+  "country": "SK",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q118232641"
+  }
+ }
+]

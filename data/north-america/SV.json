@@ -1,0 +1,28 @@
+[
+ {
+  "id": "sv-central-reserve-bank-of-el-salvador",
+  "name": "Central Reserve Bank of El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1801435"
+  },
+  "website": "http://www.bcr.gob.sv/",
+  "logo": {
+   "path": "logos/sv/central-reserve-bank-of-el-salvador.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_Central_Reserve_Bank_of_El_Salvador.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "sv-banco-hipotecario-de-el-salvador",
+  "name": "Banco Hipotecario de El Salvador",
+  "country": "SV",
+  "region": "north-america",
+  "category": "mortgage",
+  "codes": {
+   "wikidata": "Q20748141"
+  }
+ }
+]

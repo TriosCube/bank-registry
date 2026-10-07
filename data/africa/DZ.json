@@ -1,0 +1,18 @@
+[
+ {
+  "id": "dz-bank-of-algeria",
+  "name": "Bank of Algeria",
+  "country": "DZ",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q1774622"
+  },
+  "website": "http://www.bank-of-algeria.dz/",
+  "logo": {
+   "path": "logos/dz/bank-of-algeria.png",
+   "source": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Bank_of_Algeria.png",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

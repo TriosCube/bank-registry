@@ -1,0 +1,18 @@
+[
+ {
+  "id": "uz-central-bank-of-uzbekistan",
+  "name": "Central Bank of Uzbekistan",
+  "country": "UZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4504278"
+  },
+  "website": "http://www.cbu.uz/uz",
+  "logo": {
+   "path": "logos/uz/central-bank-of-uzbekistan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:CBU_Logo.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ }
+]

@@ -1,0 +1,73 @@
+[
+ {
+  "id": "az-central-bank-of-azerbaijan",
+  "name": "Central Bank of Azerbaijan",
+  "country": "AZ",
+  "region": "asia",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q190230"
+  },
+  "website": "http://www.cbar.az/",
+  "logo": {
+   "path": "logos/az/central-bank-of-azerbaijan.svg",
+   "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Azerbaijan.svg",
+   "license": "See Wikimedia Commons file page; trademark of its owner"
+  }
+ },
+ {
+  "id": "az-bank-eurasia",
+  "name": "Bank Eurasia",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12837401"
+  },
+  "website": "https://bankavrasiya.az"
+ },
+ {
+  "id": "az-bank-melli-iran-baku-branch",
+  "name": "Bank Melli Iran Baku Branch",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q131785687"
+  },
+  "website": "https://bmibaku.az"
+ },
+ {
+  "id": "az-turanbank",
+  "name": "TuranBank",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q65279422"
+  },
+  "website": "https://turanbank.az/"
+ },
+ {
+  "id": "az-yapi-kredi-bank-azerbaijan",
+  "name": "Yapi Kredi Bank Azerbaijan",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q12847882"
+  },
+  "website": "https://www.yapikredi.com.az/"
+ },
+ {
+  "id": "az-yelo-bank",
+  "name": "Yelo Bank",
+  "country": "AZ",
+  "region": "asia",
+  "category": "commercial",
+  "codes": {
+   "wikidata": "Q109096315"
+  },
+  "website": "https://www.yelo.az/"
+ }
+]

@@ -1,0 +1,63 @@
+[
+ {
+  "id": "za-south-african-reserve-bank",
+  "name": "South African Reserve Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q912920"
+  },
+  "website": "http://www.reservebank.co.za/"
+ },
+ {
+  "id": "za-mtn-mobile-money",
+  "name": "MTN Mobile Money",
+  "country": "ZA",
+  "region": "africa",
+  "category": "mobile-money",
+  "website": "https://momo.mtn.com"
+ },
+ {
+  "id": "za-discovery-bank",
+  "name": "Discovery Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "codes": {
+   "wikidata": "Q136469268"
+  }
+ },
+ {
+  "id": "za-tymebank",
+  "name": "TymeBank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "neobank",
+  "website": "https://www.tymebank.co.za"
+ },
+ {
+  "id": "za-ozow",
+  "name": "Ozow",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://ozow.com"
+ },
+ {
+  "id": "za-stitch",
+  "name": "Stitch",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://stitch.money"
+ },
+ {
+  "id": "za-yoco",
+  "name": "Yoco",
+  "country": "ZA",
+  "region": "africa",
+  "category": "payments",
+  "website": "https://www.yoco.com"
+ }
+]

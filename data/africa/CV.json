@@ -1,0 +1,13 @@
+[
+ {
+  "id": "cv-bank-of-cape-verde",
+  "name": "Bank of Cape Verde",
+  "country": "CV",
+  "region": "africa",
+  "category": "central",
+  "codes": {
+   "wikidata": "Q4077341"
+  },
+  "website": "http://www.bcv.cv/"
+ }
+]

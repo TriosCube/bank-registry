@@ -11,6 +11,17 @@
   "website": "http://www.reservebank.co.za/"
  },
  {
+  "id": "za-absa-bank",
+  "name": "Absa Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "ABSAZAJJ"
+  },
+  "website": "https://www.absa.co.za"
+ },
+ {
   "id": "za-mtn-mobile-money",
   "name": "MTN Mobile Money",
   "country": "ZA",

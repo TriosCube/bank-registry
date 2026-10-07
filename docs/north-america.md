@@ -1,6 +1,6 @@
 # North America
 
-85 institutions in 22 countries.
+87 institutions in 22 countries.
 
 ## AW (AW)
 
@@ -176,7 +176,7 @@ Data: [`data/north-america/TT.json`](../data/north-america/TT.json)
 | Category | Count |
 |---|---|
 | central | 14 |
-| commercial | 6 |
+| commercial | 8 |
 | investment | 17 |
 | mortgage | 1 |
 | neobank | 3 |

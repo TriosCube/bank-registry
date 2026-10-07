@@ -1,6 +1,6 @@
 # Europe
 
-330 institutions in 48 countries.
+331 institutions in 48 countries.
 
 ## AD (AD)
 
@@ -155,7 +155,7 @@ Data: [`data/europe/FR.json`](../data/europe/FR.json)
 | Category | Count |
 |---|---|
 | central | 2 |
-| commercial | 7 |
+| commercial | 8 |
 | investment | 6 |
 | mortgage | 1 |
 | neobank | 4 |

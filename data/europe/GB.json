@@ -102,6 +102,17 @@
   "website": "http://www.coutts.com/"
  },
  {
+  "id": "gb-hsbc-uk",
+  "name": "HSBC UK",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "bic": "HBUKGB4B"
+  },
+  "website": "https://www.hsbc.co.uk"
+ },
+ {
   "id": "gb-tandem-bank",
   "name": "Tandem Bank",
   "country": "GB",

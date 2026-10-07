@@ -1,17 +1,17 @@
 {
- "total": 907,
+ "total": 912,
  "withLogo": 549,
  "byRegion": {
-  "africa": 345,
+  "africa": 347,
   "asia": 103,
-  "europe": 330,
-  "north-america": 85,
+  "europe": 331,
+  "north-america": 87,
   "oceania": 14,
   "south-america": 30
  },
  "byCategory": {
   "central": 203,
-  "commercial": 330,
+  "commercial": 335,
   "payments": 33,
   "mortgage": 50,
   "mobile-money": 6,
@@ -79,9 +79,9 @@
   "FI": 6,
   "FJ": 1,
   "FR": 5,
-  "GB": 22,
+  "GB": 23,
   "GE": 2,
-  "GH": 3,
+  "GH": 4,
   "GM": 1,
   "GN": 1,
   "GR": 2,
@@ -192,7 +192,7 @@
   "TZ": 1,
   "UA": 1,
   "UG": 1,
-  "US": 53,
+  "US": 55,
   "UY": 2,
   "UZ": 1,
   "VA": 1,
@@ -204,7 +204,7 @@
   "XK": 1,
   "YE": 1,
   "YU": 2,
-  "ZA": 7,
+  "ZA": 8,
   "ZM": 1,
   "ZW": 1
  }

@@ -11,6 +11,17 @@
   "website": "http://www.bog.gov.gh/"
  },
  {
+  "id": "gh-absa-bank-ghana",
+  "name": "Absa Bank Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "BARCGHAC"
+  },
+  "website": "https://www.absa.com.gh"
+ },
+ {
   "id": "gh-bonzali-rural-bank",
   "name": "Bonzali Rural Bank",
   "country": "GH",

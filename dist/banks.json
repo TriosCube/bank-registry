@@ -168,6 +168,17 @@
   "website": "http://www.bog.gov.gh/"
  },
  {
+  "id": "gh-absa-bank-ghana",
+  "name": "Absa Bank Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "BARCGHAC"
+  },
+  "website": "https://www.absa.com.gh"
+ },
+ {
   "id": "gh-bonzali-rural-bank",
   "name": "Bonzali Rural Bank",
   "country": "GH",
@@ -4823,6 +4834,17 @@
    "wikidata": "Q912920"
   },
   "website": "http://www.reservebank.co.za/"
+ },
+ {
+  "id": "za-absa-bank",
+  "name": "Absa Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "ABSAZAJJ"
+  },
+  "website": "https://www.absa.co.za"
  },
  {
   "id": "za-mtn-mobile-money",
@@ -9798,6 +9820,17 @@
   "website": "http://www.coutts.com/"
  },
  {
+  "id": "gb-hsbc-uk",
+  "name": "HSBC UK",
+  "country": "GB",
+  "region": "europe",
+  "category": "commercial",
+  "codes": {
+   "bic": "HBUKGB4B"
+  },
+  "website": "https://www.hsbc.co.uk"
+ },
+ {
   "id": "gb-tandem-bank",
   "name": "Tandem Bank",
   "country": "GB",
@@ -11409,6 +11442,17 @@
   "website": "https://www.bankofthesierra.com/"
  },
  {
+  "id": "us-citibank",
+  "name": "Citibank, N.A.",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "bic": "CITIUS33"
+  },
+  "website": "https://www.citigroup.com"
+ },
+ {
   "id": "us-fidelity-bank",
   "name": "Fidelity Bank",
   "country": "US",
@@ -11424,6 +11468,17 @@
    "source": "https://commons.wikimedia.org/wiki/File:Fidelity_Bank%2C_National_Association_logo.svg",
    "license": "See Wikimedia Commons file page; trademark of its owner"
   }
+ },
+ {
+  "id": "us-jpmorgan-chase",
+  "name": "JPMorgan Chase",
+  "country": "US",
+  "region": "north-america",
+  "category": "commercial",
+  "codes": {
+   "bic": "CHASUS33"
+  },
+  "website": "https://www.jpmorganchase.com"
  },
  {
   "id": "us-lexicon-bank",

@@ -1,6 +1,6 @@
 # Africa
 
-345 institutions in 44 countries.
+347 institutions in 44 countries.
 
 ## AO (AO)
 
@@ -97,7 +97,7 @@ Data: [`data/africa/ET.json`](../data/africa/ET.json)
 | Category | Count |
 |---|---|
 | central | 1 |
-| commercial | 1 |
+| commercial | 2 |
 | mortgage | 1 |
 
 Data: [`data/africa/GH.json`](../data/africa/GH.json)
@@ -349,6 +349,7 @@ Data: [`data/africa/UG.json`](../data/africa/UG.json)
 | Category | Count |
 |---|---|
 | central | 1 |
+| commercial | 1 |
 | mobile-money | 1 |
 | neobank | 2 |
 | payments | 3 |

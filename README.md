@@ -4,23 +4,23 @@ An open, maintained registry of banks, microfinance banks, fintechs, neobanks an
 organised **by region, then country, then category**. Built to drive the picker lists in [Isura](https://github.com/TriosCube)
 and free for anyone to use.
 
-**907 institutions, 549 with logos.**
+**912 institutions, 549 with logos.**
 
 ## Coverage
 
 | Region | Countries | Institutions |
 |---|---|---|
-| [Africa](docs/africa.md) | 44 | 345 |
+| [Africa](docs/africa.md) | 44 | 347 |
 | [Asia](docs/asia.md) | 45 | 103 |
-| [Europe](docs/europe.md) | 48 | 330 |
-| [North America](docs/north-america.md) | 22 | 85 |
+| [Europe](docs/europe.md) | 48 | 331 |
+| [North America](docs/north-america.md) | 22 | 87 |
 | [Oceania](docs/oceania.md) | 11 | 14 |
 | [South America](docs/south-america.md) | 12 | 30 |
 
 ## Categories
 
 - `central`: 203
-- `commercial`: 330
+- `commercial`: 335
 - `development`: 4
 - `fintech`: 22
 - `investment`: 47

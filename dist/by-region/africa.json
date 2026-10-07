@@ -168,6 +168,17 @@
   "website": "http://www.bog.gov.gh/"
  },
  {
+  "id": "gh-absa-bank-ghana",
+  "name": "Absa Bank Ghana",
+  "country": "GH",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "BARCGHAC"
+  },
+  "website": "https://www.absa.com.gh"
+ },
+ {
   "id": "gh-bonzali-rural-bank",
   "name": "Bonzali Rural Bank",
   "country": "GH",
@@ -4823,6 +4834,17 @@
    "wikidata": "Q912920"
   },
   "website": "http://www.reservebank.co.za/"
+ },
+ {
+  "id": "za-absa-bank",
+  "name": "Absa Bank",
+  "country": "ZA",
+  "region": "africa",
+  "category": "commercial",
+  "codes": {
+   "bic": "ABSAZAJJ"
+  },
+  "website": "https://www.absa.co.za"
  },
  {
   "id": "za-mtn-mobile-money",
